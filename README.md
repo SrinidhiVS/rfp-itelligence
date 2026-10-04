@@ -320,3 +320,5 @@ duplicate Bid2. Do not interpret generated JSON or retrieval scores as adjudicat
 
 See the [multi-agent design](docs/multi-agent-design.md), [validation guide](docs/multi-agent-validation.md),
 and [architecture diagram](docs/architecture.md).
+
+Please do reach out to me through mail (sreenidhivs123@gmail.com) for further queries.
