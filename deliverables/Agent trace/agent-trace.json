@@ -1,0 +1,682 @@
+{
+  "trace_id": "50e06f62-528c-4e94-b847-af340181b455",
+  "run_id": "6d471186-c3ac-47fc-acf2-689a6b88f47f",
+  "delivery_status": "disabled",
+  "local_persistence_status": "disabled",
+  "events": [
+    {
+      "timestamp": "2026-10-03T17:31:20.363565+00:00",
+      "node": "Planner",
+      "event": "start",
+      "status": "ok",
+      "input_summary": "extract complete bid record",
+      "output_summary": null,
+      "error": null,
+      "latency_ms": null,
+      "token_usage": "unavailable",
+      "retry_count": 0
+    },
+    {
+      "timestamp": "2026-10-03T17:31:20.363565+00:00",
+      "node": "Planner",
+      "event": "end",
+      "status": "ok",
+      "input_summary": null,
+      "output_summary": {
+        "mode": "extraction",
+        "goal": "extract complete bid record",
+        "bid_ids": [
+          "Bid1"
+        ],
+        "field_groups": {
+          "submission": [
+            "submission_deadline",
+            "submission_method",
+            "solicitation_number"
+          ],
+          "commercial": [
+            "bid_bond",
+            "warranty",
+            "insurance"
+          ],
+          "compliance": [
+            "affidavits",
+            "mandatory_requirements",
+            "evaluation_criteria"
+          ],
+          "product": [
+            "model_number"
+          ]
+        },
+        "subtasks": [
+          "retrieve:submission_deadline",
+          "retrieve:submission_method",
+          "retrieve:solicitation_number",
+          "retrieve:bid_bond",
+          "retrieve:warranty",
+          "retrieve:insurance",
+          "retrieve:affidavits",
+          "retrieve:mandatory_requirements",
+          "retrieve:evaluation_criteria",
+          "retrieve:model_number"
+        ],
+        "unsupported_work": []
+      },
+      "error": null,
+      "latency_ms": 0.07379997987300158,
+      "token_usage": "unavailable",
+      "retry_count": 0
+    },
+    {
+      "timestamp": "2026-10-03T17:31:20.363565+00:00",
+      "node": "Ingestion",
+      "event": "start",
+      "status": "ok",
+      "input_summary": [
+        "Bid1"
+      ],
+      "output_summary": null,
+      "error": null,
+      "latency_ms": null,
+      "token_usage": "unavailable",
+      "retry_count": 0
+    },
+    {
+      "timestamp": "2026-10-03T17:31:20.418246+00:00",
+      "event_type": "tool_call",
+      "node": "bid_indexing",
+      "run_id": "6d471186-c3ac-47fc-acf2-689a6b88f47f",
+      "tool_call_id": "c9ed3d5d-3921-466d-9f19-d077136df90d",
+      "tool_name": "bid_indexing",
+      "status": "succeeded",
+      "input_summary": {
+        "bid_ids": [
+          "Bid1"
+        ]
+      },
+      "output_summary": {
+        "indexed": true,
+        "updated": false,
+        "diagnostic_count": 0
+      },
+      "error_summary": null,
+      "duration_ms": 49.228499992750585
+    },
+    {
+      "timestamp": "2026-10-03T17:31:20.418246+00:00",
+      "node": "Ingestion",
+      "event": "end",
+      "status": "ok",
+      "input_summary": null,
+      "output_summary": {
+        "available_bid_ids": [
+          "409736090529",
+          "690720783822",
+          "Bid1",
+          "Bid2",
+          "Bid3"
+        ],
+        "missing_bid_ids": [],
+        "indexed": true,
+        "updated": false,
+        "vector_index": null,
+        "diagnostics": []
+      },
+      "error": null,
+      "latency_ms": 49.387200007913634,
+      "token_usage": "unavailable",
+      "retry_count": 0
+    },
+    {
+      "timestamp": "2026-10-03T17:32:09.817314+00:00",
+      "event_type": "tool_call",
+      "node": "retrieval",
+      "run_id": "6d471186-c3ac-47fc-acf2-689a6b88f47f",
+      "tool_call_id": "49b5f3d1-24a4-4efc-aa14-433df792aaa6",
+      "tool_name": "retrieval",
+      "status": "succeeded",
+      "input_summary": {
+        "query": "evaluation criteria extract complete bid record",
+        "bid_ids": [
+          "Bid1"
+        ],
+        "top_k": null,
+        "filters": null
+      },
+      "output_summary": {
+        "result_count": 352,
+        "diagnostic_count": 0
+      },
+      "error_summary": null,
+      "duration_ms": 48590.1431000093
+    },
+    {
+      "timestamp": "2026-10-03T17:32:12.721464+00:00",
+      "event_type": "tool_call",
+      "node": "retrieval",
+      "run_id": "6d471186-c3ac-47fc-acf2-689a6b88f47f",
+      "tool_call_id": "fd9aa198-5f15-4a14-87f1-971fb746190b",
+      "tool_name": "retrieval",
+      "status": "succeeded",
+      "input_summary": {
+        "query": "mandatory requirements extract complete bid record",
+        "bid_ids": [
+          "Bid1"
+        ],
+        "top_k": null,
+        "filters": null
+      },
+      "output_summary": {
+        "result_count": 352,
+        "diagnostic_count": 0
+      },
+      "error_summary": null,
+      "duration_ms": 51722.12640001089
+    },
+    {
+      "timestamp": "2026-10-03T17:32:20.061129+00:00",
+      "event_type": "tool_call",
+      "node": "retrieval",
+      "run_id": "6d471186-c3ac-47fc-acf2-689a6b88f47f",
+      "tool_call_id": "8f7396fb-f9fe-4afb-a74c-5a48f4c3176c",
+      "tool_name": "retrieval",
+      "status": "succeeded",
+      "input_summary": {
+        "query": "bid bond extract complete bid record",
+        "bid_ids": [
+          "Bid1"
+        ],
+        "top_k": null,
+        "filters": null
+      },
+      "output_summary": {
+        "result_count": 352,
+        "diagnostic_count": 0
+      },
+      "error_summary": null,
+      "duration_ms": 59464.66200001305
+    },
+    {
+      "timestamp": "2026-10-03T17:32:22.260695+00:00",
+      "event_type": "tool_call",
+      "node": "retrieval",
+      "run_id": "6d471186-c3ac-47fc-acf2-689a6b88f47f",
+      "tool_call_id": "262b3b78-75d4-4690-a0ac-e64c8d13f829",
+      "tool_name": "retrieval",
+      "status": "succeeded",
+      "input_summary": {
+        "query": "insurance extract complete bid record",
+        "bid_ids": [
+          "Bid1"
+        ],
+        "top_k": null,
+        "filters": null
+      },
+      "output_summary": {
+        "result_count": 352,
+        "diagnostic_count": 0
+      },
+      "error_summary": null,
+      "duration_ms": 61413.88989999541
+    },
+    {
+      "timestamp": "2026-10-03T17:32:22.422744+00:00",
+      "event_type": "tool_call",
+      "node": "retrieval",
+      "run_id": "6d471186-c3ac-47fc-acf2-689a6b88f47f",
+      "tool_call_id": "7941db8a-b3ab-433f-942c-7a2cfbd051e3",
+      "tool_name": "retrieval",
+      "status": "succeeded",
+      "input_summary": {
+        "query": "warranty extract complete bid record",
+        "bid_ids": [
+          "Bid1"
+        ],
+        "top_k": null,
+        "filters": null
+      },
+      "output_summary": {
+        "result_count": 352,
+        "diagnostic_count": 0
+      },
+      "error_summary": null,
+      "duration_ms": 61751.427999988664
+    },
+    {
+      "timestamp": "2026-10-03T17:32:30.538142+00:00",
+      "event_type": "tool_call",
+      "node": "retrieval",
+      "run_id": "6d471186-c3ac-47fc-acf2-689a6b88f47f",
+      "tool_call_id": "48f45f97-1ee0-4af9-964f-a454455cc006",
+      "tool_name": "retrieval",
+      "status": "succeeded",
+      "input_summary": {
+        "query": "submission deadline extract complete bid record",
+        "bid_ids": [
+          "Bid1"
+        ],
+        "top_k": null,
+        "filters": null
+      },
+      "output_summary": {
+        "result_count": 352,
+        "diagnostic_count": 0
+      },
+      "error_summary": null,
+      "duration_ms": 70118.70799999451
+    },
+    {
+      "timestamp": "2026-10-03T17:32:33.159552+00:00",
+      "event_type": "tool_call",
+      "node": "retrieval",
+      "run_id": "6d471186-c3ac-47fc-acf2-689a6b88f47f",
+      "tool_call_id": "04ef457b-8b98-488f-a5f6-b61d626e3855",
+      "tool_name": "retrieval",
+      "status": "succeeded",
+      "input_summary": {
+        "query": "model number extract complete bid record",
+        "bid_ids": [
+          "Bid1"
+        ],
+        "top_k": null,
+        "filters": null
+      },
+      "output_summary": {
+        "result_count": 352,
+        "diagnostic_count": 0
+      },
+      "error_summary": null,
+      "duration_ms": 71808.46410000231
+    },
+    {
+      "timestamp": "2026-10-03T17:32:34.126124+00:00",
+      "event_type": "tool_call",
+      "node": "retrieval",
+      "run_id": "6d471186-c3ac-47fc-acf2-689a6b88f47f",
+      "tool_call_id": "98a715b0-adf4-4e63-bd4d-bd783acf3c05",
+      "tool_name": "retrieval",
+      "status": "succeeded",
+      "input_summary": {
+        "query": "solicitation number extract complete bid record",
+        "bid_ids": [
+          "Bid1"
+        ],
+        "top_k": null,
+        "filters": null
+      },
+      "output_summary": {
+        "result_count": 352,
+        "diagnostic_count": 0
+      },
+      "error_summary": null,
+      "duration_ms": 73602.55539999343
+    },
+    {
+      "timestamp": "2026-10-03T17:32:35.036373+00:00",
+      "event_type": "tool_call",
+      "node": "retrieval",
+      "run_id": "6d471186-c3ac-47fc-acf2-689a6b88f47f",
+      "tool_call_id": "1af414c1-aad1-4c14-9458-0126533a7bb5",
+      "tool_name": "retrieval",
+      "status": "succeeded",
+      "input_summary": {
+        "query": "affidavits extract complete bid record",
+        "bid_ids": [
+          "Bid1"
+        ],
+        "top_k": null,
+        "filters": null
+      },
+      "output_summary": {
+        "result_count": 352,
+        "diagnostic_count": 0
+      },
+      "error_summary": null,
+      "duration_ms": 74068.58209997881
+    },
+    {
+      "timestamp": "2026-10-03T17:32:35.688706+00:00",
+      "event_type": "tool_call",
+      "node": "retrieval",
+      "run_id": "6d471186-c3ac-47fc-acf2-689a6b88f47f",
+      "tool_call_id": "137d4fab-f16d-4afb-895f-f927911c9029",
+      "tool_name": "retrieval",
+      "status": "succeeded",
+      "input_summary": {
+        "query": "submission method extract complete bid record",
+        "bid_ids": [
+          "Bid1"
+        ],
+        "top_k": null,
+        "filters": null
+      },
+      "output_summary": {
+        "result_count": 352,
+        "diagnostic_count": 0
+      },
+      "error_summary": null,
+      "duration_ms": 75248.74209999689
+    },
+    {
+      "timestamp": "2026-10-03T17:32:35.688706+00:00",
+      "node": "Retrieval",
+      "event": "end",
+      "status": "ok",
+      "input_summary": "submission deadline extract complete bid record",
+      "output_summary": {
+        "result_count": 352
+      },
+      "error": null,
+      "latency_ms": null,
+      "token_usage": "unavailable",
+      "retry_count": 0
+    },
+    {
+      "timestamp": "2026-10-03T17:32:35.688706+00:00",
+      "node": "Retrieval",
+      "event": "end",
+      "status": "ok",
+      "input_summary": "submission method extract complete bid record",
+      "output_summary": {
+        "result_count": 352
+      },
+      "error": null,
+      "latency_ms": null,
+      "token_usage": "unavailable",
+      "retry_count": 0
+    },
+    {
+      "timestamp": "2026-10-03T17:32:35.688706+00:00",
+      "node": "Retrieval",
+      "event": "end",
+      "status": "ok",
+      "input_summary": "solicitation number extract complete bid record",
+      "output_summary": {
+        "result_count": 352
+      },
+      "error": null,
+      "latency_ms": null,
+      "token_usage": "unavailable",
+      "retry_count": 0
+    },
+    {
+      "timestamp": "2026-10-03T17:32:35.688706+00:00",
+      "node": "Retrieval",
+      "event": "end",
+      "status": "ok",
+      "input_summary": "bid bond extract complete bid record",
+      "output_summary": {
+        "result_count": 352
+      },
+      "error": null,
+      "latency_ms": null,
+      "token_usage": "unavailable",
+      "retry_count": 0
+    },
+    {
+      "timestamp": "2026-10-03T17:32:35.688706+00:00",
+      "node": "Retrieval",
+      "event": "end",
+      "status": "ok",
+      "input_summary": "warranty extract complete bid record",
+      "output_summary": {
+        "result_count": 352
+      },
+      "error": null,
+      "latency_ms": null,
+      "token_usage": "unavailable",
+      "retry_count": 0
+    },
+    {
+      "timestamp": "2026-10-03T17:32:35.688706+00:00",
+      "node": "Retrieval",
+      "event": "end",
+      "status": "ok",
+      "input_summary": "insurance extract complete bid record",
+      "output_summary": {
+        "result_count": 352
+      },
+      "error": null,
+      "latency_ms": null,
+      "token_usage": "unavailable",
+      "retry_count": 0
+    },
+    {
+      "timestamp": "2026-10-03T17:32:35.688706+00:00",
+      "node": "Retrieval",
+      "event": "end",
+      "status": "ok",
+      "input_summary": "affidavits extract complete bid record",
+      "output_summary": {
+        "result_count": 352
+      },
+      "error": null,
+      "latency_ms": null,
+      "token_usage": "unavailable",
+      "retry_count": 0
+    },
+    {
+      "timestamp": "2026-10-03T17:32:35.688706+00:00",
+      "node": "Retrieval",
+      "event": "end",
+      "status": "ok",
+      "input_summary": "mandatory requirements extract complete bid record",
+      "output_summary": {
+        "result_count": 352
+      },
+      "error": null,
+      "latency_ms": null,
+      "token_usage": "unavailable",
+      "retry_count": 0
+    },
+    {
+      "timestamp": "2026-10-03T17:32:35.688706+00:00",
+      "node": "Retrieval",
+      "event": "end",
+      "status": "ok",
+      "input_summary": "evaluation criteria extract complete bid record",
+      "output_summary": {
+        "result_count": 352
+      },
+      "error": null,
+      "latency_ms": null,
+      "token_usage": "unavailable",
+      "retry_count": 0
+    },
+    {
+      "timestamp": "2026-10-03T17:32:35.688706+00:00",
+      "node": "Retrieval",
+      "event": "end",
+      "status": "ok",
+      "input_summary": "model number extract complete bid record",
+      "output_summary": {
+        "result_count": 352
+      },
+      "error": null,
+      "latency_ms": null,
+      "token_usage": "unavailable",
+      "retry_count": 0
+    },
+    {
+      "timestamp": "2026-10-03T17:32:35.746882+00:00",
+      "node": "Extraction",
+      "event": "start",
+      "status": "ok",
+      "input_summary": {
+        "mode": "extraction",
+        "evidence_count": 359
+      },
+      "output_summary": null,
+      "error": null,
+      "latency_ms": null,
+      "token_usage": "unavailable",
+      "retry_count": 0
+    },
+    {
+      "timestamp": "2026-10-03T17:32:35.746882+00:00",
+      "event_type": "model_call",
+      "node": "Extraction",
+      "run_id": "6d471186-c3ac-47fc-acf2-689a6b88f47f",
+      "call_id": "55d2a2ac-ffce-4b73-863c-8d363963ed4d",
+      "status": "succeeded",
+      "duration_ms": 0.052800023695454,
+      "usage": {
+        "provider": null,
+        "model": null,
+        "input_tokens": null,
+        "output_tokens": null,
+        "total_tokens": null,
+        "availability": "unavailable"
+      }
+    },
+    {
+      "timestamp": "2026-10-03T17:32:35.778804+00:00",
+      "event_type": "model_call",
+      "node": "Extraction",
+      "run_id": "6d471186-c3ac-47fc-acf2-689a6b88f47f",
+      "call_id": "e397f61f-7d3e-4008-bc89-4c42043f2551",
+      "status": "succeeded",
+      "duration_ms": 0.10549998842179775,
+      "usage": {
+        "provider": null,
+        "model": null,
+        "input_tokens": null,
+        "output_tokens": null,
+        "total_tokens": null,
+        "availability": "unavailable"
+      }
+    },
+    {
+      "timestamp": "2026-10-03T17:32:35.790880+00:00",
+      "event_type": "model_call",
+      "node": "Extraction",
+      "run_id": "6d471186-c3ac-47fc-acf2-689a6b88f47f",
+      "call_id": "48fe9d88-81f8-4a61-8fef-7d58735af529",
+      "status": "succeeded",
+      "duration_ms": 0.015199999324977398,
+      "usage": {
+        "provider": null,
+        "model": null,
+        "input_tokens": null,
+        "output_tokens": null,
+        "total_tokens": null,
+        "availability": "unavailable"
+      }
+    },
+    {
+      "timestamp": "2026-10-03T17:32:35.798283+00:00",
+      "event_type": "model_call",
+      "node": "Extraction",
+      "run_id": "6d471186-c3ac-47fc-acf2-689a6b88f47f",
+      "call_id": "069e3341-e0d1-43bd-b9b4-1f0e527b06bd",
+      "status": "succeeded",
+      "duration_ms": 0.031200004741549492,
+      "usage": {
+        "provider": null,
+        "model": null,
+        "input_tokens": null,
+        "output_tokens": null,
+        "total_tokens": null,
+        "availability": "unavailable"
+      }
+    },
+    {
+      "timestamp": "2026-10-03T17:32:35.819457+00:00",
+      "node": "Extraction",
+      "event": "end",
+      "status": "ok",
+      "input_summary": null,
+      "output_summary": {
+        "field_count": 10
+      },
+      "error": null,
+      "latency_ms": null,
+      "token_usage": "unavailable",
+      "retry_count": 0
+    },
+    {
+      "timestamp": "2026-10-03T17:32:35.853834+00:00",
+      "node": "Reconciliation",
+      "event": "start",
+      "status": "ok",
+      "input_summary": {
+        "mode": "extraction"
+      },
+      "output_summary": null,
+      "error": null,
+      "latency_ms": null,
+      "token_usage": "unavailable",
+      "retry_count": 0
+    },
+    {
+      "timestamp": "2026-10-03T17:32:35.857866+00:00",
+      "node": "Reconciliation",
+      "event": "end",
+      "status": "ok",
+      "input_summary": null,
+      "output_summary": {
+        "change_count": 1
+      },
+      "error": null,
+      "latency_ms": null,
+      "token_usage": "unavailable",
+      "retry_count": 0
+    },
+    {
+      "timestamp": "2026-10-03T17:32:35.898395+00:00",
+      "node": "Validation",
+      "event": "start",
+      "status": "ok",
+      "input_summary": {
+        "mode": "extraction"
+      },
+      "output_summary": null,
+      "error": null,
+      "latency_ms": null,
+      "token_usage": "unavailable",
+      "retry_count": 0
+    },
+    {
+      "timestamp": "2026-10-03T17:32:35.905949+00:00",
+      "node": "Validation",
+      "event": "end",
+      "status": "ok",
+      "input_summary": null,
+      "output_summary": {
+        "result_count": 10
+      },
+      "error": null,
+      "latency_ms": null,
+      "token_usage": "unavailable",
+      "retry_count": 0
+    },
+    {
+      "timestamp": "2026-10-03T17:32:35.955470+00:00",
+      "node": "Report",
+      "event": "start",
+      "status": "ok",
+      "input_summary": {
+        "mode": "extraction"
+      },
+      "output_summary": null,
+      "error": null,
+      "latency_ms": null,
+      "token_usage": "unavailable",
+      "retry_count": 0
+    },
+    {
+      "timestamp": "2026-10-03T17:32:35.955470+00:00",
+      "node": "Report",
+      "event": "end",
+      "status": "ok",
+      "input_summary": null,
+      "output_summary": {
+        "status": "partial"
+      },
+      "error": null,
+      "latency_ms": null,
+      "token_usage": "unavailable",
+      "retry_count": 0
+    }
+  ]
+}

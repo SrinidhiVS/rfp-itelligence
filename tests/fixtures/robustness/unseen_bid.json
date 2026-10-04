@@ -1,0 +1,26 @@
+{
+  "bid_id": "UnseenWaterQuality",
+  "notice_source": "unseen_notice.html",
+  "notice_path": "portal/notices/notice.html",
+  "specification_path": "attachments/technical-specification.pdf",
+  "pdf_pages": [
+    [
+      "Product specification: Portable Water Quality Monitoring Unit",
+      "Product: Portable Water Quality Monitoring Unit",
+      "Model number: AquaSense M4",
+      "Calibration interval: 180 days",
+      "Submission deadline: December 3, 2026"
+    ]
+  ],
+  "qa_question": "What is the submission deadline for the water quality monitoring units?",
+  "qa_expected_answer": "December 3, 2026",
+  "qa_source_file": "technical-specification.pdf",
+  "extraction_expected": {
+    "Title": "Field Water Quality Monitoring Units",
+    "Due Date": "2026-12-03"
+  },
+  "extraction_source_files": {
+    "Title": "notice.html",
+    "Due Date": "technical-specification.pdf"
+  }
+}

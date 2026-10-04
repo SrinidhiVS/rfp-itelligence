@@ -1,0 +1,1 @@
+{"run_id":"extract-1","status":"completed","output":{"fields":{"Due Date":{"value":"October 20","status":"supported","confidence":0.9,"notes":"Current deadline","citations":[{"file":"addendum.pdf","page":1,"bid_id":"Bid1"}]}},"addendum_changes":[],"validation":[],"summary":"complete"},"diagnostics":[],"trace_reference":"trace-extract","evaluation":{}}

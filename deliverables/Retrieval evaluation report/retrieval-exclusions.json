@@ -1,0 +1,60 @@
+[
+  {
+    "case": {
+      "case_id": "C001",
+      "query": "JA-207652",
+      "expected_record_ids": [
+        "650b0d740b417c584c2c74b7"
+      ],
+      "bid_id": "Bid1",
+      "category": "exact",
+      "expected_passages": [
+        {
+          "record_id": "650b0d740b417c584c2c74b7",
+          "excerpt": "JA-207652 Student and Staff Computing Devices",
+          "bid_id": "Bid1",
+          "source_file": "JA-207652 Student and Staff Computing Devices FINAL.pdf",
+          "page_number": 4
+        }
+      ]
+    },
+    "reason": "C001: labeled source excerpt no longer exists; review the case against the documents"
+  },
+  {
+    "case": {
+      "case_id": "C016",
+      "query": "Request For Proposal 168884",
+      "expected_record_ids": [
+        "11d8cdec04c62db862cbc17e",
+        "3df08ce7254746286149ae51",
+        "62d9e03696a1a230d9f19473"
+      ],
+      "bid_id": "Bid1",
+      "category": "exact",
+      "expected_passages": [
+        {
+          "record_id": "11d8cdec04c62db862cbc17e",
+          "excerpt": "Request For Proposal 168884",
+          "bid_id": "Bid1",
+          "source_file": "JA-207652 Student and Staff Computing Devices FINAL.pdf",
+          "page_number": 1
+        },
+        {
+          "record_id": "3df08ce7254746286149ae51",
+          "excerpt": "Request For Proposal 168884",
+          "bid_id": "Bid1",
+          "source_file": "JA-207652 Student and Staff Computing Devices FINAL.pdf",
+          "page_number": 5
+        },
+        {
+          "record_id": "62d9e03696a1a230d9f19473",
+          "excerpt": "Request For Proposal 168884",
+          "bid_id": "Bid1",
+          "source_file": "JA-207652 Student and Staff Computing Devices FINAL.pdf",
+          "page_number": 6
+        }
+      ]
+    },
+    "reason": "C016: labeled source excerpt no longer exists; review the case against the documents"
+  }
+]

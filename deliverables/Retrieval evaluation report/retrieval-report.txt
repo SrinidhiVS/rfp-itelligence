@@ -1,0 +1,43 @@
+Retrieval Evaluation
+Measured: 2026-10-03T23:04:44.129160+00:00
+Questions: 19. Corpus records: 497. Cutoff: 5.
+Excluded before evaluation: 2 stale heading-only labels. Details are in retrieval-exclusions.json.
+
+Configurations
+Configuration: semantic-only
+Recall at 5: 0.5263
+MRR: 0.3439
+Actual mode: indexed-vector
+Reranker: heuristic
+
+Configuration: hybrid
+Recall at 5: 0.4737
+MRR: 0.2421
+Actual mode: indexed-hybrid
+Reranker: heuristic
+
+Metric definitions
+Recall at 5 is the mean fraction of labeled passages found in the first 5 results. MRR uses the first relevant rank within that cutoff. A not-found case scores 1 only when no results are returned.
+These measurements describe this small labeled collection, not general procurement accuracy. Semantic fallback is not counted as a successful indexed run.
+Labels retain the original question, source, page, and excerpt. IDs are mapped to the shortest matching current chunk after ingestion; this is not a like-for-like comparison with older chunking snapshots.
+
+Question Set
+C002 (Bid2): Dell laptop warranty
+C003 (Bid1): submission deadline
+C004 (Bid1): bid bond
+C005 (Bid2): affidavit
+C006 (Bid2): model number
+C007 (Bid1): replacement parts warranty
+C008 (Bid2): delivery date
+C009 (Bid1): Addendum 2 changes
+C010 (Bid2): CPU RAM storage
+C011 (Bid1): payment terms
+C012 (Bid1): pre bid meeting
+C013 (Bid2): issuing organization
+C014 (both): compare warranty
+C015 (both): ZXQ-UNAVAILABLE-9981
+C017 (Bid2): Dell Latitude 5550 SKU 210-BLYZ
+C018 (Bid2): part number 338-CNRG
+C019 (Bid1): white glove shipping services
+C020 (Bid1): USB 3.1 minimum requirement addendum
+C021 (NonexistentBid-010): warranty requirements

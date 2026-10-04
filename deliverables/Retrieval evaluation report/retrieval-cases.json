@@ -1,0 +1,5060 @@
+[
+  {
+    "case_id": "C002",
+    "query": "Dell laptop warranty",
+    "expected_record_ids": [
+      "d0fb8e3135b8f71215fba236"
+    ],
+    "bid_id": "Bid2",
+    "category": "concept",
+    "expected_passages": [
+      {
+        "record_id": "d0fb8e3135b8f71215fba236",
+        "excerpt": "Extended Warranty)",
+        "bid_id": "Bid2",
+        "source_file": "PORFP_-_Dell_Laptop_Final.pdf",
+        "page_number": 1,
+        "source_locator": {
+          "page_number": 1,
+          "block_index": 3,
+          "line_index": 1,
+          "bbox": [
+            535.9199829101562,
+            740.8800048828125,
+            544.9199829101562,
+            757.0440063476562
+          ],
+          "relative_path": "PORFP_-_Dell_Laptop_Final.pdf",
+          "section_title": "Hardware Master Contract",
+          "heading_path": [
+            "Purchase Order Request for Proposals (PORFP)",
+            "Hardware Master Contract"
+          ],
+          "page_ids": [
+            "cfe3da8ab92a1ccb"
+          ],
+          "page_numbers": [
+            1
+          ],
+          "section_ids": [
+            "cfe3da8ab92a1ccb-section-2",
+            "cfe3da8ab92a1ccb-section-3",
+            "cfe3da8ab92a1ccb-section-4",
+            "cfe3da8ab92a1ccb-section-5",
+            "cfe3da8ab92a1ccb-section-6",
+            "cfe3da8ab92a1ccb-section-7",
+            "cfe3da8ab92a1ccb-section-8",
+            "cfe3da8ab92a1ccb-section-9",
+            "cfe3da8ab92a1ccb-section-10",
+            "cfe3da8ab92a1ccb-section-11",
+            "cfe3da8ab92a1ccb-section-12",
+            "cfe3da8ab92a1ccb-section-13",
+            "cfe3da8ab92a1ccb-section-14",
+            "cfe3da8ab92a1ccb-section-15",
+            "cfe3da8ab92a1ccb-section-16",
+            "cfe3da8ab92a1ccb-section-17",
+            "cfe3da8ab92a1ccb-section-18",
+            "cfe3da8ab92a1ccb-section-19",
+            "cfe3da8ab92a1ccb-section-20",
+            "cfe3da8ab92a1ccb-section-21",
+            "cfe3da8ab92a1ccb-section-22",
+            "cfe3da8ab92a1ccb-section-23",
+            "cfe3da8ab92a1ccb-section-24",
+            "cfe3da8ab92a1ccb-section-25",
+            "cfe3da8ab92a1ccb-section-26",
+            "cfe3da8ab92a1ccb-section-27",
+            "cfe3da8ab92a1ccb-section-28",
+            "cfe3da8ab92a1ccb-section-29",
+            "cfe3da8ab92a1ccb-section-30",
+            "cfe3da8ab92a1ccb-section-31",
+            "cfe3da8ab92a1ccb-section-32",
+            "cfe3da8ab92a1ccb-section-33",
+            "cfe3da8ab92a1ccb-section-34",
+            "cfe3da8ab92a1ccb-section-35",
+            "cfe3da8ab92a1ccb-section-36",
+            "cfe3da8ab92a1ccb-section-37",
+            "cfe3da8ab92a1ccb-section-38",
+            "cfe3da8ab92a1ccb-section-39",
+            "cfe3da8ab92a1ccb-section-40",
+            "cfe3da8ab92a1ccb-section-41"
+          ],
+          "source_segments": [
+            {
+              "page_id": "cfe3da8ab92a1ccb",
+              "page_number": 1,
+              "source_locator": {
+                "page_number": 1,
+                "block_index": 3,
+                "line_index": 1,
+                "bbox": [
+                  535.9199829101562,
+                  740.8800048828125,
+                  544.9199829101562,
+                  757.0440063476562
+                ],
+                "relative_path": "PORFP_-_Dell_Laptop_Final.pdf"
+              },
+              "section_id": "cfe3da8ab92a1ccb-section-2"
+            },
+            {
+              "page_id": "cfe3da8ab92a1ccb",
+              "page_number": 1,
+              "source_locator": {
+                "page_number": 1,
+                "block_index": 4,
+                "line_index": 1,
+                "bbox": [
+                  233.16000366210938,
+                  95.16290283203125,
+                  414.1630859375,
+                  108.85791015625
+                ],
+                "relative_path": "PORFP_-_Dell_Laptop_Final.pdf"
+              },
+              "section_id": "cfe3da8ab92a1ccb-section-3"
+            },
+            {
+              "page_id": "cfe3da8ab92a1ccb",
+              "page_number": 1,
+              "source_locator": {
+                "page_number": 1,
+                "block_index": 5,
+                "line_index": 1,
+                "bbox": [
+                  75.5999984741211,
+                  123.962890625,
+                  168.76632690429688,
+                  137.65789794921875
+                ],
+                "relative_path": "PORFP_-_Dell_Laptop_Final.pdf"
+              },
+              "section_id": "cfe3da8ab92a1ccb-section-4"
+            },
+            {
+              "page_id": "cfe3da8ab92a1ccb",
+              "page_number": 1,
+              "source_locator": {
+                "page_number": 1,
+                "block_index": 6,
+                "line_index": 0,
+                "bbox": [
+                  234.0,
+                  123.962890625,
+                  324.28631591796875,
+                  137.65789794921875
+                ],
+                "relative_path": "PORFP_-_Dell_Laptop_Final.pdf"
+              },
+              "section_id": "cfe3da8ab92a1ccb-section-5"
+            },
+            {
+              "page_id": "cfe3da8ab92a1ccb",
+              "page_number": 1,
+              "source_locator": {
+                "page_number": 1,
+                "block_index": 6,
+                "line_index": 1,
+                "bbox": [
+                  234.0,
+                  136.0828857421875,
+                  424.2259216308594,
+                  149.77789306640625
+                ],
+                "relative_path": "PORFP_-_Dell_Laptop_Final.pdf"
+              },
+              "section_id": "cfe3da8ab92a1ccb-section-6"
+            },
+            {
+              "page_id": "cfe3da8ab92a1ccb",
+              "page_number": 1,
+              "source_locator": {
+                "page_number": 1,
+                "block_index": 6,
+                "line_index": 2,
+                "bbox": [
+                  75.5999984741211,
+                  148.8028564453125,
+                  150.88632202148438,
+                  162.49786376953125
+                ],
+                "relative_path": "PORFP_-_Dell_Laptop_Final.pdf"
+              },
+              "section_id": "cfe3da8ab92a1ccb-section-7"
+            },
+            {
+              "page_id": "cfe3da8ab92a1ccb",
+              "page_number": 1,
+              "source_locator": {
+                "page_number": 1,
+                "block_index": 7,
+                "line_index": 0,
+                "bbox": [
+                  234.0,
+                  149.01202392578125,
+                  291.86590576171875,
+                  162.49786376953125
+                ],
+                "relative_path": "PORFP_-_Dell_Laptop_Final.pdf"
+              },
+              "section_id": "cfe3da8ab92a1ccb-section-8"
+            },
+            {
+              "page_id": "cfe3da8ab92a1ccb",
+              "page_number": 1,
+              "source_locator": {
+                "page_number": 1,
+                "block_index": 8,
+                "line_index": 0,
+                "bbox": [
+                  75.5999984741211,
+                  175.682861328125,
+                  208.48509216308594,
+                  189.37786865234375
+                ],
+                "relative_path": "PORFP_-_Dell_Laptop_Final.pdf"
+              },
+              "section_id": "cfe3da8ab92a1ccb-section-9"
+            },
+            {
+              "page_id": "cfe3da8ab92a1ccb",
+              "page_number": 1,
+              "source_locator": {
+                "page_number": 1,
+                "block_index": 8,
+                "line_index": 1,
+                "bbox": [
+                  75.5999984741211,
+                  187.9228515625,
+                  164.44320678710938,
+                  201.61785888671875
+                ],
+                "relative_path": "PORFP_-_Dell_Laptop_Final.pdf"
+              },
+              "section_id": "cfe3da8ab92a1ccb-section-10"
+            },
+            {
+              "page_id": "cfe3da8ab92a1ccb",
+              "page_number": 1,
+              "source_locator": {
+                "page_number": 1,
+                "block_index": 9,
+                "line_index": 0,
+                "bbox": [
+                  246.1199951171875,
+                  175.89202880859375,
+                  462.9859313964844,
+                  189.37786865234375
+                ],
+                "relative_path": "PORFP_-_Dell_Laptop_Final.pdf"
+              },
+              "section_id": "cfe3da8ab92a1ccb-section-11"
+            },
+            {
+              "page_id": "cfe3da8ab92a1ccb",
+              "page_number": 1,
+              "source_locator": {
+                "page_number": 1,
+                "block_index": 9,
+                "line_index": 1,
+                "bbox": [
+                  246.1199951171875,
+                  188.13201904296875,
+                  463.69622802734375,
+                  201.61785888671875
+                ],
+                "relative_path": "PORFP_-_Dell_Laptop_Final.pdf"
+              },
+              "section_id": "cfe3da8ab92a1ccb-section-12"
+            },
+            {
+              "page_id": "cfe3da8ab92a1ccb",
+              "page_number": 1,
+              "source_locator": {
+                "page_number": 1,
+                "block_index": 9,
+                "line_index": 4,
+                "bbox": [
+                  75.5999984741211,
+                  224.88287353515625,
+                  190.24632263183594,
+                  238.577880859375
+                ],
+                "relative_path": "PORFP_-_Dell_Laptop_Final.pdf"
+              },
+              "section_id": "cfe3da8ab92a1ccb-section-13"
+            },
+            {
+              "page_id": "cfe3da8ab92a1ccb",
+              "page_number": 1,
+              "source_locator": {
+                "page_number": 1,
+                "block_index": 10,
+                "line_index": 0,
+                "bbox": [
+                  234.0,
+                  224.88287353515625,
+                  259.1263122558594,
+                  238.577880859375
+                ],
+                "relative_path": "PORFP_-_Dell_Laptop_Final.pdf"
+              },
+              "section_id": "cfe3da8ab92a1ccb-section-14"
+            },
+            {
+              "page_id": "cfe3da8ab92a1ccb",
+              "page_number": 1,
+              "source_locator": {
+                "page_number": 1,
+                "block_index": 10,
+                "line_index": 2,
+                "bbox": [
+                  75.5999984741211,
+                  249.6029052734375,
+                  176.80746459960938,
+                  263.29791259765625
+                ],
+                "relative_path": "PORFP_-_Dell_Laptop_Final.pdf"
+              },
+              "section_id": "cfe3da8ab92a1ccb-section-15"
+            },
+            {
+              "page_id": "cfe3da8ab92a1ccb",
+              "page_number": 1,
+              "source_locator": {
+                "page_number": 1,
+                "block_index": 10,
+                "line_index": 3,
+                "bbox": [
+                  75.5999984741211,
+                  261.8428955078125,
+                  220.83673095703125,
+                  275.53790283203125
+                ],
+                "relative_path": "PORFP_-_Dell_Laptop_Final.pdf"
+              },
+              "section_id": "cfe3da8ab92a1ccb-section-16"
+            },
+            {
+              "page_id": "cfe3da8ab92a1ccb",
+              "page_number": 1,
+              "source_locator": {
+                "page_number": 1,
+                "block_index": 11,
+                "line_index": 0,
+                "bbox": [
+                  234.0,
+                  249.81207275390625,
+                  254.78591918945312,
+                  263.29791259765625
+                ],
+                "relative_path": "PORFP_-_Dell_Laptop_Final.pdf"
+              },
+              "section_id": "cfe3da8ab92a1ccb-section-17"
+            },
+            {
+              "page_id": "cfe3da8ab92a1ccb",
+              "page_number": 1,
+              "source_locator": {
+                "page_number": 1,
+                "block_index": 12,
+                "line_index": 0,
+                "bbox": [
+                  102.23999786376953,
+                  286.5628662109375,
+                  424.8463134765625,
+                  300.25787353515625
+                ],
+                "relative_path": "PORFP_-_Dell_Laptop_Final.pdf"
+              },
+              "section_id": "cfe3da8ab92a1ccb-section-18"
+            },
+            {
+              "page_id": "cfe3da8ab92a1ccb",
+              "page_number": 1,
+              "source_locator": {
+                "page_number": 1,
+                "block_index": 12,
+                "line_index": 1,
+                "bbox": [
+                  79.19999694824219,
+                  298.8028869628906,
+                  447.9859313964844,
+                  312.4978942871094
+                ],
+                "relative_path": "PORFP_-_Dell_Laptop_Final.pdf"
+              },
+              "section_id": "cfe3da8ab92a1ccb-section-19"
+            },
+            {
+              "page_id": "cfe3da8ab92a1ccb",
+              "page_number": 1,
+              "source_locator": {
+                "page_number": 1,
+                "block_index": 13,
+                "line_index": 0,
+                "bbox": [
+                  459.0,
+                  286.77203369140625,
+                  483.14593505859375,
+                  300.25787353515625
+                ],
+                "relative_path": "PORFP_-_Dell_Laptop_Final.pdf"
+              },
+              "section_id": "cfe3da8ab92a1ccb-section-20"
+            },
+            {
+              "page_id": "cfe3da8ab92a1ccb",
+              "page_number": 1,
+              "source_locator": {
+                "page_number": 1,
+                "block_index": 14,
+                "line_index": 0,
+                "bbox": [
+                  75.5999984741211,
+                  311.4028625488281,
+                  184.6063232421875,
+                  325.0978698730469
+                ],
+                "relative_path": "PORFP_-_Dell_Laptop_Final.pdf"
+              },
+              "section_id": "cfe3da8ab92a1ccb-section-21"
+            },
+            {
+              "page_id": "cfe3da8ab92a1ccb",
+              "page_number": 1,
+              "source_locator": {
+                "page_number": 1,
+                "block_index": 14,
+                "line_index": 1,
+                "bbox": [
+                  75.5999984741211,
+                  323.52288818359375,
+                  143.6863250732422,
+                  337.2178955078125
+                ],
+                "relative_path": "PORFP_-_Dell_Laptop_Final.pdf"
+              },
+              "section_id": "cfe3da8ab92a1ccb-section-22"
+            },
+            {
+              "page_id": "cfe3da8ab92a1ccb",
+              "page_number": 1,
+              "source_locator": {
+                "page_number": 1,
+                "block_index": 15,
+                "line_index": 0,
+                "bbox": [
+                  234.0,
+                  311.6120300292969,
+                  297.50592041015625,
+                  325.0978698730469
+                ],
+                "relative_path": "PORFP_-_Dell_Laptop_Final.pdf"
+              },
+              "section_id": "cfe3da8ab92a1ccb-section-23"
+            },
+            {
+              "page_id": "cfe3da8ab92a1ccb",
+              "page_number": 1,
+              "source_locator": {
+                "page_number": 1,
+                "block_index": 15,
+                "line_index": 1,
+                "bbox": [
+                  351.3599853515625,
+                  311.4028625488281,
+                  442.1233825683594,
+                  325.0978698730469
+                ],
+                "relative_path": "PORFP_-_Dell_Laptop_Final.pdf"
+              },
+              "section_id": "cfe3da8ab92a1ccb-section-24"
+            },
+            {
+              "page_id": "cfe3da8ab92a1ccb",
+              "page_number": 1,
+              "source_locator": {
+                "page_number": 1,
+                "block_index": 15,
+                "line_index": 2,
+                "bbox": [
+                  350.0400085449219,
+                  323.52288818359375,
+                  443.5459289550781,
+                  337.2178955078125
+                ],
+                "relative_path": "PORFP_-_Dell_Laptop_Final.pdf"
+              },
+              "section_id": "cfe3da8ab92a1ccb-section-25"
+            },
+            {
+              "page_id": "cfe3da8ab92a1ccb",
+              "page_number": 1,
+              "source_locator": {
+                "page_number": 1,
+                "block_index": 16,
+                "line_index": 0,
+                "bbox": [
+                  459.0,
+                  311.6120300292969,
+                  522.5059204101562,
+                  325.0978698730469
+                ],
+                "relative_path": "PORFP_-_Dell_Laptop_Final.pdf"
+              },
+              "section_id": "cfe3da8ab92a1ccb-section-26"
+            },
+            {
+              "page_id": "cfe3da8ab92a1ccb",
+              "page_number": 1,
+              "source_locator": {
+                "page_number": 1,
+                "block_index": 17,
+                "line_index": 0,
+                "bbox": [
+                  75.5999984741211,
+                  336.2428894042969,
+                  202.84632873535156,
+                  349.9378967285156
+                ],
+                "relative_path": "PORFP_-_Dell_Laptop_Final.pdf"
+              },
+              "section_id": "cfe3da8ab92a1ccb-section-27"
+            },
+            {
+              "page_id": "cfe3da8ab92a1ccb",
+              "page_number": 1,
+              "source_locator": {
+                "page_number": 1,
+                "block_index": 17,
+                "line_index": 1,
+                "bbox": [
+                  234.0,
+                  336.4520568847656,
+                  375.9859313964844,
+                  349.9378967285156
+                ],
+                "relative_path": "PORFP_-_Dell_Laptop_Final.pdf"
+              },
+              "section_id": "cfe3da8ab92a1ccb-section-28"
+            },
+            {
+              "page_id": "cfe3da8ab92a1ccb",
+              "page_number": 1,
+              "source_locator": {
+                "page_number": 1,
+                "block_index": 17,
+                "line_index": 2,
+                "bbox": [
+                  234.0,
+                  348.5720520019531,
+                  324.0284423828125,
+                  362.0578918457031
+                ],
+                "relative_path": "PORFP_-_Dell_Laptop_Final.pdf"
+              },
+              "section_id": "cfe3da8ab92a1ccb-section-29"
+            },
+            {
+              "page_id": "cfe3da8ab92a1ccb",
+              "page_number": 1,
+              "source_locator": {
+                "page_number": 1,
+                "block_index": 17,
+                "line_index": 3,
+                "bbox": [
+                  234.0,
+                  360.6920471191406,
+                  340.9459228515625,
+                  374.1778869628906
+                ],
+                "relative_path": "PORFP_-_Dell_Laptop_Final.pdf"
+              },
+              "section_id": "cfe3da8ab92a1ccb-section-30"
+            },
+            {
+              "page_id": "cfe3da8ab92a1ccb",
+              "page_number": 1,
+              "source_locator": {
+                "page_number": 1,
+                "block_index": 17,
+                "line_index": 4,
+                "bbox": [
+                  75.5999984741211,
+                  373.202880859375,
+                  195.5263214111328,
+                  386.89788818359375
+                ],
+                "relative_path": "PORFP_-_Dell_Laptop_Final.pdf"
+              },
+              "section_id": "cfe3da8ab92a1ccb-section-31"
+            },
+            {
+              "page_id": "cfe3da8ab92a1ccb",
+              "page_number": 1,
+              "source_locator": {
+                "page_number": 1,
+                "block_index": 18,
+                "line_index": 0,
+                "bbox": [
+                  234.0,
+                  373.202880859375,
+                  441.64630126953125,
+                  386.89788818359375
+                ],
+                "relative_path": "PORFP_-_Dell_Laptop_Final.pdf"
+              },
+              "section_id": "cfe3da8ab92a1ccb-section-32"
+            },
+            {
+              "page_id": "cfe3da8ab92a1ccb",
+              "page_number": 1,
+              "source_locator": {
+                "page_number": 1,
+                "block_index": 18,
+                "line_index": 1,
+                "bbox": [
+                  234.0,
+                  385.53204345703125,
+                  571.9428100585938,
+                  399.01788330078125
+                ],
+                "relative_path": "PORFP_-_Dell_Laptop_Final.pdf"
+              },
+              "section_id": "cfe3da8ab92a1ccb-section-33"
+            },
+            {
+              "page_id": "cfe3da8ab92a1ccb",
+              "page_number": 1,
+              "source_locator": {
+                "page_number": 1,
+                "block_index": 18,
+                "line_index": 2,
+                "bbox": [
+                  234.0,
+                  397.44287109375,
+                  286.97125244140625,
+                  411.13787841796875
+                ],
+                "relative_path": "PORFP_-_Dell_Laptop_Final.pdf"
+              },
+              "section_id": "cfe3da8ab92a1ccb-section-34"
+            },
+            {
+              "page_id": "cfe3da8ab92a1ccb",
+              "page_number": 1,
+              "source_locator": {
+                "page_number": 1,
+                "block_index": 18,
+                "line_index": 3,
+                "bbox": [
+                  295.5667419433594,
+                  397.44287109375,
+                  337.4983215332031,
+                  411.13787841796875
+                ],
+                "relative_path": "PORFP_-_Dell_Laptop_Final.pdf"
+              },
+              "section_id": "cfe3da8ab92a1ccb-section-35"
+            },
+            {
+              "page_id": "cfe3da8ab92a1ccb",
+              "page_number": 1,
+              "source_locator": {
+                "page_number": 1,
+                "block_index": 18,
+                "line_index": 4,
+                "bbox": [
+                  346.09381103515625,
+                  397.44287109375,
+                  370.2617492675781,
+                  411.13787841796875
+                ],
+                "relative_path": "PORFP_-_Dell_Laptop_Final.pdf"
+              },
+              "section_id": "cfe3da8ab92a1ccb-section-36"
+            },
+            {
+              "page_id": "cfe3da8ab92a1ccb",
+              "page_number": 1,
+              "source_locator": {
+                "page_number": 1,
+                "block_index": 18,
+                "line_index": 5,
+                "bbox": [
+                  378.85723876953125,
+                  397.44287109375,
+                  417.4253234863281,
+                  411.13787841796875
+                ],
+                "relative_path": "PORFP_-_Dell_Laptop_Final.pdf"
+              },
+              "section_id": "cfe3da8ab92a1ccb-section-37"
+            },
+            {
+              "page_id": "cfe3da8ab92a1ccb",
+              "page_number": 1,
+              "source_locator": {
+                "page_number": 1,
+                "block_index": 18,
+                "line_index": 6,
+                "bbox": [
+                  426.02081298828125,
+                  397.44287109375,
+                  457.8719482421875,
+                  411.13787841796875
+                ],
+                "relative_path": "PORFP_-_Dell_Laptop_Final.pdf"
+              },
+              "section_id": "cfe3da8ab92a1ccb-section-38"
+            },
+            {
+              "page_id": "cfe3da8ab92a1ccb",
+              "page_number": 1,
+              "source_locator": {
+                "page_number": 1,
+                "block_index": 18,
+                "line_index": 7,
+                "bbox": [
+                  466.5859680175781,
+                  397.44287109375,
+                  508.1520080566406,
+                  411.13787841796875
+                ],
+                "relative_path": "PORFP_-_Dell_Laptop_Final.pdf"
+              },
+              "section_id": "cfe3da8ab92a1ccb-section-39"
+            },
+            {
+              "page_id": "cfe3da8ab92a1ccb",
+              "page_number": 1,
+              "source_locator": {
+                "page_number": 1,
+                "block_index": 18,
+                "line_index": 8,
+                "bbox": [
+                  516.8441162109375,
+                  397.44287109375,
+                  571.8502807617188,
+                  411.13787841796875
+                ],
+                "relative_path": "PORFP_-_Dell_Laptop_Final.pdf"
+              },
+              "section_id": "cfe3da8ab92a1ccb-section-40"
+            },
+            {
+              "page_id": "cfe3da8ab92a1ccb",
+              "page_number": 1,
+              "source_locator": {
+                "page_number": 1,
+                "block_index": 18,
+                "line_index": 9,
+                "bbox": [
+                  234.0,
+                  409.682861328125,
+                  571.9550170898438,
+                  423.37786865234375
+                ],
+                "relative_path": "PORFP_-_Dell_Laptop_Final.pdf"
+              },
+              "section_id": "cfe3da8ab92a1ccb-section-41"
+            }
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "case_id": "C003",
+    "query": "submission deadline",
+    "expected_record_ids": [
+      "0911777018856efee41c4ced"
+    ],
+    "bid_id": "Bid1",
+    "category": "deadline",
+    "expected_passages": [
+      {
+        "record_id": "0911777018856efee41c4ced",
+        "excerpt": "The new due date for this RFP will be July 9, 2024 at 2:00 PM CST.",
+        "bid_id": "Bid1",
+        "source_file": "Addendum 2 RFP JA-207652 Student and Staff Computing Devices.pdf",
+        "page_number": 1,
+        "source_locator": {
+          "page_number": 1,
+          "block_index": 4,
+          "line_index": 3,
+          "bbox": [
+            72.0,
+            125.94984436035156,
+            369.4503173828125,
+            139.3931121826172
+          ],
+          "relative_path": "Addendum 2 RFP JA-207652 Student and Staff Computing Devices.pdf",
+          "section_title": "The Purpose of this Addendum is to extend the due date of this RFP.",
+          "heading_path": [
+            "ADDENDUM No. 2",
+            "RFP JA-207652 Student and Staff Computing Devices",
+            "The Purpose of this Addendum is to extend the due date of this RFP."
+          ],
+          "page_ids": [
+            "3dbe667466250cce"
+          ],
+          "page_numbers": [
+            1
+          ],
+          "section_ids": [
+            "3dbe667466250cce-section-4",
+            "3dbe667466250cce-section-5",
+            "3dbe667466250cce-section-6",
+            "3dbe667466250cce-section-7"
+          ],
+          "source_segments": [
+            {
+              "page_id": "3dbe667466250cce",
+              "page_number": 1,
+              "source_locator": {
+                "page_number": 1,
+                "block_index": 4,
+                "line_index": 3,
+                "bbox": [
+                  72.0,
+                  125.94984436035156,
+                  369.4503173828125,
+                  139.3931121826172
+                ],
+                "relative_path": "Addendum 2 RFP JA-207652 Student and Staff Computing Devices.pdf"
+              },
+              "section_id": "3dbe667466250cce-section-4"
+            },
+            {
+              "page_id": "3dbe667466250cce",
+              "page_number": 1,
+              "source_locator": {
+                "page_number": 1,
+                "block_index": 4,
+                "line_index": 6,
+                "bbox": [
+                  72.0,
+                  166.26983642578125,
+                  541.9853515625,
+                  179.71310424804688
+                ],
+                "relative_path": "Addendum 2 RFP JA-207652 Student and Staff Computing Devices.pdf"
+              },
+              "section_id": "3dbe667466250cce-section-5"
+            },
+            {
+              "page_id": "3dbe667466250cce",
+              "page_number": 1,
+              "source_locator": {
+                "page_number": 1,
+                "block_index": 4,
+                "line_index": 7,
+                "bbox": [
+                  72.0,
+                  179.70985412597656,
+                  199.70062255859375,
+                  193.1531219482422
+                ],
+                "relative_path": "Addendum 2 RFP JA-207652 Student and Staff Computing Devices.pdf"
+              },
+              "section_id": "3dbe667466250cce-section-6"
+            },
+            {
+              "page_id": "3dbe667466250cce",
+              "page_number": 1,
+              "source_locator": {
+                "page_number": 1,
+                "block_index": 4,
+                "line_index": 9,
+                "bbox": [
+                  72.0,
+                  206.46983337402344,
+                  542.0238647460938,
+                  219.91310119628906
+                ],
+                "relative_path": "Addendum 2 RFP JA-207652 Student and Staff Computing Devices.pdf"
+              },
+              "section_id": "3dbe667466250cce-section-7"
+            }
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "case_id": "C004",
+    "query": "bid bond",
+    "expected_record_ids": [
+      "712976f2331c4ab2e74d662c"
+    ],
+    "bid_id": "Bid1",
+    "category": "requirement",
+    "expected_passages": [
+      {
+        "record_id": "712976f2331c4ab2e74d662c",
+        "excerpt": "insurance, bid bond, or liability requirements",
+        "bid_id": "Bid1",
+        "source_file": "JA-207652 Student and Staff Computing Devices FINAL.pdf",
+        "page_number": 9,
+        "source_locator": {
+          "page_number": 9,
+          "block_index": 5,
+          "line_index": 4,
+          "bbox": [
+            72.0,
+            351.38299560546875,
+            545.5498046875,
+            365.12298583984375
+          ],
+          "relative_path": "JA-207652 Student and Staff Computing Devices FINAL.pdf",
+          "section_title": "JA-207652 Student and Staff Computing Devices",
+          "heading_path": [
+            "PURCHASING DEPARTMENT",
+            "JA-207652 Student and Staff Computing Devices"
+          ],
+          "page_ids": [
+            "8292b4e856edce86"
+          ],
+          "page_numbers": [
+            9
+          ],
+          "section_ids": [
+            "8292b4e856edce86-section-18",
+            "8292b4e856edce86-section-19",
+            "8292b4e856edce86-section-20",
+            "8292b4e856edce86-section-21",
+            "8292b4e856edce86-section-22",
+            "8292b4e856edce86-section-23",
+            "8292b4e856edce86-section-24",
+            "8292b4e856edce86-section-25"
+          ],
+          "source_segments": [
+            {
+              "page_id": "8292b4e856edce86",
+              "page_number": 9,
+              "source_locator": {
+                "page_number": 9,
+                "block_index": 5,
+                "line_index": 4,
+                "bbox": [
+                  72.0,
+                  351.38299560546875,
+                  545.5498046875,
+                  365.12298583984375
+                ],
+                "relative_path": "JA-207652 Student and Staff Computing Devices FINAL.pdf"
+              },
+              "section_id": "8292b4e856edce86-section-18"
+            },
+            {
+              "page_id": "8292b4e856edce86",
+              "page_number": 9,
+              "source_locator": {
+                "page_number": 9,
+                "block_index": 5,
+                "line_index": 5,
+                "bbox": [
+                  72.0,
+                  362.9429931640625,
+                  518.2998657226562,
+                  376.6829833984375
+                ],
+                "relative_path": "JA-207652 Student and Staff Computing Devices FINAL.pdf"
+              },
+              "section_id": "8292b4e856edce86-section-19"
+            },
+            {
+              "page_id": "8292b4e856edce86",
+              "page_number": 9,
+              "source_locator": {
+                "page_number": 9,
+                "block_index": 5,
+                "line_index": 6,
+                "bbox": [
+                  72.0,
+                  374.50201416015625,
+                  509.3997802734375,
+                  388.24200439453125
+                ],
+                "relative_path": "JA-207652 Student and Staff Computing Devices FINAL.pdf"
+              },
+              "section_id": "8292b4e856edce86-section-20"
+            },
+            {
+              "page_id": "8292b4e856edce86",
+              "page_number": 9,
+              "source_locator": {
+                "page_number": 9,
+                "block_index": 5,
+                "line_index": 7,
+                "bbox": [
+                  72.0,
+                  386.06201171875,
+                  548.27978515625,
+                  399.802001953125
+                ],
+                "relative_path": "JA-207652 Student and Staff Computing Devices FINAL.pdf"
+              },
+              "section_id": "8292b4e856edce86-section-21"
+            },
+            {
+              "page_id": "8292b4e856edce86",
+              "page_number": 9,
+              "source_locator": {
+                "page_number": 9,
+                "block_index": 5,
+                "line_index": 8,
+                "bbox": [
+                  72.0,
+                  397.62200927734375,
+                  550.5499267578125,
+                  411.36199951171875
+                ],
+                "relative_path": "JA-207652 Student and Staff Computing Devices FINAL.pdf"
+              },
+              "section_id": "8292b4e856edce86-section-22"
+            },
+            {
+              "page_id": "8292b4e856edce86",
+              "page_number": 9,
+              "source_locator": {
+                "page_number": 9,
+                "block_index": 5,
+                "line_index": 9,
+                "bbox": [
+                  72.0,
+                  409.1820068359375,
+                  552.1898193359375,
+                  422.9219970703125
+                ],
+                "relative_path": "JA-207652 Student and Staff Computing Devices FINAL.pdf"
+              },
+              "section_id": "8292b4e856edce86-section-23"
+            },
+            {
+              "page_id": "8292b4e856edce86",
+              "page_number": 9,
+              "source_locator": {
+                "page_number": 9,
+                "block_index": 5,
+                "line_index": 10,
+                "bbox": [
+                  72.0,
+                  420.74200439453125,
+                  548.8599853515625,
+                  434.48199462890625
+                ],
+                "relative_path": "JA-207652 Student and Staff Computing Devices FINAL.pdf"
+              },
+              "section_id": "8292b4e856edce86-section-24"
+            },
+            {
+              "page_id": "8292b4e856edce86",
+              "page_number": 9,
+              "source_locator": {
+                "page_number": 9,
+                "block_index": 5,
+                "line_index": 11,
+                "bbox": [
+                  72.0,
+                  432.302001953125,
+                  545.5498657226562,
+                  446.0419921875
+                ],
+                "relative_path": "JA-207652 Student and Staff Computing Devices FINAL.pdf"
+              },
+              "section_id": "8292b4e856edce86-section-25"
+            }
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "case_id": "C005",
+    "query": "affidavit",
+    "expected_record_ids": [
+      "e1eed22af0f0ab8a41acce70"
+    ],
+    "bid_id": "Bid2",
+    "category": "documentation",
+    "expected_passages": [
+      {
+        "record_id": "e1eed22af0f0ab8a41acce70",
+        "excerpt": "Mercury Affidavit:",
+        "bid_id": "Bid2",
+        "source_file": "PORFP_-_Dell_Laptop_Final.pdf",
+        "page_number": 2,
+        "source_locator": {
+          "page_number": 2,
+          "block_index": 5,
+          "line_index": 6,
+          "bbox": [
+            237.83999633789062,
+            249.81207275390625,
+            571.9595336914062,
+            263.51702880859375
+          ],
+          "relative_path": "PORFP_-_Dell_Laptop_Final.pdf",
+          "section_title": "Hardware Master Contract",
+          "heading_path": [
+            "Purchase Order Request for Proposals (PORFP)",
+            "Hardware Master Contract",
+            "Hardware Master Contract"
+          ],
+          "page_ids": [
+            "e5c7efd648f9485e"
+          ],
+          "page_numbers": [
+            2
+          ],
+          "section_ids": [
+            "e5c7efd648f9485e-section-31",
+            "e5c7efd648f9485e-section-32",
+            "e5c7efd648f9485e-section-33",
+            "e5c7efd648f9485e-section-34",
+            "e5c7efd648f9485e-section-35",
+            "e5c7efd648f9485e-section-36",
+            "e5c7efd648f9485e-section-37",
+            "e5c7efd648f9485e-section-38",
+            "e5c7efd648f9485e-section-39",
+            "e5c7efd648f9485e-section-40",
+            "e5c7efd648f9485e-section-41",
+            "e5c7efd648f9485e-section-42",
+            "e5c7efd648f9485e-section-43",
+            "e5c7efd648f9485e-section-44",
+            "e5c7efd648f9485e-section-45",
+            "e5c7efd648f9485e-section-46",
+            "e5c7efd648f9485e-section-47",
+            "e5c7efd648f9485e-section-48"
+          ],
+          "source_segments": [
+            {
+              "page_id": "e5c7efd648f9485e",
+              "page_number": 2,
+              "source_locator": {
+                "page_number": 2,
+                "block_index": 5,
+                "line_index": 6,
+                "bbox": [
+                  237.83999633789062,
+                  249.81207275390625,
+                  571.9595336914062,
+                  263.51702880859375
+                ],
+                "relative_path": "PORFP_-_Dell_Laptop_Final.pdf"
+              },
+              "section_id": "e5c7efd648f9485e-section-31"
+            },
+            {
+              "page_id": "e5c7efd648f9485e",
+              "page_number": 2,
+              "source_locator": {
+                "page_number": 2,
+                "block_index": 5,
+                "line_index": 7,
+                "bbox": [
+                  255.83999633789062,
+                  262.05206298828125,
+                  571.9674682617188,
+                  275.53790283203125
+                ],
+                "relative_path": "PORFP_-_Dell_Laptop_Final.pdf"
+              },
+              "section_id": "e5c7efd648f9485e-section-32"
+            },
+            {
+              "page_id": "e5c7efd648f9485e",
+              "page_number": 2,
+              "source_locator": {
+                "page_number": 2,
+                "block_index": 5,
+                "line_index": 8,
+                "bbox": [
+                  255.83999633789062,
+                  274.1733703613281,
+                  293.19000244140625,
+                  287.6592102050781
+                ],
+                "relative_path": "PORFP_-_Dell_Laptop_Final.pdf"
+              },
+              "section_id": "e5c7efd648f9485e-section-33"
+            },
+            {
+              "page_id": "e5c7efd648f9485e",
+              "page_number": 2,
+              "source_locator": {
+                "page_number": 2,
+                "block_index": 5,
+                "line_index": 10,
+                "bbox": [
+                  237.84226989746094,
+                  298.53289794921875,
+                  571.9454345703125,
+                  312.23785400390625
+                ],
+                "relative_path": "PORFP_-_Dell_Laptop_Final.pdf"
+              },
+              "section_id": "e5c7efd648f9485e-section-34"
+            },
+            {
+              "page_id": "e5c7efd648f9485e",
+              "page_number": 2,
+              "source_locator": {
+                "page_number": 2,
+                "block_index": 5,
+                "line_index": 11,
+                "bbox": [
+                  255.8399658203125,
+                  310.6542053222656,
+                  571.9515991210938,
+                  324.1400451660156
+                ],
+                "relative_path": "PORFP_-_Dell_Laptop_Final.pdf"
+              },
+              "section_id": "e5c7efd648f9485e-section-35"
+            },
+            {
+              "page_id": "e5c7efd648f9485e",
+              "page_number": 2,
+              "source_locator": {
+                "page_number": 2,
+                "block_index": 5,
+                "line_index": 12,
+                "bbox": [
+                  255.8399658203125,
+                  322.7755126953125,
+                  480.1491394042969,
+                  336.2613525390625
+                ],
+                "relative_path": "PORFP_-_Dell_Laptop_Final.pdf"
+              },
+              "section_id": "e5c7efd648f9485e-section-36"
+            },
+            {
+              "page_id": "e5c7efd648f9485e",
+              "page_number": 2,
+              "source_locator": {
+                "page_number": 2,
+                "block_index": 5,
+                "line_index": 14,
+                "bbox": [
+                  237.8422393798828,
+                  347.1376647949219,
+                  451.3448181152344,
+                  360.8426208496094
+                ],
+                "relative_path": "PORFP_-_Dell_Laptop_Final.pdf"
+              },
+              "section_id": "e5c7efd648f9485e-section-37"
+            },
+            {
+              "page_id": "e5c7efd648f9485e",
+              "page_number": 2,
+              "source_locator": {
+                "page_number": 2,
+                "block_index": 5,
+                "line_index": 16,
+                "bbox": [
+                  237.8422393798828,
+                  371.3802795410156,
+                  571.9706420898438,
+                  385.0852355957031
+                ],
+                "relative_path": "PORFP_-_Dell_Laptop_Final.pdf"
+              },
+              "section_id": "e5c7efd648f9485e-section-38"
+            },
+            {
+              "page_id": "e5c7efd648f9485e",
+              "page_number": 2,
+              "source_locator": {
+                "page_number": 2,
+                "block_index": 5,
+                "line_index": 17,
+                "bbox": [
+                  255.8399658203125,
+                  383.5015869140625,
+                  568.4644165039062,
+                  396.9874267578125
+                ],
+                "relative_path": "PORFP_-_Dell_Laptop_Final.pdf"
+              },
+              "section_id": "e5c7efd648f9485e-section-39"
+            },
+            {
+              "page_id": "e5c7efd648f9485e",
+              "page_number": 2,
+              "source_locator": {
+                "page_number": 2,
+                "block_index": 5,
+                "line_index": 19,
+                "bbox": [
+                  237.8422088623047,
+                  407.8637390136719,
+                  416.5445556640625,
+                  421.5686950683594
+                ],
+                "relative_path": "PORFP_-_Dell_Laptop_Final.pdf"
+              },
+              "section_id": "e5c7efd648f9485e-section-40"
+            },
+            {
+              "page_id": "e5c7efd648f9485e",
+              "page_number": 2,
+              "source_locator": {
+                "page_number": 2,
+                "block_index": 5,
+                "line_index": 21,
+                "bbox": [
+                  237.84222412109375,
+                  432.22589111328125,
+                  544.34130859375,
+                  445.93084716796875
+                ],
+                "relative_path": "PORFP_-_Dell_Laptop_Final.pdf"
+              },
+              "section_id": "e5c7efd648f9485e-section-41"
+            },
+            {
+              "page_id": "e5c7efd648f9485e",
+              "page_number": 2,
+              "source_locator": {
+                "page_number": 2,
+                "block_index": 5,
+                "line_index": 22,
+                "bbox": [
+                  255.83993530273438,
+                  444.3471984863281,
+                  568.033203125,
+                  457.8330383300781
+                ],
+                "relative_path": "PORFP_-_Dell_Laptop_Final.pdf"
+              },
+              "section_id": "e5c7efd648f9485e-section-42"
+            },
+            {
+              "page_id": "e5c7efd648f9485e",
+              "page_number": 2,
+              "source_locator": {
+                "page_number": 2,
+                "block_index": 5,
+                "line_index": 23,
+                "bbox": [
+                  255.83999633789062,
+                  456.4520568847656,
+                  416.4250793457031,
+                  469.9378967285156
+                ],
+                "relative_path": "PORFP_-_Dell_Laptop_Final.pdf"
+              },
+              "section_id": "e5c7efd648f9485e-section-43"
+            },
+            {
+              "page_id": "e5c7efd648f9485e",
+              "page_number": 2,
+              "source_locator": {
+                "page_number": 2,
+                "block_index": 5,
+                "line_index": 25,
+                "bbox": [
+                  234.0,
+                  482.1628723144531,
+                  422.42327880859375,
+                  495.8578796386719
+                ],
+                "relative_path": "PORFP_-_Dell_Laptop_Final.pdf"
+              },
+              "section_id": "e5c7efd648f9485e-section-44"
+            },
+            {
+              "page_id": "e5c7efd648f9485e",
+              "page_number": 2,
+              "source_locator": {
+                "page_number": 2,
+                "block_index": 5,
+                "line_index": 27,
+                "bbox": [
+                  75.5999984741211,
+                  507.00286865234375,
+                  208.24632263183594,
+                  520.6978759765625
+                ],
+                "relative_path": "PORFP_-_Dell_Laptop_Final.pdf"
+              },
+              "section_id": "e5c7efd648f9485e-section-45"
+            },
+            {
+              "page_id": "e5c7efd648f9485e",
+              "page_number": 2,
+              "source_locator": {
+                "page_number": 2,
+                "block_index": 6,
+                "line_index": 0,
+                "bbox": [
+                  237.83999633789062,
+                  507.2120361328125,
+                  352.1004333496094,
+                  520.9169921875
+                ],
+                "relative_path": "PORFP_-_Dell_Laptop_Final.pdf"
+              },
+              "section_id": "e5c7efd648f9485e-section-46"
+            },
+            {
+              "page_id": "e5c7efd648f9485e",
+              "page_number": 2,
+              "source_locator": {
+                "page_number": 2,
+                "block_index": 6,
+                "line_index": 1,
+                "bbox": [
+                  255.83999633789062,
+                  519.33203125,
+                  483.38616943359375,
+                  532.81787109375
+                ],
+                "relative_path": "PORFP_-_Dell_Laptop_Final.pdf"
+              },
+              "section_id": "e5c7efd648f9485e-section-47"
+            },
+            {
+              "page_id": "e5c7efd648f9485e",
+              "page_number": 2,
+              "source_locator": {
+                "page_number": 2,
+                "block_index": 6,
+                "line_index": 3,
+                "bbox": [
+                  237.84226989746094,
+                  543.693359375,
+                  568.3082275390625,
+                  557.3983154296875
+                ],
+                "relative_path": "PORFP_-_Dell_Laptop_Final.pdf"
+              },
+              "section_id": "e5c7efd648f9485e-section-48"
+            }
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "case_id": "C006",
+    "query": "model number",
+    "expected_record_ids": [
+      "63824d3d8acea998a27f158a"
+    ],
+    "bid_id": "Bid2",
+    "category": "exact",
+    "expected_passages": [
+      {
+        "record_id": "63824d3d8acea998a27f158a",
+        "excerpt": "Dell Latitude 5550",
+        "bid_id": "Bid2",
+        "source_file": "Dell_Laptop_Specs.pdf",
+        "page_number": 1,
+        "source_locator": {
+          "page_number": 1,
+          "block_index": 31,
+          "line_index": 0,
+          "bbox": [
+            22.254989624023438,
+            111.80016326904297,
+            70.72203826904297,
+            121.72078704833984
+          ],
+          "relative_path": "Dell_Laptop_Specs.pdf",
+          "section_title": "SI# CC7802 Dell Latitude 5550",
+          "heading_path": [
+            "SI# CC7802 Dell Latitude 5550"
+          ],
+          "page_ids": [
+            "a1a8d59eb77fd327"
+          ],
+          "page_numbers": [
+            1
+          ],
+          "section_ids": [
+            "a1a8d59eb77fd327-section-31",
+            "a1a8d59eb77fd327-section-32",
+            "a1a8d59eb77fd327-section-33",
+            "a1a8d59eb77fd327-section-34",
+            "a1a8d59eb77fd327-section-35",
+            "a1a8d59eb77fd327-section-36",
+            "a1a8d59eb77fd327-section-37",
+            "a1a8d59eb77fd327-section-38",
+            "a1a8d59eb77fd327-section-39",
+            "a1a8d59eb77fd327-section-40",
+            "a1a8d59eb77fd327-section-41",
+            "a1a8d59eb77fd327-section-42",
+            "a1a8d59eb77fd327-section-43",
+            "a1a8d59eb77fd327-section-44",
+            "a1a8d59eb77fd327-section-45",
+            "a1a8d59eb77fd327-section-46",
+            "a1a8d59eb77fd327-section-47"
+          ],
+          "source_segments": [
+            {
+              "page_id": "a1a8d59eb77fd327",
+              "page_number": 1,
+              "source_locator": {
+                "page_number": 1,
+                "block_index": 31,
+                "line_index": 0,
+                "bbox": [
+                  22.254989624023438,
+                  111.80016326904297,
+                  70.72203826904297,
+                  121.72078704833984
+                ],
+                "relative_path": "Dell_Laptop_Specs.pdf"
+              },
+              "section_id": "a1a8d59eb77fd327-section-31"
+            },
+            {
+              "page_id": "a1a8d59eb77fd327",
+              "page_number": 1,
+              "source_locator": {
+                "page_number": 1,
+                "block_index": 32,
+                "line_index": 0,
+                "bbox": [
+                  22.254989624023438,
+                  129.8001708984375,
+                  144.48756408691406,
+                  139.7207794189453
+                ],
+                "relative_path": "Dell_Laptop_Specs.pdf"
+              },
+              "section_id": "a1a8d59eb77fd327-section-32"
+            },
+            {
+              "page_id": "a1a8d59eb77fd327",
+              "page_number": 1,
+              "source_locator": {
+                "page_number": 1,
+                "block_index": 33,
+                "line_index": 0,
+                "bbox": [
+                  22.254989624023438,
+                  146.60379028320312,
+                  270.31463623046875,
+                  158.72499084472656
+                ],
+                "relative_path": "Dell_Laptop_Specs.pdf"
+              },
+              "section_id": "a1a8d59eb77fd327-section-33"
+            },
+            {
+              "page_id": "a1a8d59eb77fd327",
+              "page_number": 1,
+              "source_locator": {
+                "page_number": 1,
+                "block_index": 33,
+                "line_index": 1,
+                "bbox": [
+                  22.2550048828125,
+                  158.12017822265625,
+                  140.90538024902344,
+                  168.04078674316406
+                ],
+                "relative_path": "Dell_Laptop_Specs.pdf"
+              },
+              "section_id": "a1a8d59eb77fd327-section-34"
+            },
+            {
+              "page_id": "a1a8d59eb77fd327",
+              "page_number": 1,
+              "source_locator": {
+                "page_number": 1,
+                "block_index": 34,
+                "line_index": 0,
+                "bbox": [
+                  22.2550048828125,
+                  174.92379760742188,
+                  276.4166564941406,
+                  187.0449981689453
+                ],
+                "relative_path": "Dell_Laptop_Specs.pdf"
+              },
+              "section_id": "a1a8d59eb77fd327-section-35"
+            },
+            {
+              "page_id": "a1a8d59eb77fd327",
+              "page_number": 1,
+              "source_locator": {
+                "page_number": 1,
+                "block_index": 34,
+                "line_index": 1,
+                "bbox": [
+                  22.255035400390625,
+                  186.440185546875,
+                  54.09872055053711,
+                  196.3607940673828
+                ],
+                "relative_path": "Dell_Laptop_Specs.pdf"
+              },
+              "section_id": "a1a8d59eb77fd327-section-36"
+            },
+            {
+              "page_id": "a1a8d59eb77fd327",
+              "page_number": 1,
+              "source_locator": {
+                "page_number": 1,
+                "block_index": 35,
+                "line_index": 0,
+                "bbox": [
+                  22.255035400390625,
+                  203.24380493164062,
+                  268.67364501953125,
+                  215.36500549316406
+                ],
+                "relative_path": "Dell_Laptop_Specs.pdf"
+              },
+              "section_id": "a1a8d59eb77fd327-section-37"
+            },
+            {
+              "page_id": "a1a8d59eb77fd327",
+              "page_number": 1,
+              "source_locator": {
+                "page_number": 1,
+                "block_index": 36,
+                "line_index": 0,
+                "bbox": [
+                  22.255020141601562,
+                  222.440185546875,
+                  126.54507446289062,
+                  232.3607940673828
+                ],
+                "relative_path": "Dell_Laptop_Specs.pdf"
+              },
+              "section_id": "a1a8d59eb77fd327-section-38"
+            },
+            {
+              "page_id": "a1a8d59eb77fd327",
+              "page_number": 1,
+              "source_locator": {
+                "page_number": 1,
+                "block_index": 37,
+                "line_index": 0,
+                "bbox": [
+                  22.255020141601562,
+                  239.24380493164062,
+                  269.5146484375,
+                  251.36500549316406
+                ],
+                "relative_path": "Dell_Laptop_Specs.pdf"
+              },
+              "section_id": "a1a8d59eb77fd327-section-39"
+            },
+            {
+              "page_id": "a1a8d59eb77fd327",
+              "page_number": 1,
+              "source_locator": {
+                "page_number": 1,
+                "block_index": 38,
+                "line_index": 0,
+                "bbox": [
+                  22.255020141601562,
+                  258.440185546875,
+                  170.94161987304688,
+                  268.3608093261719
+                ],
+                "relative_path": "Dell_Laptop_Specs.pdf"
+              },
+              "section_id": "a1a8d59eb77fd327-section-40"
+            },
+            {
+              "page_id": "a1a8d59eb77fd327",
+              "page_number": 1,
+              "source_locator": {
+                "page_number": 1,
+                "block_index": 39,
+                "line_index": 0,
+                "bbox": [
+                  22.255020141601562,
+                  276.440185546875,
+                  173.73475646972656,
+                  286.3608093261719
+                ],
+                "relative_path": "Dell_Laptop_Specs.pdf"
+              },
+              "section_id": "a1a8d59eb77fd327-section-41"
+            },
+            {
+              "page_id": "a1a8d59eb77fd327",
+              "page_number": 1,
+              "source_locator": {
+                "page_number": 1,
+                "block_index": 40,
+                "line_index": 0,
+                "bbox": [
+                  22.255020141601562,
+                  294.440185546875,
+                  151.62783813476562,
+                  304.3608093261719
+                ],
+                "relative_path": "Dell_Laptop_Specs.pdf"
+              },
+              "section_id": "a1a8d59eb77fd327-section-42"
+            },
+            {
+              "page_id": "a1a8d59eb77fd327",
+              "page_number": 1,
+              "source_locator": {
+                "page_number": 1,
+                "block_index": 41,
+                "line_index": 0,
+                "bbox": [
+                  22.255027770996094,
+                  311.2438049316406,
+                  291.7216491699219,
+                  323.364990234375
+                ],
+                "relative_path": "Dell_Laptop_Specs.pdf"
+              },
+              "section_id": "a1a8d59eb77fd327-section-43"
+            },
+            {
+              "page_id": "a1a8d59eb77fd327",
+              "page_number": 1,
+              "source_locator": {
+                "page_number": 1,
+                "block_index": 41,
+                "line_index": 1,
+                "bbox": [
+                  22.255035400390625,
+                  322.76019287109375,
+                  90.20219421386719,
+                  332.6808166503906
+                ],
+                "relative_path": "Dell_Laptop_Specs.pdf"
+              },
+              "section_id": "a1a8d59eb77fd327-section-44"
+            },
+            {
+              "page_id": "a1a8d59eb77fd327",
+              "page_number": 1,
+              "source_locator": {
+                "page_number": 1,
+                "block_index": 42,
+                "line_index": 0,
+                "bbox": [
+                  22.255035400390625,
+                  340.76019287109375,
+                  219.22023010253906,
+                  350.6808166503906
+                ],
+                "relative_path": "Dell_Laptop_Specs.pdf"
+              },
+              "section_id": "a1a8d59eb77fd327-section-45"
+            },
+            {
+              "page_id": "a1a8d59eb77fd327",
+              "page_number": 1,
+              "source_locator": {
+                "page_number": 1,
+                "block_index": 43,
+                "line_index": 0,
+                "bbox": [
+                  22.255035400390625,
+                  358.76019287109375,
+                  280.0787353515625,
+                  368.6808166503906
+                ],
+                "relative_path": "Dell_Laptop_Specs.pdf"
+              },
+              "section_id": "a1a8d59eb77fd327-section-46"
+            },
+            {
+              "page_id": "a1a8d59eb77fd327",
+              "page_number": 1,
+              "source_locator": {
+                "page_number": 1,
+                "block_index": 43,
+                "line_index": 1,
+                "bbox": [
+                  22.255050659179688,
+                  369.0802001953125,
+                  91.1647720336914,
+                  379.0008239746094
+                ],
+                "relative_path": "Dell_Laptop_Specs.pdf"
+              },
+              "section_id": "a1a8d59eb77fd327-section-47"
+            }
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "case_id": "C007",
+    "query": "replacement parts warranty",
+    "expected_record_ids": [
+      "6bb888f176a85c1b232ff564"
+    ],
+    "bid_id": "Bid1",
+    "category": "requirement",
+    "expected_passages": [
+      {
+        "record_id": "6bb888f176a85c1b232ff564",
+        "excerpt": "replacement parts prove unsound",
+        "bid_id": "Bid1",
+        "source_file": "JA-207652 Student and Staff Computing Devices FINAL.pdf",
+        "page_number": 4,
+        "source_locator": {
+          "page_number": 4,
+          "block_index": 2,
+          "line_index": 1,
+          "bbox": [
+            480.510009765625,
+            758.3909912109375,
+            540.0,
+            772.1309814453125
+          ],
+          "relative_path": "JA-207652 Student and Staff Computing Devices FINAL.pdf",
+          "section_title": "JA-207652 Student and Staff Computing Devices",
+          "heading_path": [
+            "PURCHASING DEPARTMENT",
+            "JA-207652 Student and Staff Computing Devices"
+          ],
+          "page_ids": [
+            "82af2ad43f45e9d1"
+          ],
+          "page_numbers": [
+            4
+          ],
+          "section_ids": [
+            "82af2ad43f45e9d1-section-2",
+            "82af2ad43f45e9d1-section-3",
+            "82af2ad43f45e9d1-section-4",
+            "82af2ad43f45e9d1-section-5",
+            "82af2ad43f45e9d1-section-6",
+            "82af2ad43f45e9d1-section-7",
+            "82af2ad43f45e9d1-section-8",
+            "82af2ad43f45e9d1-section-9",
+            "82af2ad43f45e9d1-section-10"
+          ],
+          "source_segments": [
+            {
+              "page_id": "82af2ad43f45e9d1",
+              "page_number": 4,
+              "source_locator": {
+                "page_number": 4,
+                "block_index": 2,
+                "line_index": 1,
+                "bbox": [
+                  480.510009765625,
+                  758.3909912109375,
+                  540.0,
+                  772.1309814453125
+                ],
+                "relative_path": "JA-207652 Student and Staff Computing Devices FINAL.pdf"
+              },
+              "section_id": "82af2ad43f45e9d1-section-2"
+            },
+            {
+              "page_id": "82af2ad43f45e9d1",
+              "page_number": 4,
+              "source_locator": {
+                "page_number": 4,
+                "block_index": 3,
+                "line_index": 0,
+                "bbox": [
+                  72.0,
+                  52.9909782409668,
+                  260.3599853515625,
+                  66.76097869873047
+                ],
+                "relative_path": "JA-207652 Student and Staff Computing Devices FINAL.pdf"
+              },
+              "section_id": "82af2ad43f45e9d1-section-3"
+            },
+            {
+              "page_id": "82af2ad43f45e9d1",
+              "page_number": 4,
+              "source_locator": {
+                "page_number": 4,
+                "block_index": 3,
+                "line_index": 1,
+                "bbox": [
+                  72.0,
+                  64.89100646972656,
+                  128.1199951171875,
+                  78.66100311279297
+                ],
+                "relative_path": "JA-207652 Student and Staff Computing Devices FINAL.pdf"
+              },
+              "section_id": "82af2ad43f45e9d1-section-4"
+            },
+            {
+              "page_id": "82af2ad43f45e9d1",
+              "page_number": 4,
+              "source_locator": {
+                "page_number": 4,
+                "block_index": 3,
+                "line_index": 2,
+                "bbox": [
+                  72.0,
+                  76.6510009765625,
+                  539.9998779296875,
+                  90.39099884033203
+                ],
+                "relative_path": "JA-207652 Student and Staff Computing Devices FINAL.pdf"
+              },
+              "section_id": "82af2ad43f45e9d1-section-5"
+            },
+            {
+              "page_id": "82af2ad43f45e9d1",
+              "page_number": 4,
+              "source_locator": {
+                "page_number": 4,
+                "block_index": 3,
+                "line_index": 3,
+                "bbox": [
+                  72.0,
+                  88.21099853515625,
+                  533.8998413085938,
+                  101.95099639892578
+                ],
+                "relative_path": "JA-207652 Student and Staff Computing Devices FINAL.pdf"
+              },
+              "section_id": "82af2ad43f45e9d1-section-6"
+            },
+            {
+              "page_id": "82af2ad43f45e9d1",
+              "page_number": 4,
+              "source_locator": {
+                "page_number": 4,
+                "block_index": 3,
+                "line_index": 4,
+                "bbox": [
+                  72.0,
+                  99.77099609375,
+                  534.9398803710938,
+                  113.51099395751953
+                ],
+                "relative_path": "JA-207652 Student and Staff Computing Devices FINAL.pdf"
+              },
+              "section_id": "82af2ad43f45e9d1-section-7"
+            },
+            {
+              "page_id": "82af2ad43f45e9d1",
+              "page_number": 4,
+              "source_locator": {
+                "page_number": 4,
+                "block_index": 3,
+                "line_index": 5,
+                "bbox": [
+                  72.0,
+                  111.33099365234375,
+                  532.7598876953125,
+                  125.07099151611328
+                ],
+                "relative_path": "JA-207652 Student and Staff Computing Devices FINAL.pdf"
+              },
+              "section_id": "82af2ad43f45e9d1-section-8"
+            },
+            {
+              "page_id": "82af2ad43f45e9d1",
+              "page_number": 4,
+              "source_locator": {
+                "page_number": 4,
+                "block_index": 4,
+                "line_index": 0,
+                "bbox": [
+                  72.0,
+                  140.8909912109375,
+                  526.0999145507812,
+                  154.63099670410156
+                ],
+                "relative_path": "JA-207652 Student and Staff Computing Devices FINAL.pdf"
+              },
+              "section_id": "82af2ad43f45e9d1-section-9"
+            },
+            {
+              "page_id": "82af2ad43f45e9d1",
+              "page_number": 4,
+              "source_locator": {
+                "page_number": 4,
+                "block_index": 4,
+                "line_index": 1,
+                "bbox": [
+                  72.0,
+                  152.45098876953125,
+                  537.2098999023438,
+                  166.1909942626953
+                ],
+                "relative_path": "JA-207652 Student and Staff Computing Devices FINAL.pdf"
+              },
+              "section_id": "82af2ad43f45e9d1-section-10"
+            }
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "case_id": "C008",
+    "query": "delivery date",
+    "expected_record_ids": [
+      "e1eed22af0f0ab8a41acce70"
+    ],
+    "bid_id": "Bid2",
+    "category": "deadline",
+    "expected_passages": [
+      {
+        "record_id": "e1eed22af0f0ab8a41acce70",
+        "excerpt": "Delivery within 45 days of Award.",
+        "bid_id": "Bid2",
+        "source_file": "PORFP_-_Dell_Laptop_Final.pdf",
+        "page_number": 2,
+        "source_locator": {
+          "page_number": 2,
+          "block_index": 5,
+          "line_index": 6,
+          "bbox": [
+            237.83999633789062,
+            249.81207275390625,
+            571.9595336914062,
+            263.51702880859375
+          ],
+          "relative_path": "PORFP_-_Dell_Laptop_Final.pdf",
+          "section_title": "Hardware Master Contract",
+          "heading_path": [
+            "Purchase Order Request for Proposals (PORFP)",
+            "Hardware Master Contract",
+            "Hardware Master Contract"
+          ],
+          "page_ids": [
+            "e5c7efd648f9485e"
+          ],
+          "page_numbers": [
+            2
+          ],
+          "section_ids": [
+            "e5c7efd648f9485e-section-31",
+            "e5c7efd648f9485e-section-32",
+            "e5c7efd648f9485e-section-33",
+            "e5c7efd648f9485e-section-34",
+            "e5c7efd648f9485e-section-35",
+            "e5c7efd648f9485e-section-36",
+            "e5c7efd648f9485e-section-37",
+            "e5c7efd648f9485e-section-38",
+            "e5c7efd648f9485e-section-39",
+            "e5c7efd648f9485e-section-40",
+            "e5c7efd648f9485e-section-41",
+            "e5c7efd648f9485e-section-42",
+            "e5c7efd648f9485e-section-43",
+            "e5c7efd648f9485e-section-44",
+            "e5c7efd648f9485e-section-45",
+            "e5c7efd648f9485e-section-46",
+            "e5c7efd648f9485e-section-47",
+            "e5c7efd648f9485e-section-48"
+          ],
+          "source_segments": [
+            {
+              "page_id": "e5c7efd648f9485e",
+              "page_number": 2,
+              "source_locator": {
+                "page_number": 2,
+                "block_index": 5,
+                "line_index": 6,
+                "bbox": [
+                  237.83999633789062,
+                  249.81207275390625,
+                  571.9595336914062,
+                  263.51702880859375
+                ],
+                "relative_path": "PORFP_-_Dell_Laptop_Final.pdf"
+              },
+              "section_id": "e5c7efd648f9485e-section-31"
+            },
+            {
+              "page_id": "e5c7efd648f9485e",
+              "page_number": 2,
+              "source_locator": {
+                "page_number": 2,
+                "block_index": 5,
+                "line_index": 7,
+                "bbox": [
+                  255.83999633789062,
+                  262.05206298828125,
+                  571.9674682617188,
+                  275.53790283203125
+                ],
+                "relative_path": "PORFP_-_Dell_Laptop_Final.pdf"
+              },
+              "section_id": "e5c7efd648f9485e-section-32"
+            },
+            {
+              "page_id": "e5c7efd648f9485e",
+              "page_number": 2,
+              "source_locator": {
+                "page_number": 2,
+                "block_index": 5,
+                "line_index": 8,
+                "bbox": [
+                  255.83999633789062,
+                  274.1733703613281,
+                  293.19000244140625,
+                  287.6592102050781
+                ],
+                "relative_path": "PORFP_-_Dell_Laptop_Final.pdf"
+              },
+              "section_id": "e5c7efd648f9485e-section-33"
+            },
+            {
+              "page_id": "e5c7efd648f9485e",
+              "page_number": 2,
+              "source_locator": {
+                "page_number": 2,
+                "block_index": 5,
+                "line_index": 10,
+                "bbox": [
+                  237.84226989746094,
+                  298.53289794921875,
+                  571.9454345703125,
+                  312.23785400390625
+                ],
+                "relative_path": "PORFP_-_Dell_Laptop_Final.pdf"
+              },
+              "section_id": "e5c7efd648f9485e-section-34"
+            },
+            {
+              "page_id": "e5c7efd648f9485e",
+              "page_number": 2,
+              "source_locator": {
+                "page_number": 2,
+                "block_index": 5,
+                "line_index": 11,
+                "bbox": [
+                  255.8399658203125,
+                  310.6542053222656,
+                  571.9515991210938,
+                  324.1400451660156
+                ],
+                "relative_path": "PORFP_-_Dell_Laptop_Final.pdf"
+              },
+              "section_id": "e5c7efd648f9485e-section-35"
+            },
+            {
+              "page_id": "e5c7efd648f9485e",
+              "page_number": 2,
+              "source_locator": {
+                "page_number": 2,
+                "block_index": 5,
+                "line_index": 12,
+                "bbox": [
+                  255.8399658203125,
+                  322.7755126953125,
+                  480.1491394042969,
+                  336.2613525390625
+                ],
+                "relative_path": "PORFP_-_Dell_Laptop_Final.pdf"
+              },
+              "section_id": "e5c7efd648f9485e-section-36"
+            },
+            {
+              "page_id": "e5c7efd648f9485e",
+              "page_number": 2,
+              "source_locator": {
+                "page_number": 2,
+                "block_index": 5,
+                "line_index": 14,
+                "bbox": [
+                  237.8422393798828,
+                  347.1376647949219,
+                  451.3448181152344,
+                  360.8426208496094
+                ],
+                "relative_path": "PORFP_-_Dell_Laptop_Final.pdf"
+              },
+              "section_id": "e5c7efd648f9485e-section-37"
+            },
+            {
+              "page_id": "e5c7efd648f9485e",
+              "page_number": 2,
+              "source_locator": {
+                "page_number": 2,
+                "block_index": 5,
+                "line_index": 16,
+                "bbox": [
+                  237.8422393798828,
+                  371.3802795410156,
+                  571.9706420898438,
+                  385.0852355957031
+                ],
+                "relative_path": "PORFP_-_Dell_Laptop_Final.pdf"
+              },
+              "section_id": "e5c7efd648f9485e-section-38"
+            },
+            {
+              "page_id": "e5c7efd648f9485e",
+              "page_number": 2,
+              "source_locator": {
+                "page_number": 2,
+                "block_index": 5,
+                "line_index": 17,
+                "bbox": [
+                  255.8399658203125,
+                  383.5015869140625,
+                  568.4644165039062,
+                  396.9874267578125
+                ],
+                "relative_path": "PORFP_-_Dell_Laptop_Final.pdf"
+              },
+              "section_id": "e5c7efd648f9485e-section-39"
+            },
+            {
+              "page_id": "e5c7efd648f9485e",
+              "page_number": 2,
+              "source_locator": {
+                "page_number": 2,
+                "block_index": 5,
+                "line_index": 19,
+                "bbox": [
+                  237.8422088623047,
+                  407.8637390136719,
+                  416.5445556640625,
+                  421.5686950683594
+                ],
+                "relative_path": "PORFP_-_Dell_Laptop_Final.pdf"
+              },
+              "section_id": "e5c7efd648f9485e-section-40"
+            },
+            {
+              "page_id": "e5c7efd648f9485e",
+              "page_number": 2,
+              "source_locator": {
+                "page_number": 2,
+                "block_index": 5,
+                "line_index": 21,
+                "bbox": [
+                  237.84222412109375,
+                  432.22589111328125,
+                  544.34130859375,
+                  445.93084716796875
+                ],
+                "relative_path": "PORFP_-_Dell_Laptop_Final.pdf"
+              },
+              "section_id": "e5c7efd648f9485e-section-41"
+            },
+            {
+              "page_id": "e5c7efd648f9485e",
+              "page_number": 2,
+              "source_locator": {
+                "page_number": 2,
+                "block_index": 5,
+                "line_index": 22,
+                "bbox": [
+                  255.83993530273438,
+                  444.3471984863281,
+                  568.033203125,
+                  457.8330383300781
+                ],
+                "relative_path": "PORFP_-_Dell_Laptop_Final.pdf"
+              },
+              "section_id": "e5c7efd648f9485e-section-42"
+            },
+            {
+              "page_id": "e5c7efd648f9485e",
+              "page_number": 2,
+              "source_locator": {
+                "page_number": 2,
+                "block_index": 5,
+                "line_index": 23,
+                "bbox": [
+                  255.83999633789062,
+                  456.4520568847656,
+                  416.4250793457031,
+                  469.9378967285156
+                ],
+                "relative_path": "PORFP_-_Dell_Laptop_Final.pdf"
+              },
+              "section_id": "e5c7efd648f9485e-section-43"
+            },
+            {
+              "page_id": "e5c7efd648f9485e",
+              "page_number": 2,
+              "source_locator": {
+                "page_number": 2,
+                "block_index": 5,
+                "line_index": 25,
+                "bbox": [
+                  234.0,
+                  482.1628723144531,
+                  422.42327880859375,
+                  495.8578796386719
+                ],
+                "relative_path": "PORFP_-_Dell_Laptop_Final.pdf"
+              },
+              "section_id": "e5c7efd648f9485e-section-44"
+            },
+            {
+              "page_id": "e5c7efd648f9485e",
+              "page_number": 2,
+              "source_locator": {
+                "page_number": 2,
+                "block_index": 5,
+                "line_index": 27,
+                "bbox": [
+                  75.5999984741211,
+                  507.00286865234375,
+                  208.24632263183594,
+                  520.6978759765625
+                ],
+                "relative_path": "PORFP_-_Dell_Laptop_Final.pdf"
+              },
+              "section_id": "e5c7efd648f9485e-section-45"
+            },
+            {
+              "page_id": "e5c7efd648f9485e",
+              "page_number": 2,
+              "source_locator": {
+                "page_number": 2,
+                "block_index": 6,
+                "line_index": 0,
+                "bbox": [
+                  237.83999633789062,
+                  507.2120361328125,
+                  352.1004333496094,
+                  520.9169921875
+                ],
+                "relative_path": "PORFP_-_Dell_Laptop_Final.pdf"
+              },
+              "section_id": "e5c7efd648f9485e-section-46"
+            },
+            {
+              "page_id": "e5c7efd648f9485e",
+              "page_number": 2,
+              "source_locator": {
+                "page_number": 2,
+                "block_index": 6,
+                "line_index": 1,
+                "bbox": [
+                  255.83999633789062,
+                  519.33203125,
+                  483.38616943359375,
+                  532.81787109375
+                ],
+                "relative_path": "PORFP_-_Dell_Laptop_Final.pdf"
+              },
+              "section_id": "e5c7efd648f9485e-section-47"
+            },
+            {
+              "page_id": "e5c7efd648f9485e",
+              "page_number": 2,
+              "source_locator": {
+                "page_number": 2,
+                "block_index": 6,
+                "line_index": 3,
+                "bbox": [
+                  237.84226989746094,
+                  543.693359375,
+                  568.3082275390625,
+                  557.3983154296875
+                ],
+                "relative_path": "PORFP_-_Dell_Laptop_Final.pdf"
+              },
+              "section_id": "e5c7efd648f9485e-section-48"
+            }
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "case_id": "C009",
+    "query": "Addendum 2 changes",
+    "expected_record_ids": [
+      "0911777018856efee41c4ced"
+    ],
+    "bid_id": "Bid1",
+    "category": "addendum",
+    "expected_passages": [
+      {
+        "record_id": "0911777018856efee41c4ced",
+        "excerpt": "The new due date for this RFP will be July 9, 2024 at 2:00 PM CST.",
+        "bid_id": "Bid1",
+        "source_file": "Addendum 2 RFP JA-207652 Student and Staff Computing Devices.pdf",
+        "page_number": 1,
+        "source_locator": {
+          "page_number": 1,
+          "block_index": 4,
+          "line_index": 3,
+          "bbox": [
+            72.0,
+            125.94984436035156,
+            369.4503173828125,
+            139.3931121826172
+          ],
+          "relative_path": "Addendum 2 RFP JA-207652 Student and Staff Computing Devices.pdf",
+          "section_title": "The Purpose of this Addendum is to extend the due date of this RFP.",
+          "heading_path": [
+            "ADDENDUM No. 2",
+            "RFP JA-207652 Student and Staff Computing Devices",
+            "The Purpose of this Addendum is to extend the due date of this RFP."
+          ],
+          "page_ids": [
+            "3dbe667466250cce"
+          ],
+          "page_numbers": [
+            1
+          ],
+          "section_ids": [
+            "3dbe667466250cce-section-4",
+            "3dbe667466250cce-section-5",
+            "3dbe667466250cce-section-6",
+            "3dbe667466250cce-section-7"
+          ],
+          "source_segments": [
+            {
+              "page_id": "3dbe667466250cce",
+              "page_number": 1,
+              "source_locator": {
+                "page_number": 1,
+                "block_index": 4,
+                "line_index": 3,
+                "bbox": [
+                  72.0,
+                  125.94984436035156,
+                  369.4503173828125,
+                  139.3931121826172
+                ],
+                "relative_path": "Addendum 2 RFP JA-207652 Student and Staff Computing Devices.pdf"
+              },
+              "section_id": "3dbe667466250cce-section-4"
+            },
+            {
+              "page_id": "3dbe667466250cce",
+              "page_number": 1,
+              "source_locator": {
+                "page_number": 1,
+                "block_index": 4,
+                "line_index": 6,
+                "bbox": [
+                  72.0,
+                  166.26983642578125,
+                  541.9853515625,
+                  179.71310424804688
+                ],
+                "relative_path": "Addendum 2 RFP JA-207652 Student and Staff Computing Devices.pdf"
+              },
+              "section_id": "3dbe667466250cce-section-5"
+            },
+            {
+              "page_id": "3dbe667466250cce",
+              "page_number": 1,
+              "source_locator": {
+                "page_number": 1,
+                "block_index": 4,
+                "line_index": 7,
+                "bbox": [
+                  72.0,
+                  179.70985412597656,
+                  199.70062255859375,
+                  193.1531219482422
+                ],
+                "relative_path": "Addendum 2 RFP JA-207652 Student and Staff Computing Devices.pdf"
+              },
+              "section_id": "3dbe667466250cce-section-6"
+            },
+            {
+              "page_id": "3dbe667466250cce",
+              "page_number": 1,
+              "source_locator": {
+                "page_number": 1,
+                "block_index": 4,
+                "line_index": 9,
+                "bbox": [
+                  72.0,
+                  206.46983337402344,
+                  542.0238647460938,
+                  219.91310119628906
+                ],
+                "relative_path": "Addendum 2 RFP JA-207652 Student and Staff Computing Devices.pdf"
+              },
+              "section_id": "3dbe667466250cce-section-7"
+            }
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "case_id": "C010",
+    "query": "CPU RAM storage",
+    "expected_record_ids": [
+      "63824d3d8acea998a27f158a"
+    ],
+    "bid_id": "Bid2",
+    "category": "specification",
+    "expected_passages": [
+      {
+        "record_id": "63824d3d8acea998a27f158a",
+        "excerpt": "Intel Core Ultra 5 125U processor",
+        "bid_id": "Bid2",
+        "source_file": "Dell_Laptop_Specs.pdf",
+        "page_number": 1,
+        "source_locator": {
+          "page_number": 1,
+          "block_index": 31,
+          "line_index": 0,
+          "bbox": [
+            22.254989624023438,
+            111.80016326904297,
+            70.72203826904297,
+            121.72078704833984
+          ],
+          "relative_path": "Dell_Laptop_Specs.pdf",
+          "section_title": "SI# CC7802 Dell Latitude 5550",
+          "heading_path": [
+            "SI# CC7802 Dell Latitude 5550"
+          ],
+          "page_ids": [
+            "a1a8d59eb77fd327"
+          ],
+          "page_numbers": [
+            1
+          ],
+          "section_ids": [
+            "a1a8d59eb77fd327-section-31",
+            "a1a8d59eb77fd327-section-32",
+            "a1a8d59eb77fd327-section-33",
+            "a1a8d59eb77fd327-section-34",
+            "a1a8d59eb77fd327-section-35",
+            "a1a8d59eb77fd327-section-36",
+            "a1a8d59eb77fd327-section-37",
+            "a1a8d59eb77fd327-section-38",
+            "a1a8d59eb77fd327-section-39",
+            "a1a8d59eb77fd327-section-40",
+            "a1a8d59eb77fd327-section-41",
+            "a1a8d59eb77fd327-section-42",
+            "a1a8d59eb77fd327-section-43",
+            "a1a8d59eb77fd327-section-44",
+            "a1a8d59eb77fd327-section-45",
+            "a1a8d59eb77fd327-section-46",
+            "a1a8d59eb77fd327-section-47"
+          ],
+          "source_segments": [
+            {
+              "page_id": "a1a8d59eb77fd327",
+              "page_number": 1,
+              "source_locator": {
+                "page_number": 1,
+                "block_index": 31,
+                "line_index": 0,
+                "bbox": [
+                  22.254989624023438,
+                  111.80016326904297,
+                  70.72203826904297,
+                  121.72078704833984
+                ],
+                "relative_path": "Dell_Laptop_Specs.pdf"
+              },
+              "section_id": "a1a8d59eb77fd327-section-31"
+            },
+            {
+              "page_id": "a1a8d59eb77fd327",
+              "page_number": 1,
+              "source_locator": {
+                "page_number": 1,
+                "block_index": 32,
+                "line_index": 0,
+                "bbox": [
+                  22.254989624023438,
+                  129.8001708984375,
+                  144.48756408691406,
+                  139.7207794189453
+                ],
+                "relative_path": "Dell_Laptop_Specs.pdf"
+              },
+              "section_id": "a1a8d59eb77fd327-section-32"
+            },
+            {
+              "page_id": "a1a8d59eb77fd327",
+              "page_number": 1,
+              "source_locator": {
+                "page_number": 1,
+                "block_index": 33,
+                "line_index": 0,
+                "bbox": [
+                  22.254989624023438,
+                  146.60379028320312,
+                  270.31463623046875,
+                  158.72499084472656
+                ],
+                "relative_path": "Dell_Laptop_Specs.pdf"
+              },
+              "section_id": "a1a8d59eb77fd327-section-33"
+            },
+            {
+              "page_id": "a1a8d59eb77fd327",
+              "page_number": 1,
+              "source_locator": {
+                "page_number": 1,
+                "block_index": 33,
+                "line_index": 1,
+                "bbox": [
+                  22.2550048828125,
+                  158.12017822265625,
+                  140.90538024902344,
+                  168.04078674316406
+                ],
+                "relative_path": "Dell_Laptop_Specs.pdf"
+              },
+              "section_id": "a1a8d59eb77fd327-section-34"
+            },
+            {
+              "page_id": "a1a8d59eb77fd327",
+              "page_number": 1,
+              "source_locator": {
+                "page_number": 1,
+                "block_index": 34,
+                "line_index": 0,
+                "bbox": [
+                  22.2550048828125,
+                  174.92379760742188,
+                  276.4166564941406,
+                  187.0449981689453
+                ],
+                "relative_path": "Dell_Laptop_Specs.pdf"
+              },
+              "section_id": "a1a8d59eb77fd327-section-35"
+            },
+            {
+              "page_id": "a1a8d59eb77fd327",
+              "page_number": 1,
+              "source_locator": {
+                "page_number": 1,
+                "block_index": 34,
+                "line_index": 1,
+                "bbox": [
+                  22.255035400390625,
+                  186.440185546875,
+                  54.09872055053711,
+                  196.3607940673828
+                ],
+                "relative_path": "Dell_Laptop_Specs.pdf"
+              },
+              "section_id": "a1a8d59eb77fd327-section-36"
+            },
+            {
+              "page_id": "a1a8d59eb77fd327",
+              "page_number": 1,
+              "source_locator": {
+                "page_number": 1,
+                "block_index": 35,
+                "line_index": 0,
+                "bbox": [
+                  22.255035400390625,
+                  203.24380493164062,
+                  268.67364501953125,
+                  215.36500549316406
+                ],
+                "relative_path": "Dell_Laptop_Specs.pdf"
+              },
+              "section_id": "a1a8d59eb77fd327-section-37"
+            },
+            {
+              "page_id": "a1a8d59eb77fd327",
+              "page_number": 1,
+              "source_locator": {
+                "page_number": 1,
+                "block_index": 36,
+                "line_index": 0,
+                "bbox": [
+                  22.255020141601562,
+                  222.440185546875,
+                  126.54507446289062,
+                  232.3607940673828
+                ],
+                "relative_path": "Dell_Laptop_Specs.pdf"
+              },
+              "section_id": "a1a8d59eb77fd327-section-38"
+            },
+            {
+              "page_id": "a1a8d59eb77fd327",
+              "page_number": 1,
+              "source_locator": {
+                "page_number": 1,
+                "block_index": 37,
+                "line_index": 0,
+                "bbox": [
+                  22.255020141601562,
+                  239.24380493164062,
+                  269.5146484375,
+                  251.36500549316406
+                ],
+                "relative_path": "Dell_Laptop_Specs.pdf"
+              },
+              "section_id": "a1a8d59eb77fd327-section-39"
+            },
+            {
+              "page_id": "a1a8d59eb77fd327",
+              "page_number": 1,
+              "source_locator": {
+                "page_number": 1,
+                "block_index": 38,
+                "line_index": 0,
+                "bbox": [
+                  22.255020141601562,
+                  258.440185546875,
+                  170.94161987304688,
+                  268.3608093261719
+                ],
+                "relative_path": "Dell_Laptop_Specs.pdf"
+              },
+              "section_id": "a1a8d59eb77fd327-section-40"
+            },
+            {
+              "page_id": "a1a8d59eb77fd327",
+              "page_number": 1,
+              "source_locator": {
+                "page_number": 1,
+                "block_index": 39,
+                "line_index": 0,
+                "bbox": [
+                  22.255020141601562,
+                  276.440185546875,
+                  173.73475646972656,
+                  286.3608093261719
+                ],
+                "relative_path": "Dell_Laptop_Specs.pdf"
+              },
+              "section_id": "a1a8d59eb77fd327-section-41"
+            },
+            {
+              "page_id": "a1a8d59eb77fd327",
+              "page_number": 1,
+              "source_locator": {
+                "page_number": 1,
+                "block_index": 40,
+                "line_index": 0,
+                "bbox": [
+                  22.255020141601562,
+                  294.440185546875,
+                  151.62783813476562,
+                  304.3608093261719
+                ],
+                "relative_path": "Dell_Laptop_Specs.pdf"
+              },
+              "section_id": "a1a8d59eb77fd327-section-42"
+            },
+            {
+              "page_id": "a1a8d59eb77fd327",
+              "page_number": 1,
+              "source_locator": {
+                "page_number": 1,
+                "block_index": 41,
+                "line_index": 0,
+                "bbox": [
+                  22.255027770996094,
+                  311.2438049316406,
+                  291.7216491699219,
+                  323.364990234375
+                ],
+                "relative_path": "Dell_Laptop_Specs.pdf"
+              },
+              "section_id": "a1a8d59eb77fd327-section-43"
+            },
+            {
+              "page_id": "a1a8d59eb77fd327",
+              "page_number": 1,
+              "source_locator": {
+                "page_number": 1,
+                "block_index": 41,
+                "line_index": 1,
+                "bbox": [
+                  22.255035400390625,
+                  322.76019287109375,
+                  90.20219421386719,
+                  332.6808166503906
+                ],
+                "relative_path": "Dell_Laptop_Specs.pdf"
+              },
+              "section_id": "a1a8d59eb77fd327-section-44"
+            },
+            {
+              "page_id": "a1a8d59eb77fd327",
+              "page_number": 1,
+              "source_locator": {
+                "page_number": 1,
+                "block_index": 42,
+                "line_index": 0,
+                "bbox": [
+                  22.255035400390625,
+                  340.76019287109375,
+                  219.22023010253906,
+                  350.6808166503906
+                ],
+                "relative_path": "Dell_Laptop_Specs.pdf"
+              },
+              "section_id": "a1a8d59eb77fd327-section-45"
+            },
+            {
+              "page_id": "a1a8d59eb77fd327",
+              "page_number": 1,
+              "source_locator": {
+                "page_number": 1,
+                "block_index": 43,
+                "line_index": 0,
+                "bbox": [
+                  22.255035400390625,
+                  358.76019287109375,
+                  280.0787353515625,
+                  368.6808166503906
+                ],
+                "relative_path": "Dell_Laptop_Specs.pdf"
+              },
+              "section_id": "a1a8d59eb77fd327-section-46"
+            },
+            {
+              "page_id": "a1a8d59eb77fd327",
+              "page_number": 1,
+              "source_locator": {
+                "page_number": 1,
+                "block_index": 43,
+                "line_index": 1,
+                "bbox": [
+                  22.255050659179688,
+                  369.0802001953125,
+                  91.1647720336914,
+                  379.0008239746094
+                ],
+                "relative_path": "Dell_Laptop_Specs.pdf"
+              },
+              "section_id": "a1a8d59eb77fd327-section-47"
+            }
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "case_id": "C011",
+    "query": "payment terms",
+    "expected_record_ids": [
+      "d60f433e1430aa0e7f81f8d3"
+    ],
+    "bid_id": "Bid1",
+    "category": "commercial",
+    "expected_passages": [
+      {
+        "record_id": "d60f433e1430aa0e7f81f8d3",
+        "excerpt": "Subcontractor Payment.",
+        "bid_id": "Bid1",
+        "source_file": "JA-207652 Student and Staff Computing Devices FINAL.pdf",
+        "page_number": 51,
+        "source_locator": {
+          "page_number": 51,
+          "block_index": 3,
+          "line_index": 1,
+          "bbox": [
+            36.0,
+            125.16998291015625,
+            573.876708984375,
+            136.16998291015625
+          ],
+          "relative_path": "JA-207652 Student and Staff Computing Devices FINAL.pdf",
+          "section_title": "Section 15. | After Bid/RFP Submission",
+          "heading_path": [
+            "Section 15. | After Bid/RFP Submission"
+          ],
+          "page_ids": [
+            "c916a5ed57c765a3"
+          ],
+          "page_numbers": [
+            51
+          ],
+          "section_ids": [
+            "c916a5ed57c765a3-section-1",
+            "c916a5ed57c765a3-section-2",
+            "c916a5ed57c765a3-section-3",
+            "c916a5ed57c765a3-section-4",
+            "c916a5ed57c765a3-section-5",
+            "c916a5ed57c765a3-section-6",
+            "c916a5ed57c765a3-section-7",
+            "c916a5ed57c765a3-section-8"
+          ],
+          "source_segments": [
+            {
+              "page_id": "c916a5ed57c765a3",
+              "page_number": 51,
+              "source_locator": {
+                "page_number": 51,
+                "block_index": 3,
+                "line_index": 1,
+                "bbox": [
+                  36.0,
+                  125.16998291015625,
+                  573.876708984375,
+                  136.16998291015625
+                ],
+                "relative_path": "JA-207652 Student and Staff Computing Devices FINAL.pdf"
+              },
+              "section_id": "c916a5ed57c765a3-section-1"
+            },
+            {
+              "page_id": "c916a5ed57c765a3",
+              "page_number": 51,
+              "source_locator": {
+                "page_number": 51,
+                "block_index": 3,
+                "line_index": 2,
+                "bbox": [
+                  36.0,
+                  138.58001708984375,
+                  574.22705078125,
+                  149.58001708984375
+                ],
+                "relative_path": "JA-207652 Student and Staff Computing Devices FINAL.pdf"
+              },
+              "section_id": "c916a5ed57c765a3-section-2"
+            },
+            {
+              "page_id": "c916a5ed57c765a3",
+              "page_number": 51,
+              "source_locator": {
+                "page_number": 51,
+                "block_index": 3,
+                "line_index": 3,
+                "bbox": [
+                  36.0,
+                  152.0,
+                  573.4490356445312,
+                  163.0
+                ],
+                "relative_path": "JA-207652 Student and Staff Computing Devices FINAL.pdf"
+              },
+              "section_id": "c916a5ed57c765a3-section-3"
+            },
+            {
+              "page_id": "c916a5ed57c765a3",
+              "page_number": 51,
+              "source_locator": {
+                "page_number": 51,
+                "block_index": 3,
+                "line_index": 4,
+                "bbox": [
+                  36.0,
+                  165.5999755859375,
+                  341.58599853515625,
+                  176.5999755859375
+                ],
+                "relative_path": "JA-207652 Student and Staff Computing Devices FINAL.pdf"
+              },
+              "section_id": "c916a5ed57c765a3-section-4"
+            },
+            {
+              "page_id": "c916a5ed57c765a3",
+              "page_number": 51,
+              "source_locator": {
+                "page_number": 51,
+                "block_index": 3,
+                "line_index": 6,
+                "bbox": [
+                  36.0,
+                  192.4000244140625,
+                  573.7799682617188,
+                  203.4000244140625
+                ],
+                "relative_path": "JA-207652 Student and Staff Computing Devices FINAL.pdf"
+              },
+              "section_id": "c916a5ed57c765a3-section-5"
+            },
+            {
+              "page_id": "c916a5ed57c765a3",
+              "page_number": 51,
+              "source_locator": {
+                "page_number": 51,
+                "block_index": 3,
+                "line_index": 7,
+                "bbox": [
+                  36.0,
+                  205.79998779296875,
+                  571.2660522460938,
+                  216.79998779296875
+                ],
+                "relative_path": "JA-207652 Student and Staff Computing Devices FINAL.pdf"
+              },
+              "section_id": "c916a5ed57c765a3-section-6"
+            },
+            {
+              "page_id": "c916a5ed57c765a3",
+              "page_number": 51,
+              "source_locator": {
+                "page_number": 51,
+                "block_index": 4,
+                "line_index": 0,
+                "bbox": [
+                  54.025001525878906,
+                  230.39501953125,
+                  62.08300018310547,
+                  243.82601928710938
+                ],
+                "relative_path": "JA-207652 Student and Staff Computing Devices FINAL.pdf"
+              },
+              "section_id": "c916a5ed57c765a3-section-7"
+            },
+            {
+              "page_id": "c916a5ed57c765a3",
+              "page_number": 51,
+              "source_locator": {
+                "page_number": 51,
+                "block_index": 4,
+                "line_index": 1,
+                "bbox": [
+                  72.0250015258789,
+                  233.20001220703125,
+                  574.0720825195312,
+                  244.20001220703125
+                ],
+                "relative_path": "JA-207652 Student and Staff Computing Devices FINAL.pdf"
+              },
+              "section_id": "c916a5ed57c765a3-section-8"
+            }
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "case_id": "C012",
+    "query": "pre bid meeting",
+    "expected_record_ids": [
+      "f513d3166b3a724d7df5e097"
+    ],
+    "bid_id": "Bid1",
+    "category": "deadline",
+    "expected_passages": [
+      {
+        "record_id": "f513d3166b3a724d7df5e097",
+        "excerpt": "pre-bid/proposal conference",
+        "bid_id": "Bid1",
+        "source_file": "JA-207652 Student and Staff Computing Devices FINAL.pdf",
+        "page_number": 47,
+        "source_locator": {
+          "page_number": 47,
+          "block_index": 39,
+          "line_index": 0,
+          "bbox": [
+            41.42499923706055,
+            494.6199951171875,
+            357.760009765625,
+            504.6199951171875
+          ],
+          "relative_path": "JA-207652 Student and Staff Computing Devices FINAL.pdf",
+          "section_title": "was due to determine whether any M/WBEs were interested in subcontracting and/or joint ventures?",
+          "heading_path": [
+            "was due to determine whether any M/WBEs were interested in subcontracting and/or joint ventures?"
+          ],
+          "page_ids": [
+            "5488148ed4f6143e"
+          ],
+          "page_numbers": [
+            47
+          ],
+          "section_ids": [
+            "5488148ed4f6143e-section-38",
+            "5488148ed4f6143e-section-39",
+            "5488148ed4f6143e-section-40",
+            "5488148ed4f6143e-section-41"
+          ],
+          "source_segments": [
+            {
+              "page_id": "5488148ed4f6143e",
+              "page_number": 47,
+              "source_locator": {
+                "page_number": 47,
+                "block_index": 39,
+                "line_index": 0,
+                "bbox": [
+                  41.42499923706055,
+                  494.6199951171875,
+                  357.760009765625,
+                  504.6199951171875
+                ],
+                "relative_path": "JA-207652 Student and Staff Computing Devices FINAL.pdf"
+              },
+              "section_id": "5488148ed4f6143e-section-38"
+            },
+            {
+              "page_id": "5488148ed4f6143e",
+              "page_number": 47,
+              "source_locator": {
+                "page_number": 47,
+                "block_index": 39,
+                "line_index": 3,
+                "bbox": [
+                  41.42499923706055,
+                  509.4200439453125,
+                  492.1400451660156,
+                  519.4200439453125
+                ],
+                "relative_path": "JA-207652 Student and Staff Computing Devices FINAL.pdf"
+              },
+              "section_id": "5488148ed4f6143e-section-39"
+            },
+            {
+              "page_id": "5488148ed4f6143e",
+              "page_number": 47,
+              "source_locator": {
+                "page_number": 47,
+                "block_index": 39,
+                "line_index": 4,
+                "bbox": [
+                  55.82500076293945,
+                  521.6199951171875,
+                  457.4100036621094,
+                  531.6199951171875
+                ],
+                "relative_path": "JA-207652 Student and Staff Computing Devices FINAL.pdf"
+              },
+              "section_id": "5488148ed4f6143e-section-40"
+            },
+            {
+              "page_id": "5488148ed4f6143e",
+              "page_number": 47,
+              "source_locator": {
+                "page_number": 47,
+                "block_index": 40,
+                "line_index": 0,
+                "bbox": [
+                  41.42499923706055,
+                  534.219970703125,
+                  463.4601135253906,
+                  544.219970703125
+                ],
+                "relative_path": "JA-207652 Student and Staff Computing Devices FINAL.pdf"
+              },
+              "section_id": "5488148ed4f6143e-section-41"
+            }
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "case_id": "C013",
+    "query": "issuing organization",
+    "expected_record_ids": [
+      "eba60a2c9487791b05fe583a"
+    ],
+    "bid_id": "Bid2",
+    "category": "identity",
+    "expected_passages": [
+      {
+        "record_id": "eba60a2c9487791b05fe583a",
+        "excerpt": "entity issuing this Quote",
+        "bid_id": "Bid2",
+        "source_file": "Dell_Laptop_Specs.pdf",
+        "page_number": 3,
+        "source_locator": {
+          "page_number": 3,
+          "block_index": 2,
+          "line_index": 0,
+          "bbox": [
+            21.119998931884766,
+            100.20116424560547,
+            554.2879638671875,
+            110.12178802490234
+          ],
+          "relative_path": "Dell_Laptop_Specs.pdf",
+          "section_title": "Terms of Sale",
+          "heading_path": [
+            "SI# CC7802 Dell Latitude 5550",
+            "Important Notes",
+            "Terms of Sale"
+          ],
+          "page_ids": [
+            "b82aa2054b308ac6"
+          ],
+          "page_numbers": [
+            3
+          ],
+          "section_ids": [
+            "b82aa2054b308ac6-section-2",
+            "b82aa2054b308ac6-section-3",
+            "b82aa2054b308ac6-section-4",
+            "b82aa2054b308ac6-section-5",
+            "b82aa2054b308ac6-section-6"
+          ],
+          "source_segments": [
+            {
+              "page_id": "b82aa2054b308ac6",
+              "page_number": 3,
+              "source_locator": {
+                "page_number": 3,
+                "block_index": 2,
+                "line_index": 0,
+                "bbox": [
+                  21.119998931884766,
+                  100.20116424560547,
+                  554.2879638671875,
+                  110.12178802490234
+                ],
+                "relative_path": "Dell_Laptop_Specs.pdf"
+              },
+              "section_id": "b82aa2054b308ac6-section-2"
+            },
+            {
+              "page_id": "b82aa2054b308ac6",
+              "page_number": 3,
+              "source_locator": {
+                "page_number": 3,
+                "block_index": 2,
+                "line_index": 1,
+                "bbox": [
+                  21.119998931884766,
+                  110.52123260498047,
+                  562.1531982421875,
+                  120.44185638427734
+                ],
+                "relative_path": "Dell_Laptop_Specs.pdf"
+              },
+              "section_id": "b82aa2054b308ac6-section-3"
+            },
+            {
+              "page_id": "b82aa2054b308ac6",
+              "page_number": 3,
+              "source_locator": {
+                "page_number": 3,
+                "block_index": 2,
+                "line_index": 2,
+                "bbox": [
+                  21.119998931884766,
+                  120.84130096435547,
+                  563.1544799804688,
+                  130.7619171142578
+                ],
+                "relative_path": "Dell_Laptop_Specs.pdf"
+              },
+              "section_id": "b82aa2054b308ac6-section-4"
+            },
+            {
+              "page_id": "b82aa2054b308ac6",
+              "page_number": 3,
+              "source_locator": {
+                "page_number": 3,
+                "block_index": 2,
+                "line_index": 3,
+                "bbox": [
+                  21.119998931884766,
+                  131.161376953125,
+                  564.650390625,
+                  141.0819854736328
+                ],
+                "relative_path": "Dell_Laptop_Specs.pdf"
+              },
+              "section_id": "b82aa2054b308ac6-section-5"
+            },
+            {
+              "page_id": "b82aa2054b308ac6",
+              "page_number": 3,
+              "source_locator": {
+                "page_number": 3,
+                "block_index": 2,
+                "line_index": 4,
+                "bbox": [
+                  21.119998931884766,
+                  141.481201171875,
+                  564.1707153320312,
+                  151.4018096923828
+                ],
+                "relative_path": "Dell_Laptop_Specs.pdf"
+              },
+              "section_id": "b82aa2054b308ac6-section-6"
+            }
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "case_id": "C014",
+    "query": "compare warranty",
+    "expected_record_ids": [
+      "6bb888f176a85c1b232ff564"
+    ],
+    "bid_id": "both",
+    "category": "comparison",
+    "expected_passages": [
+      {
+        "record_id": "6bb888f176a85c1b232ff564",
+        "excerpt": "All warranties shall become effective on the date the equipment is placed into service",
+        "bid_id": "Bid1",
+        "source_file": "JA-207652 Student and Staff Computing Devices FINAL.pdf",
+        "page_number": 4,
+        "source_locator": {
+          "page_number": 4,
+          "block_index": 2,
+          "line_index": 1,
+          "bbox": [
+            480.510009765625,
+            758.3909912109375,
+            540.0,
+            772.1309814453125
+          ],
+          "relative_path": "JA-207652 Student and Staff Computing Devices FINAL.pdf",
+          "section_title": "JA-207652 Student and Staff Computing Devices",
+          "heading_path": [
+            "PURCHASING DEPARTMENT",
+            "JA-207652 Student and Staff Computing Devices"
+          ],
+          "page_ids": [
+            "82af2ad43f45e9d1"
+          ],
+          "page_numbers": [
+            4
+          ],
+          "section_ids": [
+            "82af2ad43f45e9d1-section-2",
+            "82af2ad43f45e9d1-section-3",
+            "82af2ad43f45e9d1-section-4",
+            "82af2ad43f45e9d1-section-5",
+            "82af2ad43f45e9d1-section-6",
+            "82af2ad43f45e9d1-section-7",
+            "82af2ad43f45e9d1-section-8",
+            "82af2ad43f45e9d1-section-9",
+            "82af2ad43f45e9d1-section-10"
+          ],
+          "source_segments": [
+            {
+              "page_id": "82af2ad43f45e9d1",
+              "page_number": 4,
+              "source_locator": {
+                "page_number": 4,
+                "block_index": 2,
+                "line_index": 1,
+                "bbox": [
+                  480.510009765625,
+                  758.3909912109375,
+                  540.0,
+                  772.1309814453125
+                ],
+                "relative_path": "JA-207652 Student and Staff Computing Devices FINAL.pdf"
+              },
+              "section_id": "82af2ad43f45e9d1-section-2"
+            },
+            {
+              "page_id": "82af2ad43f45e9d1",
+              "page_number": 4,
+              "source_locator": {
+                "page_number": 4,
+                "block_index": 3,
+                "line_index": 0,
+                "bbox": [
+                  72.0,
+                  52.9909782409668,
+                  260.3599853515625,
+                  66.76097869873047
+                ],
+                "relative_path": "JA-207652 Student and Staff Computing Devices FINAL.pdf"
+              },
+              "section_id": "82af2ad43f45e9d1-section-3"
+            },
+            {
+              "page_id": "82af2ad43f45e9d1",
+              "page_number": 4,
+              "source_locator": {
+                "page_number": 4,
+                "block_index": 3,
+                "line_index": 1,
+                "bbox": [
+                  72.0,
+                  64.89100646972656,
+                  128.1199951171875,
+                  78.66100311279297
+                ],
+                "relative_path": "JA-207652 Student and Staff Computing Devices FINAL.pdf"
+              },
+              "section_id": "82af2ad43f45e9d1-section-4"
+            },
+            {
+              "page_id": "82af2ad43f45e9d1",
+              "page_number": 4,
+              "source_locator": {
+                "page_number": 4,
+                "block_index": 3,
+                "line_index": 2,
+                "bbox": [
+                  72.0,
+                  76.6510009765625,
+                  539.9998779296875,
+                  90.39099884033203
+                ],
+                "relative_path": "JA-207652 Student and Staff Computing Devices FINAL.pdf"
+              },
+              "section_id": "82af2ad43f45e9d1-section-5"
+            },
+            {
+              "page_id": "82af2ad43f45e9d1",
+              "page_number": 4,
+              "source_locator": {
+                "page_number": 4,
+                "block_index": 3,
+                "line_index": 3,
+                "bbox": [
+                  72.0,
+                  88.21099853515625,
+                  533.8998413085938,
+                  101.95099639892578
+                ],
+                "relative_path": "JA-207652 Student and Staff Computing Devices FINAL.pdf"
+              },
+              "section_id": "82af2ad43f45e9d1-section-6"
+            },
+            {
+              "page_id": "82af2ad43f45e9d1",
+              "page_number": 4,
+              "source_locator": {
+                "page_number": 4,
+                "block_index": 3,
+                "line_index": 4,
+                "bbox": [
+                  72.0,
+                  99.77099609375,
+                  534.9398803710938,
+                  113.51099395751953
+                ],
+                "relative_path": "JA-207652 Student and Staff Computing Devices FINAL.pdf"
+              },
+              "section_id": "82af2ad43f45e9d1-section-7"
+            },
+            {
+              "page_id": "82af2ad43f45e9d1",
+              "page_number": 4,
+              "source_locator": {
+                "page_number": 4,
+                "block_index": 3,
+                "line_index": 5,
+                "bbox": [
+                  72.0,
+                  111.33099365234375,
+                  532.7598876953125,
+                  125.07099151611328
+                ],
+                "relative_path": "JA-207652 Student and Staff Computing Devices FINAL.pdf"
+              },
+              "section_id": "82af2ad43f45e9d1-section-8"
+            },
+            {
+              "page_id": "82af2ad43f45e9d1",
+              "page_number": 4,
+              "source_locator": {
+                "page_number": 4,
+                "block_index": 4,
+                "line_index": 0,
+                "bbox": [
+                  72.0,
+                  140.8909912109375,
+                  526.0999145507812,
+                  154.63099670410156
+                ],
+                "relative_path": "JA-207652 Student and Staff Computing Devices FINAL.pdf"
+              },
+              "section_id": "82af2ad43f45e9d1-section-9"
+            },
+            {
+              "page_id": "82af2ad43f45e9d1",
+              "page_number": 4,
+              "source_locator": {
+                "page_number": 4,
+                "block_index": 4,
+                "line_index": 1,
+                "bbox": [
+                  72.0,
+                  152.45098876953125,
+                  537.2098999023438,
+                  166.1909942626953
+                ],
+                "relative_path": "JA-207652 Student and Staff Computing Devices FINAL.pdf"
+              },
+              "section_id": "82af2ad43f45e9d1-section-10"
+            }
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "case_id": "C015",
+    "query": "ZXQ-UNAVAILABLE-9981",
+    "expected_record_ids": [],
+    "bid_id": "both",
+    "category": "not-found",
+    "expected_passages": []
+  },
+  {
+    "case_id": "C017",
+    "query": "Dell Latitude 5550 SKU 210-BLYZ",
+    "expected_record_ids": [
+      "63824d3d8acea998a27f158a"
+    ],
+    "bid_id": "Bid2",
+    "category": "exact",
+    "expected_passages": [
+      {
+        "record_id": "63824d3d8acea998a27f158a",
+        "excerpt": "Dell Latitude 5550",
+        "bid_id": "Bid2",
+        "source_file": "Dell_Laptop_Specs.pdf",
+        "page_number": 1,
+        "source_locator": {
+          "page_number": 1,
+          "block_index": 31,
+          "line_index": 0,
+          "bbox": [
+            22.254989624023438,
+            111.80016326904297,
+            70.72203826904297,
+            121.72078704833984
+          ],
+          "relative_path": "Dell_Laptop_Specs.pdf",
+          "section_title": "SI# CC7802 Dell Latitude 5550",
+          "heading_path": [
+            "SI# CC7802 Dell Latitude 5550"
+          ],
+          "page_ids": [
+            "a1a8d59eb77fd327"
+          ],
+          "page_numbers": [
+            1
+          ],
+          "section_ids": [
+            "a1a8d59eb77fd327-section-31",
+            "a1a8d59eb77fd327-section-32",
+            "a1a8d59eb77fd327-section-33",
+            "a1a8d59eb77fd327-section-34",
+            "a1a8d59eb77fd327-section-35",
+            "a1a8d59eb77fd327-section-36",
+            "a1a8d59eb77fd327-section-37",
+            "a1a8d59eb77fd327-section-38",
+            "a1a8d59eb77fd327-section-39",
+            "a1a8d59eb77fd327-section-40",
+            "a1a8d59eb77fd327-section-41",
+            "a1a8d59eb77fd327-section-42",
+            "a1a8d59eb77fd327-section-43",
+            "a1a8d59eb77fd327-section-44",
+            "a1a8d59eb77fd327-section-45",
+            "a1a8d59eb77fd327-section-46",
+            "a1a8d59eb77fd327-section-47"
+          ],
+          "source_segments": [
+            {
+              "page_id": "a1a8d59eb77fd327",
+              "page_number": 1,
+              "source_locator": {
+                "page_number": 1,
+                "block_index": 31,
+                "line_index": 0,
+                "bbox": [
+                  22.254989624023438,
+                  111.80016326904297,
+                  70.72203826904297,
+                  121.72078704833984
+                ],
+                "relative_path": "Dell_Laptop_Specs.pdf"
+              },
+              "section_id": "a1a8d59eb77fd327-section-31"
+            },
+            {
+              "page_id": "a1a8d59eb77fd327",
+              "page_number": 1,
+              "source_locator": {
+                "page_number": 1,
+                "block_index": 32,
+                "line_index": 0,
+                "bbox": [
+                  22.254989624023438,
+                  129.8001708984375,
+                  144.48756408691406,
+                  139.7207794189453
+                ],
+                "relative_path": "Dell_Laptop_Specs.pdf"
+              },
+              "section_id": "a1a8d59eb77fd327-section-32"
+            },
+            {
+              "page_id": "a1a8d59eb77fd327",
+              "page_number": 1,
+              "source_locator": {
+                "page_number": 1,
+                "block_index": 33,
+                "line_index": 0,
+                "bbox": [
+                  22.254989624023438,
+                  146.60379028320312,
+                  270.31463623046875,
+                  158.72499084472656
+                ],
+                "relative_path": "Dell_Laptop_Specs.pdf"
+              },
+              "section_id": "a1a8d59eb77fd327-section-33"
+            },
+            {
+              "page_id": "a1a8d59eb77fd327",
+              "page_number": 1,
+              "source_locator": {
+                "page_number": 1,
+                "block_index": 33,
+                "line_index": 1,
+                "bbox": [
+                  22.2550048828125,
+                  158.12017822265625,
+                  140.90538024902344,
+                  168.04078674316406
+                ],
+                "relative_path": "Dell_Laptop_Specs.pdf"
+              },
+              "section_id": "a1a8d59eb77fd327-section-34"
+            },
+            {
+              "page_id": "a1a8d59eb77fd327",
+              "page_number": 1,
+              "source_locator": {
+                "page_number": 1,
+                "block_index": 34,
+                "line_index": 0,
+                "bbox": [
+                  22.2550048828125,
+                  174.92379760742188,
+                  276.4166564941406,
+                  187.0449981689453
+                ],
+                "relative_path": "Dell_Laptop_Specs.pdf"
+              },
+              "section_id": "a1a8d59eb77fd327-section-35"
+            },
+            {
+              "page_id": "a1a8d59eb77fd327",
+              "page_number": 1,
+              "source_locator": {
+                "page_number": 1,
+                "block_index": 34,
+                "line_index": 1,
+                "bbox": [
+                  22.255035400390625,
+                  186.440185546875,
+                  54.09872055053711,
+                  196.3607940673828
+                ],
+                "relative_path": "Dell_Laptop_Specs.pdf"
+              },
+              "section_id": "a1a8d59eb77fd327-section-36"
+            },
+            {
+              "page_id": "a1a8d59eb77fd327",
+              "page_number": 1,
+              "source_locator": {
+                "page_number": 1,
+                "block_index": 35,
+                "line_index": 0,
+                "bbox": [
+                  22.255035400390625,
+                  203.24380493164062,
+                  268.67364501953125,
+                  215.36500549316406
+                ],
+                "relative_path": "Dell_Laptop_Specs.pdf"
+              },
+              "section_id": "a1a8d59eb77fd327-section-37"
+            },
+            {
+              "page_id": "a1a8d59eb77fd327",
+              "page_number": 1,
+              "source_locator": {
+                "page_number": 1,
+                "block_index": 36,
+                "line_index": 0,
+                "bbox": [
+                  22.255020141601562,
+                  222.440185546875,
+                  126.54507446289062,
+                  232.3607940673828
+                ],
+                "relative_path": "Dell_Laptop_Specs.pdf"
+              },
+              "section_id": "a1a8d59eb77fd327-section-38"
+            },
+            {
+              "page_id": "a1a8d59eb77fd327",
+              "page_number": 1,
+              "source_locator": {
+                "page_number": 1,
+                "block_index": 37,
+                "line_index": 0,
+                "bbox": [
+                  22.255020141601562,
+                  239.24380493164062,
+                  269.5146484375,
+                  251.36500549316406
+                ],
+                "relative_path": "Dell_Laptop_Specs.pdf"
+              },
+              "section_id": "a1a8d59eb77fd327-section-39"
+            },
+            {
+              "page_id": "a1a8d59eb77fd327",
+              "page_number": 1,
+              "source_locator": {
+                "page_number": 1,
+                "block_index": 38,
+                "line_index": 0,
+                "bbox": [
+                  22.255020141601562,
+                  258.440185546875,
+                  170.94161987304688,
+                  268.3608093261719
+                ],
+                "relative_path": "Dell_Laptop_Specs.pdf"
+              },
+              "section_id": "a1a8d59eb77fd327-section-40"
+            },
+            {
+              "page_id": "a1a8d59eb77fd327",
+              "page_number": 1,
+              "source_locator": {
+                "page_number": 1,
+                "block_index": 39,
+                "line_index": 0,
+                "bbox": [
+                  22.255020141601562,
+                  276.440185546875,
+                  173.73475646972656,
+                  286.3608093261719
+                ],
+                "relative_path": "Dell_Laptop_Specs.pdf"
+              },
+              "section_id": "a1a8d59eb77fd327-section-41"
+            },
+            {
+              "page_id": "a1a8d59eb77fd327",
+              "page_number": 1,
+              "source_locator": {
+                "page_number": 1,
+                "block_index": 40,
+                "line_index": 0,
+                "bbox": [
+                  22.255020141601562,
+                  294.440185546875,
+                  151.62783813476562,
+                  304.3608093261719
+                ],
+                "relative_path": "Dell_Laptop_Specs.pdf"
+              },
+              "section_id": "a1a8d59eb77fd327-section-42"
+            },
+            {
+              "page_id": "a1a8d59eb77fd327",
+              "page_number": 1,
+              "source_locator": {
+                "page_number": 1,
+                "block_index": 41,
+                "line_index": 0,
+                "bbox": [
+                  22.255027770996094,
+                  311.2438049316406,
+                  291.7216491699219,
+                  323.364990234375
+                ],
+                "relative_path": "Dell_Laptop_Specs.pdf"
+              },
+              "section_id": "a1a8d59eb77fd327-section-43"
+            },
+            {
+              "page_id": "a1a8d59eb77fd327",
+              "page_number": 1,
+              "source_locator": {
+                "page_number": 1,
+                "block_index": 41,
+                "line_index": 1,
+                "bbox": [
+                  22.255035400390625,
+                  322.76019287109375,
+                  90.20219421386719,
+                  332.6808166503906
+                ],
+                "relative_path": "Dell_Laptop_Specs.pdf"
+              },
+              "section_id": "a1a8d59eb77fd327-section-44"
+            },
+            {
+              "page_id": "a1a8d59eb77fd327",
+              "page_number": 1,
+              "source_locator": {
+                "page_number": 1,
+                "block_index": 42,
+                "line_index": 0,
+                "bbox": [
+                  22.255035400390625,
+                  340.76019287109375,
+                  219.22023010253906,
+                  350.6808166503906
+                ],
+                "relative_path": "Dell_Laptop_Specs.pdf"
+              },
+              "section_id": "a1a8d59eb77fd327-section-45"
+            },
+            {
+              "page_id": "a1a8d59eb77fd327",
+              "page_number": 1,
+              "source_locator": {
+                "page_number": 1,
+                "block_index": 43,
+                "line_index": 0,
+                "bbox": [
+                  22.255035400390625,
+                  358.76019287109375,
+                  280.0787353515625,
+                  368.6808166503906
+                ],
+                "relative_path": "Dell_Laptop_Specs.pdf"
+              },
+              "section_id": "a1a8d59eb77fd327-section-46"
+            },
+            {
+              "page_id": "a1a8d59eb77fd327",
+              "page_number": 1,
+              "source_locator": {
+                "page_number": 1,
+                "block_index": 43,
+                "line_index": 1,
+                "bbox": [
+                  22.255050659179688,
+                  369.0802001953125,
+                  91.1647720336914,
+                  379.0008239746094
+                ],
+                "relative_path": "Dell_Laptop_Specs.pdf"
+              },
+              "section_id": "a1a8d59eb77fd327-section-47"
+            }
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "case_id": "C018",
+    "query": "part number 338-CNRG",
+    "expected_record_ids": [
+      "42bd3b9b3aef4cb336d1c30c"
+    ],
+    "bid_id": "Bid2",
+    "category": "exact",
+    "expected_passages": [
+      {
+        "record_id": "42bd3b9b3aef4cb336d1c30c",
+        "excerpt": "338-CNRG",
+        "bid_id": "Bid2",
+        "source_file": "Dell_Laptop_Specs.pdf",
+        "page_number": 1,
+        "source_locator": {
+          "page_number": 1,
+          "block_index": 0,
+          "line_index": 0,
+          "bbox": [
+            334.0799560546875,
+            107.88121795654297,
+            352.7718200683594,
+            117.80184173583984
+          ],
+          "relative_path": "Dell_Laptop_Specs.pdf",
+          "section_title": "SI# CC7802 Dell Latitude 5550",
+          "heading_path": [
+            "SI# CC7802 Dell Latitude 5550"
+          ],
+          "page_ids": [
+            "a1a8d59eb77fd327"
+          ],
+          "page_numbers": [
+            1
+          ],
+          "section_ids": [
+            "a1a8d59eb77fd327-section-0",
+            "a1a8d59eb77fd327-section-1",
+            "a1a8d59eb77fd327-section-2",
+            "a1a8d59eb77fd327-section-3",
+            "a1a8d59eb77fd327-section-4",
+            "a1a8d59eb77fd327-section-5",
+            "a1a8d59eb77fd327-section-6",
+            "a1a8d59eb77fd327-section-7",
+            "a1a8d59eb77fd327-section-8",
+            "a1a8d59eb77fd327-section-9",
+            "a1a8d59eb77fd327-section-10",
+            "a1a8d59eb77fd327-section-11",
+            "a1a8d59eb77fd327-section-12",
+            "a1a8d59eb77fd327-section-13",
+            "a1a8d59eb77fd327-section-14",
+            "a1a8d59eb77fd327-section-15",
+            "a1a8d59eb77fd327-section-16",
+            "a1a8d59eb77fd327-section-17",
+            "a1a8d59eb77fd327-section-18",
+            "a1a8d59eb77fd327-section-19",
+            "a1a8d59eb77fd327-section-20",
+            "a1a8d59eb77fd327-section-21",
+            "a1a8d59eb77fd327-section-22",
+            "a1a8d59eb77fd327-section-23",
+            "a1a8d59eb77fd327-section-24",
+            "a1a8d59eb77fd327-section-25",
+            "a1a8d59eb77fd327-section-26",
+            "a1a8d59eb77fd327-section-27",
+            "a1a8d59eb77fd327-section-28",
+            "a1a8d59eb77fd327-section-29"
+          ],
+          "source_segments": [
+            {
+              "page_id": "a1a8d59eb77fd327",
+              "page_number": 1,
+              "source_locator": {
+                "page_number": 1,
+                "block_index": 0,
+                "line_index": 0,
+                "bbox": [
+                  334.0799560546875,
+                  107.88121795654297,
+                  352.7718200683594,
+                  117.80184173583984
+                ],
+                "relative_path": "Dell_Laptop_Specs.pdf"
+              },
+              "section_id": "a1a8d59eb77fd327-section-0"
+            },
+            {
+              "page_id": "a1a8d59eb77fd327",
+              "page_number": 1,
+              "source_locator": {
+                "page_number": 1,
+                "block_index": 1,
+                "line_index": 0,
+                "bbox": [
+                  312.719970703125,
+                  125.88121795654297,
+                  352.6387634277344,
+                  135.8018341064453
+                ],
+                "relative_path": "Dell_Laptop_Specs.pdf"
+              },
+              "section_id": "a1a8d59eb77fd327-section-1"
+            },
+            {
+              "page_id": "a1a8d59eb77fd327",
+              "page_number": 1,
+              "source_locator": {
+                "page_number": 1,
+                "block_index": 2,
+                "line_index": 0,
+                "bbox": [
+                  311.7599792480469,
+                  148.92120361328125,
+                  352.65753173828125,
+                  158.84181213378906
+                ],
+                "relative_path": "Dell_Laptop_Specs.pdf"
+              },
+              "section_id": "a1a8d59eb77fd327-section-2"
+            },
+            {
+              "page_id": "a1a8d59eb77fd327",
+              "page_number": 1,
+              "source_locator": {
+                "page_number": 1,
+                "block_index": 3,
+                "line_index": 0,
+                "bbox": [
+                  310.7999572753906,
+                  177.24127197265625,
+                  352.69354248046875,
+                  187.16188049316406
+                ],
+                "relative_path": "Dell_Laptop_Specs.pdf"
+              },
+              "section_id": "a1a8d59eb77fd327-section-3"
+            },
+            {
+              "page_id": "a1a8d59eb77fd327",
+              "page_number": 1,
+              "source_locator": {
+                "page_number": 1,
+                "block_index": 4,
+                "line_index": 0,
+                "bbox": [
+                  310.7999572753906,
+                  200.52130126953125,
+                  352.69354248046875,
+                  210.44190979003906
+                ],
+                "relative_path": "Dell_Laptop_Specs.pdf"
+              },
+              "section_id": "a1a8d59eb77fd327-section-4"
+            },
+            {
+              "page_id": "a1a8d59eb77fd327",
+              "page_number": 1,
+              "source_locator": {
+                "page_number": 1,
+                "block_index": 5,
+                "line_index": 0,
+                "bbox": [
+                  308.8799743652344,
+                  218.521240234375,
+                  352.7328796386719,
+                  228.4418487548828
+                ],
+                "relative_path": "Dell_Laptop_Specs.pdf"
+              },
+              "section_id": "a1a8d59eb77fd327-section-5"
+            },
+            {
+              "page_id": "a1a8d59eb77fd327",
+              "page_number": 1,
+              "source_locator": {
+                "page_number": 1,
+                "block_index": 6,
+                "line_index": 0,
+                "bbox": [
+                  309.8399658203125,
+                  236.521240234375,
+                  352.7160949707031,
+                  246.4418487548828
+                ],
+                "relative_path": "Dell_Laptop_Specs.pdf"
+              },
+              "section_id": "a1a8d59eb77fd327-section-6"
+            },
+            {
+              "page_id": "a1a8d59eb77fd327",
+              "page_number": 1,
+              "source_locator": {
+                "page_number": 1,
+                "block_index": 7,
+                "line_index": 0,
+                "bbox": [
+                  310.7999572753906,
+                  254.521240234375,
+                  352.6802978515625,
+                  264.4418640136719
+                ],
+                "relative_path": "Dell_Laptop_Specs.pdf"
+              },
+              "section_id": "a1a8d59eb77fd327-section-7"
+            },
+            {
+              "page_id": "a1a8d59eb77fd327",
+              "page_number": 1,
+              "source_locator": {
+                "page_number": 1,
+                "block_index": 8,
+                "line_index": 0,
+                "bbox": [
+                  310.7999572753906,
+                  272.521240234375,
+                  352.69354248046875,
+                  282.4418640136719
+                ],
+                "relative_path": "Dell_Laptop_Specs.pdf"
+              },
+              "section_id": "a1a8d59eb77fd327-section-8"
+            },
+            {
+              "page_id": "a1a8d59eb77fd327",
+              "page_number": 1,
+              "source_locator": {
+                "page_number": 1,
+                "block_index": 9,
+                "line_index": 0,
+                "bbox": [
+                  310.3199768066406,
+                  290.521240234375,
+                  352.6990661621094,
+                  300.4418640136719
+                ],
+                "relative_path": "Dell_Laptop_Specs.pdf"
+              },
+              "section_id": "a1a8d59eb77fd327-section-9"
+            },
+            {
+              "page_id": "a1a8d59eb77fd327",
+              "page_number": 1,
+              "source_locator": {
+                "page_number": 1,
+                "block_index": 10,
+                "line_index": 0,
+                "bbox": [
+                  312.719970703125,
+                  313.56121826171875,
+                  352.646728515625,
+                  323.4818420410156
+                ],
+                "relative_path": "Dell_Laptop_Specs.pdf"
+              },
+              "section_id": "a1a8d59eb77fd327-section-10"
+            },
+            {
+              "page_id": "a1a8d59eb77fd327",
+              "page_number": 1,
+              "source_locator": {
+                "page_number": 1,
+                "block_index": 11,
+                "line_index": 0,
+                "bbox": [
+                  311.7599792480469,
+                  336.8411865234375,
+                  352.65753173828125,
+                  346.7618103027344
+                ],
+                "relative_path": "Dell_Laptop_Specs.pdf"
+              },
+              "section_id": "a1a8d59eb77fd327-section-11"
+            },
+            {
+              "page_id": "a1a8d59eb77fd327",
+              "page_number": 1,
+              "source_locator": {
+                "page_number": 1,
+                "block_index": 12,
+                "line_index": 0,
+                "bbox": [
+                  312.2399597167969,
+                  359.8812255859375,
+                  352.65228271484375,
+                  369.8018493652344
+                ],
+                "relative_path": "Dell_Laptop_Specs.pdf"
+              },
+              "section_id": "a1a8d59eb77fd327-section-12"
+            },
+            {
+              "page_id": "a1a8d59eb77fd327",
+              "page_number": 1,
+              "source_locator": {
+                "page_number": 1,
+                "block_index": 13,
+                "line_index": 0,
+                "bbox": [
+                  311.27996826171875,
+                  383.1612243652344,
+                  352.66680908203125,
+                  393.08184814453125
+                ],
+                "relative_path": "Dell_Laptop_Specs.pdf"
+              },
+              "section_id": "a1a8d59eb77fd327-section-13"
+            },
+            {
+              "page_id": "a1a8d59eb77fd327",
+              "page_number": 1,
+              "source_locator": {
+                "page_number": 1,
+                "block_index": 14,
+                "line_index": 0,
+                "bbox": [
+                  309.8399658203125,
+                  401.1612243652344,
+                  352.7043151855469,
+                  411.08184814453125
+                ],
+                "relative_path": "Dell_Laptop_Specs.pdf"
+              },
+              "section_id": "a1a8d59eb77fd327-section-14"
+            },
+            {
+              "page_id": "a1a8d59eb77fd327",
+              "page_number": 1,
+              "source_locator": {
+                "page_number": 1,
+                "block_index": 15,
+                "line_index": 0,
+                "bbox": [
+                  311.27996826171875,
+                  425.8812255859375,
+                  352.6728210449219,
+                  435.8018493652344
+                ],
+                "relative_path": "Dell_Laptop_Specs.pdf"
+              },
+              "section_id": "a1a8d59eb77fd327-section-15"
+            },
+            {
+              "page_id": "a1a8d59eb77fd327",
+              "page_number": 1,
+              "source_locator": {
+                "page_number": 1,
+                "block_index": 16,
+                "line_index": 0,
+                "bbox": [
+                  309.8399658203125,
+                  455.8812255859375,
+                  352.7160339355469,
+                  465.8018493652344
+                ],
+                "relative_path": "Dell_Laptop_Specs.pdf"
+              },
+              "section_id": "a1a8d59eb77fd327-section-16"
+            },
+            {
+              "page_id": "a1a8d59eb77fd327",
+              "page_number": 1,
+              "source_locator": {
+                "page_number": 1,
+                "block_index": 17,
+                "line_index": 0,
+                "bbox": [
+                  308.8799743652344,
+                  479.1612243652344,
+                  352.726806640625,
+                  489.08184814453125
+                ],
+                "relative_path": "Dell_Laptop_Specs.pdf"
+              },
+              "section_id": "a1a8d59eb77fd327-section-17"
+            },
+            {
+              "page_id": "a1a8d59eb77fd327",
+              "page_number": 1,
+              "source_locator": {
+                "page_number": 1,
+                "block_index": 18,
+                "line_index": 0,
+                "bbox": [
+                  312.2399597167969,
+                  497.1612243652344,
+                  352.6560363769531,
+                  507.08184814453125
+                ],
+                "relative_path": "Dell_Laptop_Specs.pdf"
+              },
+              "section_id": "a1a8d59eb77fd327-section-18"
+            },
+            {
+              "page_id": "a1a8d59eb77fd327",
+              "page_number": 1,
+              "source_locator": {
+                "page_number": 1,
+                "block_index": 19,
+                "line_index": 0,
+                "bbox": [
+                  309.8399658203125,
+                  515.1612548828125,
+                  352.7103271484375,
+                  525.0818481445312
+                ],
+                "relative_path": "Dell_Laptop_Specs.pdf"
+              },
+              "section_id": "a1a8d59eb77fd327-section-19"
+            },
+            {
+              "page_id": "a1a8d59eb77fd327",
+              "page_number": 1,
+              "source_locator": {
+                "page_number": 1,
+                "block_index": 20,
+                "line_index": 0,
+                "bbox": [
+                  308.8799743652344,
+                  533.1612548828125,
+                  352.7385559082031,
+                  543.0818481445312
+                ],
+                "relative_path": "Dell_Laptop_Specs.pdf"
+              },
+              "section_id": "a1a8d59eb77fd327-section-20"
+            },
+            {
+              "page_id": "a1a8d59eb77fd327",
+              "page_number": 1,
+              "source_locator": {
+                "page_number": 1,
+                "block_index": 21,
+                "line_index": 0,
+                "bbox": [
+                  313.91998291015625,
+                  551.1612548828125,
+                  352.8472900390625,
+                  561.0818481445312
+                ],
+                "relative_path": "Dell_Laptop_Specs.pdf"
+              },
+              "section_id": "a1a8d59eb77fd327-section-21"
+            },
+            {
+              "page_id": "a1a8d59eb77fd327",
+              "page_number": 1,
+              "source_locator": {
+                "page_number": 1,
+                "block_index": 22,
+                "line_index": 0,
+                "bbox": [
+                  310.79998779296875,
+                  569.1612548828125,
+                  352.68182373046875,
+                  579.0818481445312
+                ],
+                "relative_path": "Dell_Laptop_Specs.pdf"
+              },
+              "section_id": "a1a8d59eb77fd327-section-22"
+            },
+            {
+              "page_id": "a1a8d59eb77fd327",
+              "page_number": 1,
+              "source_locator": {
+                "page_number": 1,
+                "block_index": 23,
+                "line_index": 0,
+                "bbox": [
+                  311.2799987792969,
+                  587.1611938476562,
+                  352.68231201171875,
+                  597.081787109375
+                ],
+                "relative_path": "Dell_Laptop_Specs.pdf"
+              },
+              "section_id": "a1a8d59eb77fd327-section-23"
+            },
+            {
+              "page_id": "a1a8d59eb77fd327",
+              "page_number": 1,
+              "source_locator": {
+                "page_number": 1,
+                "block_index": 24,
+                "line_index": 0,
+                "bbox": [
+                  310.7999572753906,
+                  605.1611938476562,
+                  352.6860046386719,
+                  615.081787109375
+                ],
+                "relative_path": "Dell_Laptop_Specs.pdf"
+              },
+              "section_id": "a1a8d59eb77fd327-section-24"
+            },
+            {
+              "page_id": "a1a8d59eb77fd327",
+              "page_number": 1,
+              "source_locator": {
+                "page_number": 1,
+                "block_index": 25,
+                "line_index": 0,
+                "bbox": [
+                  307.9199523925781,
+                  623.1611938476562,
+                  352.7610168457031,
+                  633.081787109375
+                ],
+                "relative_path": "Dell_Laptop_Specs.pdf"
+              },
+              "section_id": "a1a8d59eb77fd327-section-25"
+            },
+            {
+              "page_id": "a1a8d59eb77fd327",
+              "page_number": 1,
+              "source_locator": {
+                "page_number": 1,
+                "block_index": 26,
+                "line_index": 0,
+                "bbox": [
+                  310.3199462890625,
+                  641.1611938476562,
+                  352.685546875,
+                  651.081787109375
+                ],
+                "relative_path": "Dell_Laptop_Specs.pdf"
+              },
+              "section_id": "a1a8d59eb77fd327-section-26"
+            },
+            {
+              "page_id": "a1a8d59eb77fd327",
+              "page_number": 1,
+              "source_locator": {
+                "page_number": 1,
+                "block_index": 27,
+                "line_index": 0,
+                "bbox": [
+                  311.27996826171875,
+                  659.1611938476562,
+                  352.6822814941406,
+                  669.081787109375
+                ],
+                "relative_path": "Dell_Laptop_Specs.pdf"
+              },
+              "section_id": "a1a8d59eb77fd327-section-27"
+            },
+            {
+              "page_id": "a1a8d59eb77fd327",
+              "page_number": 1,
+              "source_locator": {
+                "page_number": 1,
+                "block_index": 28,
+                "line_index": 0,
+                "bbox": [
+                  307.4399719238281,
+                  677.1611938476562,
+                  352.77032470703125,
+                  687.081787109375
+                ],
+                "relative_path": "Dell_Laptop_Specs.pdf"
+              },
+              "section_id": "a1a8d59eb77fd327-section-28"
+            },
+            {
+              "page_id": "a1a8d59eb77fd327",
+              "page_number": 1,
+              "source_locator": {
+                "page_number": 1,
+                "block_index": 29,
+                "line_index": 0,
+                "bbox": [
+                  311.27996826171875,
+                  695.1611938476562,
+                  352.6739807128906,
+                  705.081787109375
+                ],
+                "relative_path": "Dell_Laptop_Specs.pdf"
+              },
+              "section_id": "a1a8d59eb77fd327-section-29"
+            }
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "case_id": "C019",
+    "query": "white glove shipping services",
+    "expected_record_ids": [
+      "bfbdc22fe3c1a5bd8c0684af"
+    ],
+    "bid_id": "Bid1",
+    "category": "concept",
+    "expected_passages": [
+      {
+        "record_id": "bfbdc22fe3c1a5bd8c0684af",
+        "excerpt": "white glove services",
+        "bid_id": "Bid1",
+        "source_file": "Addendum 1 RFP JA-207652 Student and Staff Computing Devices.pdf",
+        "page_number": 1,
+        "source_locator": {
+          "page_number": 1,
+          "block_index": 6,
+          "line_index": 8,
+          "bbox": [
+            90.0,
+            219.90985107421875,
+            284.96771240234375,
+            233.35311889648438
+          ],
+          "relative_path": "Addendum 1 RFP JA-207652 Student and Staff Computing Devices.pdf",
+          "section_title": null,
+          "heading_path": [],
+          "page_ids": [
+            "a14b6af26515931e"
+          ],
+          "page_numbers": [
+            1
+          ],
+          "section_ids": [
+            "a14b6af26515931e-section-14",
+            "a14b6af26515931e-section-15",
+            "a14b6af26515931e-section-16",
+            "a14b6af26515931e-section-17",
+            "a14b6af26515931e-section-18",
+            "a14b6af26515931e-section-19",
+            "a14b6af26515931e-section-20",
+            "a14b6af26515931e-section-21",
+            "a14b6af26515931e-section-22",
+            "a14b6af26515931e-section-23",
+            "a14b6af26515931e-section-24",
+            "a14b6af26515931e-section-25",
+            "a14b6af26515931e-section-26",
+            "a14b6af26515931e-section-27"
+          ],
+          "source_segments": [
+            {
+              "page_id": "a14b6af26515931e",
+              "page_number": 1,
+              "source_locator": {
+                "page_number": 1,
+                "block_index": 6,
+                "line_index": 8,
+                "bbox": [
+                  90.0,
+                  219.90985107421875,
+                  284.96771240234375,
+                  233.35311889648438
+                ],
+                "relative_path": "Addendum 1 RFP JA-207652 Student and Staff Computing Devices.pdf"
+              },
+              "section_id": "a14b6af26515931e-section-14"
+            },
+            {
+              "page_id": "a14b6af26515931e",
+              "page_number": 1,
+              "source_locator": {
+                "page_number": 1,
+                "block_index": 6,
+                "line_index": 9,
+                "bbox": [
+                  126.0,
+                  233.34983825683594,
+                  165.65228271484375,
+                  246.79310607910156
+                ],
+                "relative_path": "Addendum 1 RFP JA-207652 Student and Staff Computing Devices.pdf"
+              },
+              "section_id": "a14b6af26515931e-section-15"
+            },
+            {
+              "page_id": "a14b6af26515931e",
+              "page_number": 1,
+              "source_locator": {
+                "page_number": 1,
+                "block_index": 6,
+                "line_index": 10,
+                "bbox": [
+                  180.0,
+                  233.34983825683594,
+                  535.966064453125,
+                  246.79310607910156
+                ],
+                "relative_path": "Addendum 1 RFP JA-207652 Student and Staff Computing Devices.pdf"
+              },
+              "section_id": "a14b6af26515931e-section-16"
+            },
+            {
+              "page_id": "a14b6af26515931e",
+              "page_number": 1,
+              "source_locator": {
+                "page_number": 1,
+                "block_index": 6,
+                "line_index": 11,
+                "bbox": [
+                  144.0,
+                  246.7898406982422,
+                  320.8913879394531,
+                  260.2331237792969
+                ],
+                "relative_path": "Addendum 1 RFP JA-207652 Student and Staff Computing Devices.pdf"
+              },
+              "section_id": "a14b6af26515931e-section-17"
+            },
+            {
+              "page_id": "a14b6af26515931e",
+              "page_number": 1,
+              "source_locator": {
+                "page_number": 1,
+                "block_index": 6,
+                "line_index": 12,
+                "bbox": [
+                  90.0,
+                  260.2298278808594,
+                  298.8424377441406,
+                  273.6731262207031
+                ],
+                "relative_path": "Addendum 1 RFP JA-207652 Student and Staff Computing Devices.pdf"
+              },
+              "section_id": "a14b6af26515931e-section-18"
+            },
+            {
+              "page_id": "a14b6af26515931e",
+              "page_number": 1,
+              "source_locator": {
+                "page_number": 1,
+                "block_index": 6,
+                "line_index": 13,
+                "bbox": [
+                  126.0,
+                  273.6698303222656,
+                  165.65228271484375,
+                  287.1131286621094
+                ],
+                "relative_path": "Addendum 1 RFP JA-207652 Student and Staff Computing Devices.pdf"
+              },
+              "section_id": "a14b6af26515931e-section-19"
+            },
+            {
+              "page_id": "a14b6af26515931e",
+              "page_number": 1,
+              "source_locator": {
+                "page_number": 1,
+                "block_index": 6,
+                "line_index": 14,
+                "bbox": [
+                  180.0,
+                  273.6698303222656,
+                  514.3255004882812,
+                  287.1131286621094
+                ],
+                "relative_path": "Addendum 1 RFP JA-207652 Student and Staff Computing Devices.pdf"
+              },
+              "section_id": "a14b6af26515931e-section-20"
+            },
+            {
+              "page_id": "a14b6af26515931e",
+              "page_number": 1,
+              "source_locator": {
+                "page_number": 1,
+                "block_index": 6,
+                "line_index": 15,
+                "bbox": [
+                  90.0,
+                  287.10980224609375,
+                  520.4614868164062,
+                  300.5531005859375
+                ],
+                "relative_path": "Addendum 1 RFP JA-207652 Student and Staff Computing Devices.pdf"
+              },
+              "section_id": "a14b6af26515931e-section-21"
+            },
+            {
+              "page_id": "a14b6af26515931e",
+              "page_number": 1,
+              "source_locator": {
+                "page_number": 1,
+                "block_index": 6,
+                "line_index": 16,
+                "bbox": [
+                  108.0,
+                  300.5498352050781,
+                  495.7159423828125,
+                  313.9931335449219
+                ],
+                "relative_path": "Addendum 1 RFP JA-207652 Student and Staff Computing Devices.pdf"
+              },
+              "section_id": "a14b6af26515931e-section-22"
+            },
+            {
+              "page_id": "a14b6af26515931e",
+              "page_number": 1,
+              "source_locator": {
+                "page_number": 1,
+                "block_index": 6,
+                "line_index": 17,
+                "bbox": [
+                  108.0,
+                  313.8698425292969,
+                  538.0779418945312,
+                  327.3131408691406
+                ],
+                "relative_path": "Addendum 1 RFP JA-207652 Student and Staff Computing Devices.pdf"
+              },
+              "section_id": "a14b6af26515931e-section-23"
+            },
+            {
+              "page_id": "a14b6af26515931e",
+              "page_number": 1,
+              "source_locator": {
+                "page_number": 1,
+                "block_index": 6,
+                "line_index": 18,
+                "bbox": [
+                  108.0,
+                  327.309814453125,
+                  267.818359375,
+                  340.75311279296875
+                ],
+                "relative_path": "Addendum 1 RFP JA-207652 Student and Staff Computing Devices.pdf"
+              },
+              "section_id": "a14b6af26515931e-section-24"
+            },
+            {
+              "page_id": "a14b6af26515931e",
+              "page_number": 1,
+              "source_locator": {
+                "page_number": 1,
+                "block_index": 7,
+                "line_index": 0,
+                "bbox": [
+                  126.0,
+                  340.74981689453125,
+                  165.65228271484375,
+                  354.193115234375
+                ],
+                "relative_path": "Addendum 1 RFP JA-207652 Student and Staff Computing Devices.pdf"
+              },
+              "section_id": "a14b6af26515931e-section-25"
+            },
+            {
+              "page_id": "a14b6af26515931e",
+              "page_number": 1,
+              "source_locator": {
+                "page_number": 1,
+                "block_index": 7,
+                "line_index": 1,
+                "bbox": [
+                  180.0,
+                  340.74981689453125,
+                  408.9484558105469,
+                  354.193115234375
+                ],
+                "relative_path": "Addendum 1 RFP JA-207652 Student and Staff Computing Devices.pdf"
+              },
+              "section_id": "a14b6af26515931e-section-26"
+            },
+            {
+              "page_id": "a14b6af26515931e",
+              "page_number": 1,
+              "source_locator": {
+                "page_number": 1,
+                "block_index": 7,
+                "line_index": 2,
+                "bbox": [
+                  90.0,
+                  354.1898193359375,
+                  533.8342895507812,
+                  367.63311767578125
+                ],
+                "relative_path": "Addendum 1 RFP JA-207652 Student and Staff Computing Devices.pdf"
+              },
+              "section_id": "a14b6af26515931e-section-27"
+            }
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "case_id": "C020",
+    "query": "USB 3.1 minimum requirement addendum",
+    "expected_record_ids": [
+      "acf60a07d408846d72c83d8b"
+    ],
+    "bid_id": "Bid1",
+    "category": "addendum",
+    "expected_passages": [
+      {
+        "record_id": "acf60a07d408846d72c83d8b",
+        "excerpt": "USB 3.1 is a minimum requirement.",
+        "bid_id": "Bid1",
+        "source_file": "Addendum 1 RFP JA-207652 Student and Staff Computing Devices.pdf",
+        "page_number": 1,
+        "source_locator": {
+          "page_number": 1,
+          "block_index": 3,
+          "line_index": 1,
+          "bbox": [
+            300.9599914550781,
+            61.629844665527344,
+            542.053955078125,
+            75.07311248779297
+          ],
+          "relative_path": "Addendum 1 RFP JA-207652 Student and Staff Computing Devices.pdf",
+          "section_title": null,
+          "heading_path": [],
+          "page_ids": [
+            "a14b6af26515931e"
+          ],
+          "page_numbers": [
+            1
+          ],
+          "section_ids": [
+            "a14b6af26515931e-section-2",
+            "a14b6af26515931e-section-3",
+            "a14b6af26515931e-section-4",
+            "a14b6af26515931e-section-5",
+            "a14b6af26515931e-section-6",
+            "a14b6af26515931e-section-7",
+            "a14b6af26515931e-section-8",
+            "a14b6af26515931e-section-9",
+            "a14b6af26515931e-section-10",
+            "a14b6af26515931e-section-11",
+            "a14b6af26515931e-section-12",
+            "a14b6af26515931e-section-13",
+            "a14b6af26515931e-section-14",
+            "a14b6af26515931e-section-15",
+            "a14b6af26515931e-section-16",
+            "a14b6af26515931e-section-17"
+          ],
+          "source_segments": [
+            {
+              "page_id": "a14b6af26515931e",
+              "page_number": 1,
+              "source_locator": {
+                "page_number": 1,
+                "block_index": 3,
+                "line_index": 1,
+                "bbox": [
+                  300.9599914550781,
+                  61.629844665527344,
+                  542.053955078125,
+                  75.07311248779297
+                ],
+                "relative_path": "Addendum 1 RFP JA-207652 Student and Staff Computing Devices.pdf"
+              },
+              "section_id": "a14b6af26515931e-section-2"
+            },
+            {
+              "page_id": "a14b6af26515931e",
+              "page_number": 1,
+              "source_locator": {
+                "page_number": 1,
+                "block_index": 4,
+                "line_index": 1,
+                "bbox": [
+                  72.0,
+                  99.06983947753906,
+                  528.0902709960938,
+                  112.51310729980469
+                ],
+                "relative_path": "Addendum 1 RFP JA-207652 Student and Staff Computing Devices.pdf"
+              },
+              "section_id": "a14b6af26515931e-section-3"
+            },
+            {
+              "page_id": "a14b6af26515931e",
+              "page_number": 1,
+              "source_locator": {
+                "page_number": 1,
+                "block_index": 5,
+                "line_index": 0,
+                "bbox": [
+                  90.0,
+                  125.94984436035156,
+                  539.135986328125,
+                  139.3931121826172
+                ],
+                "relative_path": "Addendum 1 RFP JA-207652 Student and Staff Computing Devices.pdf"
+              },
+              "section_id": "a14b6af26515931e-section-4"
+            },
+            {
+              "page_id": "a14b6af26515931e",
+              "page_number": 1,
+              "source_locator": {
+                "page_number": 1,
+                "block_index": 5,
+                "line_index": 1,
+                "bbox": [
+                  108.0,
+                  139.3898468017578,
+                  154.4615936279297,
+                  152.83311462402344
+                ],
+                "relative_path": "Addendum 1 RFP JA-207652 Student and Staff Computing Devices.pdf"
+              },
+              "section_id": "a14b6af26515931e-section-5"
+            },
+            {
+              "page_id": "a14b6af26515931e",
+              "page_number": 1,
+              "source_locator": {
+                "page_number": 1,
+                "block_index": 6,
+                "line_index": 0,
+                "bbox": [
+                  126.0,
+                  152.829833984375,
+                  165.65228271484375,
+                  166.27310180664062
+                ],
+                "relative_path": "Addendum 1 RFP JA-207652 Student and Staff Computing Devices.pdf"
+              },
+              "section_id": "a14b6af26515931e-section-6"
+            },
+            {
+              "page_id": "a14b6af26515931e",
+              "page_number": 1,
+              "source_locator": {
+                "page_number": 1,
+                "block_index": 6,
+                "line_index": 1,
+                "bbox": [
+                  180.0,
+                  152.829833984375,
+                  340.9292297363281,
+                  166.27310180664062
+                ],
+                "relative_path": "Addendum 1 RFP JA-207652 Student and Staff Computing Devices.pdf"
+              },
+              "section_id": "a14b6af26515931e-section-7"
+            },
+            {
+              "page_id": "a14b6af26515931e",
+              "page_number": 1,
+              "source_locator": {
+                "page_number": 1,
+                "block_index": 6,
+                "line_index": 2,
+                "bbox": [
+                  90.0,
+                  166.26983642578125,
+                  309.4399108886719,
+                  179.71310424804688
+                ],
+                "relative_path": "Addendum 1 RFP JA-207652 Student and Staff Computing Devices.pdf"
+              },
+              "section_id": "a14b6af26515931e-section-8"
+            },
+            {
+              "page_id": "a14b6af26515931e",
+              "page_number": 1,
+              "source_locator": {
+                "page_number": 1,
+                "block_index": 6,
+                "line_index": 3,
+                "bbox": [
+                  126.0,
+                  179.70985412597656,
+                  165.65228271484375,
+                  193.1531219482422
+                ],
+                "relative_path": "Addendum 1 RFP JA-207652 Student and Staff Computing Devices.pdf"
+              },
+              "section_id": "a14b6af26515931e-section-9"
+            },
+            {
+              "page_id": "a14b6af26515931e",
+              "page_number": 1,
+              "source_locator": {
+                "page_number": 1,
+                "block_index": 6,
+                "line_index": 4,
+                "bbox": [
+                  180.0,
+                  179.70985412597656,
+                  344.43829345703125,
+                  193.1531219482422
+                ],
+                "relative_path": "Addendum 1 RFP JA-207652 Student and Staff Computing Devices.pdf"
+              },
+              "section_id": "a14b6af26515931e-section-10"
+            },
+            {
+              "page_id": "a14b6af26515931e",
+              "page_number": 1,
+              "source_locator": {
+                "page_number": 1,
+                "block_index": 6,
+                "line_index": 5,
+                "bbox": [
+                  90.0,
+                  193.0298309326172,
+                  266.6019592285156,
+                  206.4730987548828
+                ],
+                "relative_path": "Addendum 1 RFP JA-207652 Student and Staff Computing Devices.pdf"
+              },
+              "section_id": "a14b6af26515931e-section-11"
+            },
+            {
+              "page_id": "a14b6af26515931e",
+              "page_number": 1,
+              "source_locator": {
+                "page_number": 1,
+                "block_index": 6,
+                "line_index": 6,
+                "bbox": [
+                  126.0,
+                  206.46983337402344,
+                  165.65228271484375,
+                  219.91310119628906
+                ],
+                "relative_path": "Addendum 1 RFP JA-207652 Student and Staff Computing Devices.pdf"
+              },
+              "section_id": "a14b6af26515931e-section-12"
+            },
+            {
+              "page_id": "a14b6af26515931e",
+              "page_number": 1,
+              "source_locator": {
+                "page_number": 1,
+                "block_index": 6,
+                "line_index": 7,
+                "bbox": [
+                  180.0,
+                  206.46983337402344,
+                  482.6329040527344,
+                  219.91310119628906
+                ],
+                "relative_path": "Addendum 1 RFP JA-207652 Student and Staff Computing Devices.pdf"
+              },
+              "section_id": "a14b6af26515931e-section-13"
+            },
+            {
+              "page_id": "a14b6af26515931e",
+              "page_number": 1,
+              "source_locator": {
+                "page_number": 1,
+                "block_index": 6,
+                "line_index": 8,
+                "bbox": [
+                  90.0,
+                  219.90985107421875,
+                  284.96771240234375,
+                  233.35311889648438
+                ],
+                "relative_path": "Addendum 1 RFP JA-207652 Student and Staff Computing Devices.pdf"
+              },
+              "section_id": "a14b6af26515931e-section-14"
+            },
+            {
+              "page_id": "a14b6af26515931e",
+              "page_number": 1,
+              "source_locator": {
+                "page_number": 1,
+                "block_index": 6,
+                "line_index": 9,
+                "bbox": [
+                  126.0,
+                  233.34983825683594,
+                  165.65228271484375,
+                  246.79310607910156
+                ],
+                "relative_path": "Addendum 1 RFP JA-207652 Student and Staff Computing Devices.pdf"
+              },
+              "section_id": "a14b6af26515931e-section-15"
+            },
+            {
+              "page_id": "a14b6af26515931e",
+              "page_number": 1,
+              "source_locator": {
+                "page_number": 1,
+                "block_index": 6,
+                "line_index": 10,
+                "bbox": [
+                  180.0,
+                  233.34983825683594,
+                  535.966064453125,
+                  246.79310607910156
+                ],
+                "relative_path": "Addendum 1 RFP JA-207652 Student and Staff Computing Devices.pdf"
+              },
+              "section_id": "a14b6af26515931e-section-16"
+            },
+            {
+              "page_id": "a14b6af26515931e",
+              "page_number": 1,
+              "source_locator": {
+                "page_number": 1,
+                "block_index": 6,
+                "line_index": 11,
+                "bbox": [
+                  144.0,
+                  246.7898406982422,
+                  320.8913879394531,
+                  260.2331237792969
+                ],
+                "relative_path": "Addendum 1 RFP JA-207652 Student and Staff Computing Devices.pdf"
+              },
+              "section_id": "a14b6af26515931e-section-17"
+            }
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "case_id": "C021",
+    "query": "warranty requirements",
+    "expected_record_ids": [],
+    "bid_id": "NonexistentBid-010",
+    "category": "not-found",
+    "expected_passages": []
+  }
+]

@@ -1,0 +1,649 @@
+{
+  "k": 5,
+  "configurations": [
+    {
+      "configuration": "semantic-only",
+      "available": true,
+      "actual_mode": "indexed-vector",
+      "reranker_status": "heuristic",
+      "diagnostics": [],
+      "cases": [
+        {
+          "case_id": "C002",
+          "expected_record_ids": [
+            "d0fb8e3135b8f71215fba236"
+          ],
+          "returned_record_ids": [
+            "ce37393110e3ee24548b37f4",
+            "4524ce12e3af9bdde61a0ae4",
+            "7b1e3027990272d228c987dd",
+            "c39fc429f5b88add14a814cb",
+            "5892a85ed8707559ca1857a9"
+          ],
+          "recall_at_k": 0.0,
+          "reciprocal_rank": 0.0,
+          "elapsed_seconds": 0.037160900013986975
+        },
+        {
+          "case_id": "C003",
+          "expected_record_ids": [
+            "0911777018856efee41c4ced"
+          ],
+          "returned_record_ids": [
+            "841242ed2785ae522fc45137",
+            "356cb35e58189bb5e25a8465",
+            "cc0f46e721473f9b6e0d8061",
+            "0911777018856efee41c4ced",
+            "31ab0f85dd91fa04dd8a205b"
+          ],
+          "recall_at_k": 1.0,
+          "reciprocal_rank": 0.25,
+          "elapsed_seconds": 0.03079940000316128
+        },
+        {
+          "case_id": "C004",
+          "expected_record_ids": [
+            "712976f2331c4ab2e74d662c"
+          ],
+          "returned_record_ids": [
+            "8144bde0fb5167d58dc25ecb",
+            "66e43b27fa12553ef4f0092d",
+            "014971b3024a83c849b1e981",
+            "e0e2fa85af6c4dffe7f624e9",
+            "5bba857a8c56c83e39242808"
+          ],
+          "recall_at_k": 0.0,
+          "reciprocal_rank": 0.0,
+          "elapsed_seconds": 0.030089499981841072
+        },
+        {
+          "case_id": "C005",
+          "expected_record_ids": [
+            "e1eed22af0f0ab8a41acce70"
+          ],
+          "returned_record_ids": [
+            "187f401edf00c36ff1055069",
+            "3732a8d45fef41832a07f599",
+            "1f3ab9fc5d91aa2ed745c376",
+            "ec19bca17c0772c1337e1fed",
+            "b86a0b1c5e35d30817af55e0"
+          ],
+          "recall_at_k": 0.0,
+          "reciprocal_rank": 0.0,
+          "elapsed_seconds": 0.02901589998509735
+        },
+        {
+          "case_id": "C006",
+          "expected_record_ids": [
+            "63824d3d8acea998a27f158a"
+          ],
+          "returned_record_ids": [
+            "93a8aaf21bedb7425ffee555",
+            "2876a03c68ad24884a5770df",
+            "d0fb8e3135b8f71215fba236",
+            "ce37393110e3ee24548b37f4",
+            "69c507be807309e2b9ce33eb"
+          ],
+          "recall_at_k": 0.0,
+          "reciprocal_rank": 0.0,
+          "elapsed_seconds": 0.029614900005981326
+        },
+        {
+          "case_id": "C007",
+          "expected_record_ids": [
+            "6bb888f176a85c1b232ff564"
+          ],
+          "returned_record_ids": [
+            "276bb21640e088c5cb91b725",
+            "6bb888f176a85c1b232ff564",
+            "e6063e90bce18fcaa13ae3c1",
+            "2991190251dfac1093e5dd2c",
+            "dd5b2b43ccbc9f69788ea5c0"
+          ],
+          "recall_at_k": 1.0,
+          "reciprocal_rank": 0.5,
+          "elapsed_seconds": 0.030167800025083125
+        },
+        {
+          "case_id": "C008",
+          "expected_record_ids": [
+            "e1eed22af0f0ab8a41acce70"
+          ],
+          "returned_record_ids": [
+            "e27ed31308a4a678494d4324",
+            "eba60a2c9487791b05fe583a",
+            "7b1e3027990272d228c987dd",
+            "e1eed22af0f0ab8a41acce70",
+            "d84a0b78e5b61c991d389e49"
+          ],
+          "recall_at_k": 1.0,
+          "reciprocal_rank": 0.25,
+          "elapsed_seconds": 0.03141299998969771
+        },
+        {
+          "case_id": "C009",
+          "expected_record_ids": [
+            "0911777018856efee41c4ced"
+          ],
+          "returned_record_ids": [
+            "ce6c3bfda3305956137dffad",
+            "f407d0e6c586fd4f868a5f0b",
+            "b2dc636f58cba380dceb06fc",
+            "d0e366c1289b887a34e686e4",
+            "602ea8fb70d22d5e2d7e8f2c"
+          ],
+          "recall_at_k": 0.0,
+          "reciprocal_rank": 0.0,
+          "elapsed_seconds": 0.03384540000115521
+        },
+        {
+          "case_id": "C010",
+          "expected_record_ids": [
+            "63824d3d8acea998a27f158a"
+          ],
+          "returned_record_ids": [
+            "63824d3d8acea998a27f158a",
+            "69c507be807309e2b9ce33eb",
+            "ce37393110e3ee24548b37f4",
+            "42bd3b9b3aef4cb336d1c30c",
+            "e6e0ce21d9422857046bfb12"
+          ],
+          "recall_at_k": 1.0,
+          "reciprocal_rank": 1.0,
+          "elapsed_seconds": 0.031136600009631366
+        },
+        {
+          "case_id": "C011",
+          "expected_record_ids": [
+            "d60f433e1430aa0e7f81f8d3"
+          ],
+          "returned_record_ids": [
+            "05c5e551964434f920dd3695",
+            "8489fb27eb6d91d36f1d9985",
+            "6031fe1817e6964f24c9515b",
+            "ed2c4b30628023acf89ec5de",
+            "22663c8d6eb24f20dc82eabc"
+          ],
+          "recall_at_k": 0.0,
+          "reciprocal_rank": 0.0,
+          "elapsed_seconds": 0.032400299998698756
+        },
+        {
+          "case_id": "C012",
+          "expected_record_ids": [
+            "f513d3166b3a724d7df5e097"
+          ],
+          "returned_record_ids": [
+            "379290f8fcec6b73104f60c7",
+            "014971b3024a83c849b1e981",
+            "c91da2a34545d58b67217c9e",
+            "211a228541505fad00c85073",
+            "22663c8d6eb24f20dc82eabc"
+          ],
+          "recall_at_k": 0.0,
+          "reciprocal_rank": 0.0,
+          "elapsed_seconds": 0.02864229999249801
+        },
+        {
+          "case_id": "C013",
+          "expected_record_ids": [
+            "eba60a2c9487791b05fe583a"
+          ],
+          "returned_record_ids": [
+            "9fd51510039a1853a23ec009",
+            "76c2fb8f51e4ba8258c75e9b",
+            "fe457b71e2a26d022c392698",
+            "ec19bca17c0772c1337e1fed",
+            "4145c664293d3f363bb78506"
+          ],
+          "recall_at_k": 0.0,
+          "reciprocal_rank": 0.0,
+          "elapsed_seconds": 0.03034009999828413
+        },
+        {
+          "case_id": "C014",
+          "expected_record_ids": [
+            "6bb888f176a85c1b232ff564"
+          ],
+          "returned_record_ids": [
+            "276bb21640e088c5cb91b725",
+            "dd5b2b43ccbc9f69788ea5c0",
+            "6bb888f176a85c1b232ff564",
+            "1acf5a5ce093b5e0f529d586",
+            "e6063e90bce18fcaa13ae3c1"
+          ],
+          "recall_at_k": 1.0,
+          "reciprocal_rank": 0.3333333333333333,
+          "elapsed_seconds": 0.03591219999361783
+        },
+        {
+          "case_id": "C015",
+          "expected_record_ids": [],
+          "returned_record_ids": [],
+          "recall_at_k": 1.0,
+          "reciprocal_rank": 1.0,
+          "elapsed_seconds": 0.5333036999800242
+        },
+        {
+          "case_id": "C017",
+          "expected_record_ids": [
+            "63824d3d8acea998a27f158a"
+          ],
+          "returned_record_ids": [
+            "7b1e3027990272d228c987dd",
+            "a4be953f1f425ecbb51f1471",
+            "ce37393110e3ee24548b37f4",
+            "2876a03c68ad24884a5770df",
+            "63824d3d8acea998a27f158a"
+          ],
+          "recall_at_k": 1.0,
+          "reciprocal_rank": 0.2,
+          "elapsed_seconds": 0.2752469000115525
+        },
+        {
+          "case_id": "C018",
+          "expected_record_ids": [
+            "42bd3b9b3aef4cb336d1c30c"
+          ],
+          "returned_record_ids": [
+            "42bd3b9b3aef4cb336d1c30c"
+          ],
+          "recall_at_k": 1.0,
+          "reciprocal_rank": 1.0,
+          "elapsed_seconds": 0.2621221000154037
+        },
+        {
+          "case_id": "C019",
+          "expected_record_ids": [
+            "bfbdc22fe3c1a5bd8c0684af"
+          ],
+          "returned_record_ids": [
+            "9402e378b9f784a6de5248d6",
+            "59b0e0257646f3ada0a8fc1e",
+            "fb0f9158b44cbcebdad59bbf",
+            "6e2fbe3d7904d1dfc3ee05bc",
+            "841242ed2785ae522fc45137"
+          ],
+          "recall_at_k": 0.0,
+          "reciprocal_rank": 0.0,
+          "elapsed_seconds": 0.047286099987104535
+        },
+        {
+          "case_id": "C020",
+          "expected_record_ids": [
+            "acf60a07d408846d72c83d8b"
+          ],
+          "returned_record_ids": [
+            "acf60a07d408846d72c83d8b",
+            "fa85a7a1ef0c2400b2d57ea9",
+            "4fbdf8048753783f3cd6c7cf",
+            "4967eda3844c0ce545814044",
+            "7a1fb1a1a0da0af383e4ebb4"
+          ],
+          "recall_at_k": 1.0,
+          "reciprocal_rank": 1.0,
+          "elapsed_seconds": 0.04798449997906573
+        },
+        {
+          "case_id": "C021",
+          "expected_record_ids": [],
+          "returned_record_ids": [],
+          "recall_at_k": 1.0,
+          "reciprocal_rank": 1.0,
+          "elapsed_seconds": 0.04629590001422912
+        }
+      ],
+      "recall_at_k": 0.5263157894736842,
+      "mrr": 0.34385964912280703,
+      "relevant_at_k_percent": 52.63157894736842,
+      "under_5_seconds_percent": 100.0,
+      "warm_up_seconds": 0.03843159999814816
+    },
+    {
+      "configuration": "hybrid",
+      "available": true,
+      "actual_mode": "indexed-hybrid",
+      "reranker_status": "heuristic",
+      "diagnostics": [],
+      "cases": [
+        {
+          "case_id": "C002",
+          "expected_record_ids": [
+            "d0fb8e3135b8f71215fba236"
+          ],
+          "returned_record_ids": [
+            "7b1e3027990272d228c987dd",
+            "2876a03c68ad24884a5770df",
+            "a4be953f1f425ecbb51f1471",
+            "ce37393110e3ee24548b37f4",
+            "e27ed31308a4a678494d4324"
+          ],
+          "recall_at_k": 0.0,
+          "reciprocal_rank": 0.0,
+          "elapsed_seconds": 0.28408610000042245
+        },
+        {
+          "case_id": "C003",
+          "expected_record_ids": [
+            "0911777018856efee41c4ced"
+          ],
+          "returned_record_ids": [
+            "0911777018856efee41c4ced",
+            "e6063e90bce18fcaa13ae3c1",
+            "9aebb483afd6945f64c70185",
+            "211a228541505fad00c85073",
+            "30e0dffa6f5bcfefe76b2b88"
+          ],
+          "recall_at_k": 1.0,
+          "reciprocal_rank": 1.0,
+          "elapsed_seconds": 0.6372344999981578
+        },
+        {
+          "case_id": "C004",
+          "expected_record_ids": [
+            "712976f2331c4ab2e74d662c"
+          ],
+          "returned_record_ids": [
+            "9ce7e16aad49716d8edfc9bb",
+            "f0251a4bbcd8213a5fa7bda3",
+            "80dd515e600b35af51bed55f",
+            "5bba857a8c56c83e39242808",
+            "0121055353b36e4d89e5c088"
+          ],
+          "recall_at_k": 0.0,
+          "reciprocal_rank": 0.0,
+          "elapsed_seconds": 0.29931370000122115
+        },
+        {
+          "case_id": "C005",
+          "expected_record_ids": [
+            "e1eed22af0f0ab8a41acce70"
+          ],
+          "returned_record_ids": [
+            "7b1e3027990272d228c987dd",
+            "a4be953f1f425ecbb51f1471",
+            "2876a03c68ad24884a5770df",
+            "e1eed22af0f0ab8a41acce70",
+            "ce37393110e3ee24548b37f4"
+          ],
+          "recall_at_k": 1.0,
+          "reciprocal_rank": 0.25,
+          "elapsed_seconds": 0.28701250001904555
+        },
+        {
+          "case_id": "C006",
+          "expected_record_ids": [
+            "63824d3d8acea998a27f158a"
+          ],
+          "returned_record_ids": [
+            "7b1e3027990272d228c987dd",
+            "a4be953f1f425ecbb51f1471",
+            "2876a03c68ad24884a5770df",
+            "ce37393110e3ee24548b37f4",
+            "69c507be807309e2b9ce33eb"
+          ],
+          "recall_at_k": 0.0,
+          "reciprocal_rank": 0.0,
+          "elapsed_seconds": 0.2572674000111874
+        },
+        {
+          "case_id": "C007",
+          "expected_record_ids": [
+            "6bb888f176a85c1b232ff564"
+          ],
+          "returned_record_ids": [
+            "e6063e90bce18fcaa13ae3c1",
+            "0e02594b39744aa930a2a733",
+            "1e24c60e29862ad77987a274",
+            "98959b44f6baf05f0323f345",
+            "edafbea7c73c2f4b21b9fa6c"
+          ],
+          "recall_at_k": 0.0,
+          "reciprocal_rank": 0.0,
+          "elapsed_seconds": 0.5271392999857198
+        },
+        {
+          "case_id": "C008",
+          "expected_record_ids": [
+            "e1eed22af0f0ab8a41acce70"
+          ],
+          "returned_record_ids": [
+            "7b1e3027990272d228c987dd",
+            "a4be953f1f425ecbb51f1471",
+            "2876a03c68ad24884a5770df",
+            "ce37393110e3ee24548b37f4",
+            "e1eed22af0f0ab8a41acce70"
+          ],
+          "recall_at_k": 1.0,
+          "reciprocal_rank": 0.2,
+          "elapsed_seconds": 0.25439519999781623
+        },
+        {
+          "case_id": "C009",
+          "expected_record_ids": [
+            "0911777018856efee41c4ced"
+          ],
+          "returned_record_ids": [
+            "1e24c60e29862ad77987a274",
+            "0e02594b39744aa930a2a733",
+            "e6063e90bce18fcaa13ae3c1",
+            "98959b44f6baf05f0323f345",
+            "edafbea7c73c2f4b21b9fa6c"
+          ],
+          "recall_at_k": 0.0,
+          "reciprocal_rank": 0.0,
+          "elapsed_seconds": 0.34555250001722015
+        },
+        {
+          "case_id": "C010",
+          "expected_record_ids": [
+            "63824d3d8acea998a27f158a"
+          ],
+          "returned_record_ids": [
+            "7b1e3027990272d228c987dd",
+            "63824d3d8acea998a27f158a",
+            "a4be953f1f425ecbb51f1471",
+            "2876a03c68ad24884a5770df",
+            "ce37393110e3ee24548b37f4"
+          ],
+          "recall_at_k": 1.0,
+          "reciprocal_rank": 0.5,
+          "elapsed_seconds": 0.2458844000066165
+        },
+        {
+          "case_id": "C011",
+          "expected_record_ids": [
+            "d60f433e1430aa0e7f81f8d3"
+          ],
+          "returned_record_ids": [
+            "f0251a4bbcd8213a5fa7bda3",
+            "80dd515e600b35af51bed55f",
+            "47ae50853e5c1910dfe5ff22",
+            "d60f433e1430aa0e7f81f8d3",
+            "5bba857a8c56c83e39242808"
+          ],
+          "recall_at_k": 1.0,
+          "reciprocal_rank": 0.25,
+          "elapsed_seconds": 0.4308281999838073
+        },
+        {
+          "case_id": "C012",
+          "expected_record_ids": [
+            "f513d3166b3a724d7df5e097"
+          ],
+          "returned_record_ids": [
+            "f0251a4bbcd8213a5fa7bda3",
+            "80dd515e600b35af51bed55f",
+            "9ce7e16aad49716d8edfc9bb",
+            "0121055353b36e4d89e5c088",
+            "47ae50853e5c1910dfe5ff22"
+          ],
+          "recall_at_k": 0.0,
+          "reciprocal_rank": 0.0,
+          "elapsed_seconds": 0.44162490000599064
+        },
+        {
+          "case_id": "C013",
+          "expected_record_ids": [
+            "eba60a2c9487791b05fe583a"
+          ],
+          "returned_record_ids": [
+            "7b1e3027990272d228c987dd",
+            "a4be953f1f425ecbb51f1471",
+            "2876a03c68ad24884a5770df",
+            "ce37393110e3ee24548b37f4",
+            "e27ed31308a4a678494d4324"
+          ],
+          "recall_at_k": 0.0,
+          "reciprocal_rank": 0.0,
+          "elapsed_seconds": 0.29211860001669265
+        },
+        {
+          "case_id": "C014",
+          "expected_record_ids": [
+            "6bb888f176a85c1b232ff564"
+          ],
+          "returned_record_ids": [
+            "e6063e90bce18fcaa13ae3c1",
+            "0e02594b39744aa930a2a733",
+            "1e24c60e29862ad77987a274",
+            "98959b44f6baf05f0323f345",
+            "edafbea7c73c2f4b21b9fa6c"
+          ],
+          "recall_at_k": 0.0,
+          "reciprocal_rank": 0.0,
+          "elapsed_seconds": 0.5743221000011545
+        },
+        {
+          "case_id": "C015",
+          "expected_record_ids": [],
+          "returned_record_ids": [],
+          "recall_at_k": 1.0,
+          "reciprocal_rank": 1.0,
+          "elapsed_seconds": 0.8581169999961276
+        },
+        {
+          "case_id": "C017",
+          "expected_record_ids": [
+            "63824d3d8acea998a27f158a"
+          ],
+          "returned_record_ids": [
+            "7b1e3027990272d228c987dd",
+            "a4be953f1f425ecbb51f1471",
+            "ce37393110e3ee24548b37f4",
+            "2876a03c68ad24884a5770df",
+            "63824d3d8acea998a27f158a"
+          ],
+          "recall_at_k": 1.0,
+          "reciprocal_rank": 0.2,
+          "elapsed_seconds": 0.22360649998881854
+        },
+        {
+          "case_id": "C018",
+          "expected_record_ids": [
+            "42bd3b9b3aef4cb336d1c30c"
+          ],
+          "returned_record_ids": [
+            "7b1e3027990272d228c987dd",
+            "a4be953f1f425ecbb51f1471",
+            "2876a03c68ad24884a5770df",
+            "d0fb8e3135b8f71215fba236",
+            "fe457b71e2a26d022c392698"
+          ],
+          "recall_at_k": 0.0,
+          "reciprocal_rank": 0.0,
+          "elapsed_seconds": 0.17609140000422485
+        },
+        {
+          "case_id": "C019",
+          "expected_record_ids": [
+            "bfbdc22fe3c1a5bd8c0684af"
+          ],
+          "returned_record_ids": [
+            "d4e7cf8900a4cdc7e3da733c",
+            "93dd063de2a9574a5289ad47",
+            "f0251a4bbcd8213a5fa7bda3",
+            "9ce7e16aad49716d8edfc9bb",
+            "bfbdc22fe3c1a5bd8c0684af"
+          ],
+          "recall_at_k": 1.0,
+          "reciprocal_rank": 0.2,
+          "elapsed_seconds": 0.5582381999993231
+        },
+        {
+          "case_id": "C020",
+          "expected_record_ids": [
+            "acf60a07d408846d72c83d8b"
+          ],
+          "returned_record_ids": [
+            "e6063e90bce18fcaa13ae3c1",
+            "0e02594b39744aa930a2a733",
+            "1e24c60e29862ad77987a274",
+            "98959b44f6baf05f0323f345",
+            "edafbea7c73c2f4b21b9fa6c"
+          ],
+          "recall_at_k": 0.0,
+          "reciprocal_rank": 0.0,
+          "elapsed_seconds": 0.3251989000127651
+        },
+        {
+          "case_id": "C021",
+          "expected_record_ids": [],
+          "returned_record_ids": [],
+          "recall_at_k": 1.0,
+          "reciprocal_rank": 1.0,
+          "elapsed_seconds": 0.045508400013204664
+        }
+      ],
+      "recall_at_k": 0.47368421052631576,
+      "mrr": 0.2421052631578947,
+      "relevant_at_k_percent": 47.368421052631575,
+      "under_5_seconds_percent": 100.0,
+      "warm_up_seconds": 0.29959219999727793
+    }
+  ],
+  "run_context": {
+    "case_set_path": "C:\\Users\\SrinidhiVs\\Desktop\\AIE\\output\\deliverables\\retrieval-cases.json",
+    "corpus": {
+      "corpus_id": "rfp-corpus",
+      "schema_version": "1",
+      "record_count": 497,
+      "updated_at": "2026-10-03T22:18:46.683232+00:00",
+      "index_path": "output\\search-index.json"
+    },
+    "vector_index": {
+      "available": true,
+      "actual_mode": "indexed-vector",
+      "diagnostics": [],
+      "index_path": "output\\chroma",
+      "model_name": "all-MiniLM-L6-v2",
+      "provider": "sentence-transformers",
+      "dimension": 384,
+      "record_count": 497,
+      "updated_at": "2026-10-03T22:18:59.560191+00:00"
+    },
+    "evaluated_at": "2026-10-03T23:04:44.129160+00:00",
+    "case_count": 19,
+    "case_set_sha256": "f729c98dc5dbf58fe57ddd76b34ab2425cc784b8094d627129a776b536327708",
+    "configurations": [
+      "semantic-only",
+      "hybrid"
+    ],
+    "k": 5,
+    "reranker": {
+      "model_name": null,
+      "status": "heuristic"
+    }
+  },
+  "vector_index": {
+    "available": true,
+    "actual_mode": "indexed-vector",
+    "diagnostics": [],
+    "index_path": "output\\chroma",
+    "model_name": "all-MiniLM-L6-v2",
+    "provider": "sentence-transformers",
+    "dimension": 384,
+    "record_count": 497,
+    "updated_at": "2026-10-03T22:18:59.560191+00:00"
+  }
+}

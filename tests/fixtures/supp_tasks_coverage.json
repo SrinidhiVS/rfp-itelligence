@@ -1,0 +1,78 @@
+{
+  "records": [
+    {
+      "evidence_key": "bid1_rfp_schedule",
+      "authority_status": "supporting",
+      "source": {"bid_id": "Bid1", "relative_path": "JA-207652 Student and Staff Computing Devices FINAL.pdf", "page_number": 2, "expected_excerpt": "Solicitation Due 27-JUN-2024 14:00:00"}
+    },
+    {
+      "evidence_key": "bid1_addendum1_questions",
+      "authority_status": "supporting",
+      "source": {"bid_id": "Bid1", "relative_path": "Addendum 1 RFP JA-207652 Student and Staff Computing Devices.pdf", "page_number": 1, "expected_excerpt": "The Purpose of this Addendum is to provide responses"}
+    },
+    {
+      "evidence_key": "bid1_addendum2_deadline",
+      "authority_status": "current",
+      "source": {"bid_id": "Bid1", "relative_path": "Addendum 2 RFP JA-207652 Student and Staff Computing Devices.pdf", "page_number": 1, "expected_excerpt": "The new due date for this RFP will be July 9, 2024 at 2:00 PM CST."}
+    },
+    {
+      "evidence_key": "bid2_porfp_security",
+      "authority_status": "supporting",
+      "source": {"bid_id": "Bid2", "relative_path": "PORFP_-_Dell_Laptop_Final.pdf", "page_number": 2, "source_locator": {"block_index": 3, "line_index": 1}, "expected_excerpt": "reserves the right to purchase more or less than the specified quantity"}
+    },
+    {
+      "evidence_key": "bid2_mercury_affidavit",
+      "authority_status": "supporting",
+      "source": {"bid_id": "Bid2", "relative_path": "Mercury_Affidavit.pdf", "page_number": 1, "expected_excerpt": "MERCURY CONTENT INFORMATION"}
+    },
+    {
+      "evidence_key": "bid2_contract_authority",
+      "authority_status": "supporting",
+      "source": {"bid_id": "Bid2", "relative_path": "Contract_Affidavit.pdf", "page_number": 1, "expected_excerpt": "duly authorized representative of (name of business entity)"}
+    },
+    {
+      "evidence_key": "bid2_contract_workplace",
+      "authority_status": "supporting",
+      "source": {"bid_id": "Bid2", "relative_path": "Contract_Affidavit.pdf", "page_number": 3, "expected_excerpt": "Notify the procurement officer within 10 days after receiving notice"}
+    },
+    {
+      "evidence_key": "bid2_contract_contributions",
+      "authority_status": "supporting",
+      "source": {"bid_id": "Bid2", "relative_path": "Contract_Affidavit.pdf", "page_number": 2, "source_locator": {"block_index": 24, "line_index": 1, "page_numbers": [1, 2]}, "expected_excerpt": "cumulative amount of $500 or more were made"}
+    },
+    {
+      "evidence_key": "bid1_rfp_warranty",
+      "authority_status": "supporting",
+      "source": {"bid_id": "Bid1", "relative_path": "JA-207652 Student and Staff Computing Devices FINAL.pdf", "page_number": 4, "source_locator": {"block_index": 2, "line_index": 1}, "expected_excerpt": "within five (5) business days"}
+    },
+    {
+      "evidence_key": "bid1_rfp_tier1_requirements",
+      "authority_status": "supporting",
+      "source": {"bid_id": "Bid1", "relative_path": "JA-207652 Student and Staff Computing Devices FINAL.pdf", "page_number": 6, "source_locator": {"block_index": 2, "line_index": 1}, "expected_excerpt": "Tier 1 Staff Basic Laptop Minimum Requirements"}
+    },
+    {
+      "evidence_key": "bid2_porfp_warranty",
+      "authority_status": "supporting",
+      "source": {"bid_id": "Bid2", "relative_path": "PORFP_-_Dell_Laptop_Final.pdf", "page_number": 3, "source_locator": {"block_index": 31, "line_index": 0}, "expected_excerpt": "Warranty certificate or Affidavit to be presented upon award"}
+    },
+    {
+      "evidence_key": "bid1_rfp_offeror_requirements",
+      "authority_status": "supporting",
+      "source": {"bid_id": "Bid1", "relative_path": "JA-207652 Student and Staff Computing Devices FINAL.pdf", "page_number": 9, "source_locator": {"block_index": 2, "line_index": 1}, "expected_excerpt": "Describe your company's process for maintaining an inventory of temporary replacement"}
+    }
+  ],
+  "cases": {
+    "addendum_change": ["bid1_rfp_schedule", "bid1_addendum2_deadline"],
+    "latest_deadline": ["bid1_rfp_schedule", "bid1_addendum1_questions", "bid1_addendum2_deadline"],
+    "affidavit_requirements": ["bid2_porfp_security", "bid2_mercury_affidavit", "bid2_contract_authority", "bid2_contract_workplace", "bid2_contract_contributions", "bid2_porfp_warranty"],
+    "warranty_comparison": ["bid1_rfp_warranty", "bid1_rfp_tier1_requirements", "bid2_porfp_warranty"],
+    "bond_not_established": ["bid1_rfp_offeror_requirements"]
+  },
+  "missing_evidence_questions": [
+    {"type": "addendum_change", "bid_ids": ["Bid1"], "question": "What changed in Addendum 2?"},
+    {"type": "latest_deadline", "bid_ids": ["Bid1"], "question": "What is the latest submission deadline?"},
+    {"type": "affidavit_requirements", "bid_ids": ["Bid2"], "question": "What affidavit requirements apply to this bid?"},
+    {"type": "warranty_comparison", "bid_ids": ["Bid1", "Bid2"], "question": "Compare the warranty requirements for Bid1 and Bid2."},
+    {"type": "bond_not_established", "bid_ids": ["Bid2"], "question": "Is a bond required, and what is the amount?"}
+  ]
+}

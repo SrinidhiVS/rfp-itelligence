@@ -1,0 +1,60 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://example.invalid/schemas/vector-index.schema.json",
+  "title": "Local Vector Index Data and Manifest",
+  "description": "Contracts for the persisted vector record file and its scope-fingerprint manifest.",
+  "oneOf": [
+    { "$ref": "#/$defs/vectorIndexData" },
+    { "$ref": "#/$defs/vectorIndexManifest" }
+  ],
+  "$defs": {
+    "vectorRecord": {
+      "type": "object",
+      "required": ["record_id", "vector", "scope_id", "content_fingerprint", "bid_id", "source_file", "page_number", "source_locator", "text"],
+      "properties": {
+        "record_id": { "type": "string", "minLength": 1 },
+        "vector": { "type": "array", "items": { "type": "number" } },
+        "scope_id": { "type": "string", "minLength": 1 },
+        "content_fingerprint": { "type": "string", "minLength": 1 },
+        "bid_id": { "type": "string", "minLength": 1 },
+        "source_file": { "type": "string", "minLength": 1 },
+        "page_number": { "type": ["integer", "null"], "minimum": 1 },
+        "section_title": { "type": ["string", "null"] },
+        "content_kind": { "type": ["string", "null"], "enum": ["text", "table", "mixed", null] },
+        "source_locator": { "type": "object" },
+        "text": { "type": "string" },
+        "doc_type": { "type": ["string", "null"] },
+        "addendum_number": { "type": ["integer", "null"], "minimum": 1 },
+        "document_date": { "type": ["string", "null"], "format": "date" },
+        "authority_status": { "type": "string" },
+        "superseded_by": { "type": ["string", "null"] }
+      },
+      "additionalProperties": true
+    },
+    "vectorIndexData": {
+      "type": "object",
+      "required": ["records"],
+      "properties": {
+        "records": { "type": "array", "items": { "$ref": "#/$defs/vectorRecord" } }
+      },
+      "additionalProperties": true
+    },
+    "vectorIndexManifest": {
+      "type": "object",
+      "required": ["index_version", "provider", "model_name", "dimension", "normalize", "scope_fingerprints"],
+      "properties": {
+        "index_version": { "type": "string" },
+        "provider": { "type": "string" },
+        "model_name": { "type": "string" },
+        "dimension": { "type": "integer", "minimum": 0 },
+        "normalize": { "type": "boolean" },
+        "scope_fingerprints": {
+          "type": "object",
+          "additionalProperties": { "type": "string", "minLength": 1 }
+        },
+        "updated_at": { "type": ["string", "null"], "format": "date-time" }
+      },
+      "additionalProperties": true
+    }
+  }
+}

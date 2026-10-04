@@ -1,0 +1,39 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "rfp-document-ingestion"
+version = "0.1.0"
+description = "Reusable HTML and PDF procurement document ingestion pipeline"
+requires-python = ">=3.10"
+dependencies = [
+  "beautifulsoup4>=4.12",
+  "PyMuPDF>=1.24",
+  "fastapi>=0.115",
+  "streamlit>=1.40",
+  "sentence-transformers>=3.0",
+  "chromadb>=0.5,<2",
+  "filelock>=3.13",
+  "numpy>=1.26",
+  "langgraph>=1.0",
+  "langsmith>=0.2",
+  "python-dotenv>=1.0",
+  "openai>=1.0",
+  "pydantic>=2.0",
+  "uvicorn>=0.30",
+]
+
+[project.optional-dependencies]
+test = ["pytest>=8.0", "jsonschema>=4.0", "playwright>=1.40"]
+
+[project.scripts]
+rfp-ingest = "src.cli:main"
+rfp-ui = "src.run:main"
+
+[tool.pytest.ini_options]
+pythonpath = ["."]
+testpaths = ["tests"]
+
+[tool.setuptools]
+packages = ["src", "src.ingestion", "src.search", "src.agents", "src.api", "src.extraction", "src.frontend"]

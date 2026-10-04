@@ -1,0 +1,45 @@
+{
+  "manifest_version": "1.0",
+  "corpus_name": "acceptance-retention-html",
+  "documents": [
+    {
+      "file_name": "tests/fixtures/acceptance/retention.html",
+      "bid_id": "acceptance",
+      "format": "html"
+    }
+  ],
+  "expected_text_spans": [
+    {"file_name": "tests/fixtures/acceptance/retention.html", "page_number": 1, "expected_text": "TEXT-01"},
+    {"file_name": "tests/fixtures/acceptance/retention.html", "page_number": 1, "expected_text": "TEXT-02"},
+    {"file_name": "tests/fixtures/acceptance/retention.html", "page_number": 1, "expected_text": "TEXT-03"},
+    {"file_name": "tests/fixtures/acceptance/retention.html", "page_number": 1, "expected_text": "TEXT-04"},
+    {"file_name": "tests/fixtures/acceptance/retention.html", "page_number": 1, "expected_text": "TEXT-05"},
+    {"file_name": "tests/fixtures/acceptance/retention.html", "page_number": 1, "expected_text": "TEXT-06"},
+    {"file_name": "tests/fixtures/acceptance/retention.html", "page_number": 1, "expected_text": "TEXT-07"},
+    {"file_name": "tests/fixtures/acceptance/retention.html", "page_number": 1, "expected_text": "TEXT-08"},
+    {"file_name": "tests/fixtures/acceptance/retention.html", "page_number": 1, "expected_text": "TEXT-09"},
+    {"file_name": "tests/fixtures/acceptance/retention.html", "page_number": 1, "expected_text": "TEXT-10"},
+    {"file_name": "tests/fixtures/acceptance/retention.html", "page_number": 1, "expected_text": "TEXT-11"},
+    {"file_name": "tests/fixtures/acceptance/retention.html", "page_number": 1, "expected_text": "TEXT-12"},
+    {"file_name": "tests/fixtures/acceptance/retention.html", "page_number": 1, "expected_text": "TEXT-13"},
+    {"file_name": "tests/fixtures/acceptance/retention.html", "page_number": 1, "expected_text": "TEXT-14"},
+    {"file_name": "tests/fixtures/acceptance/retention.html", "page_number": 1, "expected_text": "TEXT-15"},
+    {"file_name": "tests/fixtures/acceptance/retention.html", "page_number": 1, "expected_text": "TEXT-16"},
+    {"file_name": "tests/fixtures/acceptance/retention.html", "page_number": 1, "expected_text": "TEXT-17"},
+    {"file_name": "tests/fixtures/acceptance/retention.html", "page_number": 1, "expected_text": "TEXT-18"},
+    {"file_name": "tests/fixtures/acceptance/retention.html", "page_number": 1, "expected_text": "TEXT-19"},
+    {"file_name": "tests/fixtures/acceptance/retention.html", "page_number": 1, "expected_text": "TEXT-20"}
+  ],
+  "expected_table_cells": [
+    {"file_name": "tests/fixtures/acceptance/retention.html", "page_number": 1, "table_index": 0, "row_index": 0, "column_index": 0, "expected_text": "TABLE-01"},
+    {"file_name": "tests/fixtures/acceptance/retention.html", "page_number": 1, "table_index": 1, "row_index": 0, "column_index": 0, "expected_text": "TABLE-02"},
+    {"file_name": "tests/fixtures/acceptance/retention.html", "page_number": 1, "table_index": 2, "row_index": 0, "column_index": 0, "expected_text": "TABLE-03"},
+    {"file_name": "tests/fixtures/acceptance/retention.html", "page_number": 1, "table_index": 3, "row_index": 0, "column_index": 0, "expected_text": "TABLE-04"},
+    {"file_name": "tests/fixtures/acceptance/retention.html", "page_number": 1, "table_index": 4, "row_index": 0, "column_index": 0, "expected_text": "TABLE-05"},
+    {"file_name": "tests/fixtures/acceptance/retention.html", "page_number": 1, "table_index": 5, "row_index": 0, "column_index": 0, "expected_text": "TABLE-06"},
+    {"file_name": "tests/fixtures/acceptance/retention.html", "page_number": 1, "table_index": 6, "row_index": 0, "column_index": 0, "expected_text": "TABLE-07"},
+    {"file_name": "tests/fixtures/acceptance/retention.html", "page_number": 1, "table_index": 7, "row_index": 0, "column_index": 0, "expected_text": "TABLE-08"},
+    {"file_name": "tests/fixtures/acceptance/retention.html", "page_number": 1, "table_index": 8, "row_index": 0, "column_index": 0, "expected_text": "TABLE-09"},
+    {"file_name": "tests/fixtures/acceptance/retention.html", "page_number": 1, "table_index": 9, "row_index": 0, "column_index": 0, "expected_text": "TABLE-10"}
+  ]
+}

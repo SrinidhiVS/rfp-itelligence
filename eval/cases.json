@@ -1,0 +1,206 @@
+[
+  {
+    "case_id": "C001",
+    "query": "JA-207652",
+    "expected_record_ids": [
+      "650b0d740b417c584c2c74b7"
+    ],
+    "bid_id": "Bid1",
+    "category": "exact",
+    "expected_passages": [{"record_id": "650b0d740b417c584c2c74b7", "excerpt": "JA-207652 Student and Staff Computing Devices", "bid_id": "Bid1", "source_file": "JA-207652 Student and Staff Computing Devices FINAL.pdf", "page_number": 4}]
+  },
+  {
+    "case_id": "C002",
+    "query": "Dell laptop warranty",
+    "expected_record_ids": [
+      "0189fcdbd3dc99707d98847f"
+    ],
+    "bid_id": "Bid2",
+    "category": "concept",
+    "expected_passages": [{"record_id": "0189fcdbd3dc99707d98847f", "excerpt": "Extended Warranty)", "bid_id": "Bid2", "source_file": "PORFP_-_Dell_Laptop_Final.pdf", "page_number": 1}]
+  },
+  {
+    "case_id": "C003",
+    "query": "submission deadline",
+    "expected_record_ids": [
+      "880cf7462ea1b1572a5fc2b9"
+    ],
+    "bid_id": "Bid1",
+    "category": "deadline",
+    "expected_passages": [{"record_id": "880cf7462ea1b1572a5fc2b9", "excerpt": "The new due date for this RFP will be July 9, 2024 at 2:00 PM CST.", "bid_id": "Bid1", "source_file": "Addendum 2 RFP JA-207652 Student and Staff Computing Devices.pdf", "page_number": 1}]
+  },
+  {
+    "case_id": "C004",
+    "query": "bid bond",
+    "expected_record_ids": [
+      "ac48950e5bb434921e6d538b"
+    ],
+    "bid_id": "Bid1",
+    "category": "requirement",
+    "expected_passages": [{"record_id": "ac48950e5bb434921e6d538b", "excerpt": "insurance, bid bond, or liability requirements", "bid_id": "Bid1", "source_file": "JA-207652 Student and Staff Computing Devices FINAL.pdf", "page_number": 9}]
+  },
+  {
+    "case_id": "C005",
+    "query": "affidavit",
+    "expected_record_ids": [
+      "aaaaa9db8f3828615e09789f"
+    ],
+    "bid_id": "Bid2",
+    "category": "documentation",
+    "expected_passages": [{"record_id": "aaaaa9db8f3828615e09789f", "excerpt": "Mercury Affidavit:", "bid_id": "Bid2", "source_file": "PORFP_-_Dell_Laptop_Final.pdf", "page_number": 2}]
+  },
+  {
+    "case_id": "C006",
+    "query": "model number",
+    "expected_record_ids": [
+      "a1c630c6a6af7f8ab13e70f3"
+    ],
+    "bid_id": "Bid2",
+    "category": "exact",
+    "expected_passages": [{"record_id": "a1c630c6a6af7f8ab13e70f3", "excerpt": "Dell Latitude 5550", "bid_id": "Bid2", "source_file": "Dell_Laptop_Specs.pdf", "page_number": 1}]
+  },
+  {
+    "case_id": "C007",
+    "query": "replacement parts warranty",
+    "expected_record_ids": [
+      "1fd40e9eeb332b1c11e0b5eb"
+    ],
+    "bid_id": "Bid1",
+    "category": "requirement",
+    "expected_passages": [{"record_id": "1fd40e9eeb332b1c11e0b5eb", "excerpt": "replacement parts prove unsound", "bid_id": "Bid1", "source_file": "JA-207652 Student and Staff Computing Devices FINAL.pdf", "page_number": 4}]
+  },
+  {
+    "case_id": "C008",
+    "query": "delivery date",
+    "expected_record_ids": [
+      "889f0feb04548d2d6a1ebaae",
+      "aaaaa9db8f3828615e09789f"
+    ],
+    "bid_id": "Bid2",
+    "category": "deadline",
+    "expected_passages": [
+      {"record_id": "889f0feb04548d2d6a1ebaae", "excerpt": "Delivery within 45 days of Award.", "bid_id": "Bid2", "source_file": "PORFP_-_Dell_Laptop_Final.pdf", "page_number": 2},
+      {"record_id": "aaaaa9db8f3828615e09789f", "excerpt": "Delivery within 45 days of Award.", "bid_id": "Bid2", "source_file": "PORFP_-_Dell_Laptop_Final.pdf", "page_number": 2}
+    ]
+  },
+  {
+    "case_id": "C009",
+    "query": "Addendum 2 changes",
+    "expected_record_ids": [
+      "880cf7462ea1b1572a5fc2b9"
+    ],
+    "bid_id": "Bid1",
+    "category": "addendum",
+    "expected_passages": [{"record_id": "880cf7462ea1b1572a5fc2b9", "excerpt": "The new due date for this RFP will be July 9, 2024 at 2:00 PM CST.", "bid_id": "Bid1", "source_file": "Addendum 2 RFP JA-207652 Student and Staff Computing Devices.pdf", "page_number": 1}]
+  },
+  {
+    "case_id": "C010",
+    "query": "CPU RAM storage",
+    "expected_record_ids": [
+      "a1c630c6a6af7f8ab13e70f3"
+    ],
+    "bid_id": "Bid2",
+    "category": "specification",
+    "expected_passages": [{"record_id": "a1c630c6a6af7f8ab13e70f3", "excerpt": "Intel Core Ultra 5 125U processor", "bid_id": "Bid2", "source_file": "Dell_Laptop_Specs.pdf", "page_number": 1}]
+  },
+  {
+    "case_id": "C011",
+    "query": "payment terms",
+    "expected_record_ids": [
+      "7c6c513a5f0c239ea38a234c"
+    ],
+    "bid_id": "Bid1",
+    "category": "commercial",
+    "expected_passages": [{"record_id": "7c6c513a5f0c239ea38a234c", "excerpt": "Subcontractor Payment.", "bid_id": "Bid1", "source_file": "JA-207652 Student and Staff Computing Devices FINAL.pdf", "page_number": 51}]
+  },
+  {
+    "case_id": "C012",
+    "query": "pre bid meeting",
+    "expected_record_ids": [
+      "4edcf37c7f90808a135d32ab"
+    ],
+    "bid_id": "Bid1",
+    "category": "deadline",
+    "expected_passages": [{"record_id": "4edcf37c7f90808a135d32ab", "excerpt": "pre-bid/proposal conference", "bid_id": "Bid1", "source_file": "JA-207652 Student and Staff Computing Devices FINAL.pdf", "page_number": 47}]
+  },
+  {
+    "case_id": "C013",
+    "query": "issuing organization",
+    "expected_record_ids": [
+      "73bdede171bdbe47db318f28"
+    ],
+    "bid_id": "Bid2",
+    "category": "identity",
+    "expected_passages": [{"record_id": "73bdede171bdbe47db318f28", "excerpt": "entity issuing this Quote", "bid_id": "Bid2", "source_file": "Dell_Laptop_Specs.pdf", "page_number": 3}]
+  },
+  {
+    "case_id": "C014",
+    "query": "compare warranty",
+    "expected_record_ids": [
+      "1fd40e9eeb332b1c11e0b5eb"
+    ],
+    "bid_id": "both",
+    "category": "comparison",
+    "expected_passages": [{"record_id": "1fd40e9eeb332b1c11e0b5eb", "excerpt": "All warranties shall become effective on the date the equipment is placed into service", "bid_id": "Bid1", "source_file": "JA-207652 Student and Staff Computing Devices FINAL.pdf", "page_number": 4}]
+  },
+  {
+    "case_id": "C015",
+    "query": "ZXQ-UNAVAILABLE-9981",
+    "expected_record_ids": [],
+    "bid_id": "both",
+    "category": "not-found",
+    "expected_passages": []
+  },
+  {
+    "case_id": "C016",
+    "query": "Request For Proposal 168884",
+    "expected_record_ids": ["11d8cdec04c62db862cbc17e", "3df08ce7254746286149ae51", "62d9e03696a1a230d9f19473"],
+    "bid_id": "Bid1",
+    "category": "exact",
+    "expected_passages": [
+      {"record_id": "11d8cdec04c62db862cbc17e", "excerpt": "Request For Proposal 168884", "bid_id": "Bid1", "source_file": "JA-207652 Student and Staff Computing Devices FINAL.pdf", "page_number": 1},
+      {"record_id": "3df08ce7254746286149ae51", "excerpt": "Request For Proposal 168884", "bid_id": "Bid1", "source_file": "JA-207652 Student and Staff Computing Devices FINAL.pdf", "page_number": 5},
+      {"record_id": "62d9e03696a1a230d9f19473", "excerpt": "Request For Proposal 168884", "bid_id": "Bid1", "source_file": "JA-207652 Student and Staff Computing Devices FINAL.pdf", "page_number": 6}
+    ]
+  },
+  {
+    "case_id": "C017",
+    "query": "Dell Latitude 5550 SKU 210-BLYZ",
+    "expected_record_ids": ["a1c630c6a6af7f8ab13e70f3"],
+    "bid_id": "Bid2",
+    "category": "exact",
+    "expected_passages": [{"record_id": "a1c630c6a6af7f8ab13e70f3", "excerpt": "Dell Latitude 5550", "bid_id": "Bid2", "source_file": "Dell_Laptop_Specs.pdf", "page_number": 1}]
+  },
+  {
+    "case_id": "C018",
+    "query": "part number 338-CNRG",
+    "expected_record_ids": ["a1c630c6a6af7f8ab13e70f3"],
+    "bid_id": "Bid2",
+    "category": "exact",
+    "expected_passages": [{"record_id": "a1c630c6a6af7f8ab13e70f3", "excerpt": "338-CNRG", "bid_id": "Bid2", "source_file": "Dell_Laptop_Specs.pdf", "page_number": 1}]
+  },
+  {
+    "case_id": "C019",
+    "query": "white glove shipping services",
+    "expected_record_ids": ["3deb66d9579715e9ceb8a18b"],
+    "bid_id": "Bid1",
+    "category": "concept",
+    "expected_passages": [{"record_id": "3deb66d9579715e9ceb8a18b", "excerpt": "white glove services", "bid_id": "Bid1", "source_file": "Addendum 1 RFP JA-207652 Student and Staff Computing Devices.pdf", "page_number": 1}]
+  },
+  {
+    "case_id": "C020",
+    "query": "USB 3.1 minimum requirement addendum",
+    "expected_record_ids": ["3deb66d9579715e9ceb8a18b"],
+    "bid_id": "Bid1",
+    "category": "addendum",
+    "expected_passages": [{"record_id": "3deb66d9579715e9ceb8a18b", "excerpt": "USB 3.1 is a minimum requirement.", "bid_id": "Bid1", "source_file": "Addendum 1 RFP JA-207652 Student and Staff Computing Devices.pdf", "page_number": 1}]
+  },
+  {
+    "case_id": "C021",
+    "query": "warranty requirements",
+    "expected_record_ids": [],
+    "bid_id": "NonexistentBid-010",
+    "category": "not-found",
+    "expected_passages": []
+  }
+]

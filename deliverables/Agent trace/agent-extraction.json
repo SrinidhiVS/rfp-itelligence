@@ -1,0 +1,1520 @@
+{
+  "fields": {
+    "submission_deadline": {
+      "name": "submission_deadline",
+      "value": "July 9, 2024",
+      "confidence": 0.8,
+      "citations": [
+        {
+          "file": "Addendum 2 RFP JA-207652 Student and Staff Computing Devices.pdf",
+          "page": 1,
+          "bid_id": "Bid1",
+          "locator": {
+            "page_number": 1,
+            "block_index": 4,
+            "line_index": 3,
+            "bbox": [
+              72.0,
+              125.94984436035156,
+              369.4503173828125,
+              139.3931121826172
+            ],
+            "relative_path": "Addendum 2 RFP JA-207652 Student and Staff Computing Devices.pdf",
+            "section_title": "The Purpose of this Addendum is to extend the due date of this RFP.",
+            "heading_path": [
+              "ADDENDUM No. 2",
+              "RFP JA-207652 Student and Staff Computing Devices",
+              "The Purpose of this Addendum is to extend the due date of this RFP."
+            ],
+            "page_ids": [
+              "3dbe667466250cce"
+            ],
+            "page_numbers": [
+              1
+            ],
+            "section_ids": [
+              "3dbe667466250cce-section-4",
+              "3dbe667466250cce-section-5",
+              "3dbe667466250cce-section-6",
+              "3dbe667466250cce-section-7"
+            ],
+            "source_segments": [
+              {
+                "page_id": "3dbe667466250cce",
+                "page_number": 1,
+                "source_locator": {
+                  "page_number": 1,
+                  "block_index": 4,
+                  "line_index": 3,
+                  "bbox": [
+                    72.0,
+                    125.94984436035156,
+                    369.4503173828125,
+                    139.3931121826172
+                  ],
+                  "relative_path": "Addendum 2 RFP JA-207652 Student and Staff Computing Devices.pdf"
+                },
+                "section_id": "3dbe667466250cce-section-4"
+              },
+              {
+                "page_id": "3dbe667466250cce",
+                "page_number": 1,
+                "source_locator": {
+                  "page_number": 1,
+                  "block_index": 4,
+                  "line_index": 6,
+                  "bbox": [
+                    72.0,
+                    166.26983642578125,
+                    541.9853515625,
+                    179.71310424804688
+                  ],
+                  "relative_path": "Addendum 2 RFP JA-207652 Student and Staff Computing Devices.pdf"
+                },
+                "section_id": "3dbe667466250cce-section-5"
+              },
+              {
+                "page_id": "3dbe667466250cce",
+                "page_number": 1,
+                "source_locator": {
+                  "page_number": 1,
+                  "block_index": 4,
+                  "line_index": 7,
+                  "bbox": [
+                    72.0,
+                    179.70985412597656,
+                    199.70062255859375,
+                    193.1531219482422
+                  ],
+                  "relative_path": "Addendum 2 RFP JA-207652 Student and Staff Computing Devices.pdf"
+                },
+                "section_id": "3dbe667466250cce-section-6"
+              },
+              {
+                "page_id": "3dbe667466250cce",
+                "page_number": 1,
+                "source_locator": {
+                  "page_number": 1,
+                  "block_index": 4,
+                  "line_index": 9,
+                  "bbox": [
+                    72.0,
+                    206.46983337402344,
+                    542.0238647460938,
+                    219.91310119628906
+                  ],
+                  "relative_path": "Addendum 2 RFP JA-207652 Student and Staff Computing Devices.pdf"
+                },
+                "section_id": "3dbe667466250cce-section-7"
+              }
+            ]
+          },
+          "authority_status": "supporting",
+          "superseded_by": null
+        }
+      ],
+      "status": "supported",
+      "notes": "Value controlled by the latest valid relevant addendum."
+    },
+    "submission_method": {
+      "name": "submission_method",
+      "value": "00 PM CST. The information in this Addendum is hereby incorporated and made part of any contract awarded pursuant to this solicitation. Please sign this addendum and submit along with your copies of t",
+      "confidence": 0.8,
+      "citations": [
+        {
+          "file": "Addendum 2 RFP JA-207652 Student and Staff Computing Devices.pdf",
+          "page": 1,
+          "bid_id": "Bid1",
+          "locator": {
+            "page_number": 1,
+            "block_index": 4,
+            "line_index": 3,
+            "bbox": [
+              72.0,
+              125.94984436035156,
+              369.4503173828125,
+              139.3931121826172
+            ],
+            "relative_path": "Addendum 2 RFP JA-207652 Student and Staff Computing Devices.pdf",
+            "section_title": "The Purpose of this Addendum is to extend the due date of this RFP.",
+            "heading_path": [
+              "ADDENDUM No. 2",
+              "RFP JA-207652 Student and Staff Computing Devices",
+              "The Purpose of this Addendum is to extend the due date of this RFP."
+            ],
+            "page_ids": [
+              "3dbe667466250cce"
+            ],
+            "page_numbers": [
+              1
+            ],
+            "section_ids": [
+              "3dbe667466250cce-section-4",
+              "3dbe667466250cce-section-5",
+              "3dbe667466250cce-section-6",
+              "3dbe667466250cce-section-7"
+            ],
+            "source_segments": [
+              {
+                "page_id": "3dbe667466250cce",
+                "page_number": 1,
+                "source_locator": {
+                  "page_number": 1,
+                  "block_index": 4,
+                  "line_index": 3,
+                  "bbox": [
+                    72.0,
+                    125.94984436035156,
+                    369.4503173828125,
+                    139.3931121826172
+                  ],
+                  "relative_path": "Addendum 2 RFP JA-207652 Student and Staff Computing Devices.pdf"
+                },
+                "section_id": "3dbe667466250cce-section-4"
+              },
+              {
+                "page_id": "3dbe667466250cce",
+                "page_number": 1,
+                "source_locator": {
+                  "page_number": 1,
+                  "block_index": 4,
+                  "line_index": 6,
+                  "bbox": [
+                    72.0,
+                    166.26983642578125,
+                    541.9853515625,
+                    179.71310424804688
+                  ],
+                  "relative_path": "Addendum 2 RFP JA-207652 Student and Staff Computing Devices.pdf"
+                },
+                "section_id": "3dbe667466250cce-section-5"
+              },
+              {
+                "page_id": "3dbe667466250cce",
+                "page_number": 1,
+                "source_locator": {
+                  "page_number": 1,
+                  "block_index": 4,
+                  "line_index": 7,
+                  "bbox": [
+                    72.0,
+                    179.70985412597656,
+                    199.70062255859375,
+                    193.1531219482422
+                  ],
+                  "relative_path": "Addendum 2 RFP JA-207652 Student and Staff Computing Devices.pdf"
+                },
+                "section_id": "3dbe667466250cce-section-6"
+              },
+              {
+                "page_id": "3dbe667466250cce",
+                "page_number": 1,
+                "source_locator": {
+                  "page_number": 1,
+                  "block_index": 4,
+                  "line_index": 9,
+                  "bbox": [
+                    72.0,
+                    206.46983337402344,
+                    542.0238647460938,
+                    219.91310119628906
+                  ],
+                  "relative_path": "Addendum 2 RFP JA-207652 Student and Staff Computing Devices.pdf"
+                },
+                "section_id": "3dbe667466250cce-section-7"
+              }
+            ]
+          },
+          "authority_status": "supporting",
+          "superseded_by": null
+        }
+      ],
+      "status": "supported",
+      "notes": ""
+    },
+    "solicitation_number": {
+      "name": "solicitation_number",
+      "value": "JA-207652",
+      "confidence": 0.8,
+      "citations": [
+        {
+          "file": "Addendum 1 RFP JA-207652 Student and Staff Computing Devices.pdf",
+          "page": 1,
+          "bid_id": "Bid1",
+          "locator": {
+            "page_number": 1,
+            "block_index": 10,
+            "line_index": 3,
+            "bbox": [
+              108.0,
+              649.6298217773438,
+              527.1593627929688,
+              663.0731201171875
+            ],
+            "relative_path": "Addendum 1 RFP JA-207652 Student and Staff Computing Devices.pdf",
+            "section_title": null,
+            "heading_path": [],
+            "page_ids": [
+              "a14b6af26515931e",
+              "c58614da429215a5"
+            ],
+            "page_numbers": [
+              1,
+              2
+            ],
+            "section_ids": [
+              "a14b6af26515931e-section-52",
+              "a14b6af26515931e-section-53",
+              "a14b6af26515931e-section-54",
+              "a14b6af26515931e-section-55",
+              "a14b6af26515931e-section-56",
+              "a14b6af26515931e-section-57",
+              "a14b6af26515931e-section-58",
+              "a14b6af26515931e-section-59",
+              "a14b6af26515931e-section-60",
+              "c58614da429215a5-section-2",
+              "c58614da429215a5-section-3",
+              "c58614da429215a5-section-4"
+            ],
+            "source_segments": [
+              {
+                "page_id": "a14b6af26515931e",
+                "page_number": 1,
+                "source_locator": {
+                  "page_number": 1,
+                  "block_index": 10,
+                  "line_index": 3,
+                  "bbox": [
+                    108.0,
+                    649.6298217773438,
+                    527.1593627929688,
+                    663.0731201171875
+                  ],
+                  "relative_path": "Addendum 1 RFP JA-207652 Student and Staff Computing Devices.pdf"
+                },
+                "section_id": "a14b6af26515931e-section-52"
+              },
+              {
+                "page_id": "a14b6af26515931e",
+                "page_number": 1,
+                "source_locator": {
+                  "page_number": 1,
+                  "block_index": 10,
+                  "line_index": 4,
+                  "bbox": [
+                    108.0,
+                    663.06982421875,
+                    194.38616943359375,
+                    676.5131225585938
+                  ],
+                  "relative_path": "Addendum 1 RFP JA-207652 Student and Staff Computing Devices.pdf"
+                },
+                "section_id": "a14b6af26515931e-section-53"
+              },
+              {
+                "page_id": "a14b6af26515931e",
+                "page_number": 1,
+                "source_locator": {
+                  "page_number": 1,
+                  "block_index": 11,
+                  "line_index": 0,
+                  "bbox": [
+                    126.0,
+                    676.5098266601562,
+                    165.65228271484375,
+                    689.953125
+                  ],
+                  "relative_path": "Addendum 1 RFP JA-207652 Student and Staff Computing Devices.pdf"
+                },
+                "section_id": "a14b6af26515931e-section-54"
+              },
+              {
+                "page_id": "a14b6af26515931e",
+                "page_number": 1,
+                "source_locator": {
+                  "page_number": 1,
+                  "block_index": 11,
+                  "line_index": 1,
+                  "bbox": [
+                    180.0,
+                    676.5098266601562,
+                    524.8618774414062,
+                    689.953125
+                  ],
+                  "relative_path": "Addendum 1 RFP JA-207652 Student and Staff Computing Devices.pdf"
+                },
+                "section_id": "a14b6af26515931e-section-55"
+              },
+              {
+                "page_id": "a14b6af26515931e",
+                "page_number": 1,
+                "source_locator": {
+                  "page_number": 1,
+                  "block_index": 11,
+                  "line_index": 2,
+                  "bbox": [
+                    144.0,
+                    689.9498291015625,
+                    360.21087646484375,
+                    703.3931274414062
+                  ],
+                  "relative_path": "Addendum 1 RFP JA-207652 Student and Staff Computing Devices.pdf"
+                },
+                "section_id": "a14b6af26515931e-section-56"
+              },
+              {
+                "page_id": "a14b6af26515931e",
+                "page_number": 1,
+                "source_locator": {
+                  "page_number": 1,
+                  "block_index": 11,
+                  "line_index": 3,
+                  "bbox": [
+                    90.0,
+                    703.3898315429688,
+                    533.9181518554688,
+                    716.8331298828125
+                  ],
+                  "relative_path": "Addendum 1 RFP JA-207652 Student and Staff Computing Devices.pdf"
+                },
+                "section_id": "a14b6af26515931e-section-57"
+              },
+              {
+                "page_id": "a14b6af26515931e",
+                "page_number": 1,
+                "source_locator": {
+                  "page_number": 1,
+                  "block_index": 11,
+                  "line_index": 4,
+                  "bbox": [
+                    108.0,
+                    716.7097778320312,
+                    524.1407470703125,
+                    730.153076171875
+                  ],
+                  "relative_path": "Addendum 1 RFP JA-207652 Student and Staff Computing Devices.pdf"
+                },
+                "section_id": "a14b6af26515931e-section-58"
+              },
+              {
+                "page_id": "a14b6af26515931e",
+                "page_number": 1,
+                "source_locator": {
+                  "page_number": 1,
+                  "block_index": 12,
+                  "line_index": 0,
+                  "bbox": [
+                    126.0,
+                    730.1498413085938,
+                    165.65228271484375,
+                    743.5931396484375
+                  ],
+                  "relative_path": "Addendum 1 RFP JA-207652 Student and Staff Computing Devices.pdf"
+                },
+                "section_id": "a14b6af26515931e-section-59"
+              },
+              {
+                "page_id": "a14b6af26515931e",
+                "page_number": 1,
+                "source_locator": {
+                  "page_number": 1,
+                  "block_index": 12,
+                  "line_index": 1,
+                  "bbox": [
+                    180.0,
+                    730.1498413085938,
+                    475.5303039550781,
+                    743.5931396484375
+                  ],
+                  "relative_path": "Addendum 1 RFP JA-207652 Student and Staff Computing Devices.pdf"
+                },
+                "section_id": "a14b6af26515931e-section-60"
+              },
+              {
+                "page_id": "c58614da429215a5",
+                "page_number": 2,
+                "source_locator": {
+                  "page_number": 2,
+                  "block_index": 3,
+                  "line_index": 1,
+                  "bbox": [
+                    300.9599914550781,
+                    61.629844665527344,
+                    542.053955078125,
+                    75.07311248779297
+                  ],
+                  "relative_path": "Addendum 1 RFP JA-207652 Student and Staff Computing Devices.pdf"
+                },
+                "section_id": "c58614da429215a5-section-2"
+              },
+              {
+                "page_id": "c58614da429215a5",
+                "page_number": 2,
+                "source_locator": {
+                  "page_number": 2,
+                  "block_index": 5,
+                  "line_index": 1,
+                  "bbox": [
+                    90.0,
+                    100.26983642578125,
+                    537.0202026367188,
+                    113.71310424804688
+                  ],
+                  "relative_path": "Addendum 1 RFP JA-207652 Student and Staff Computing Devices.pdf"
+                },
+                "section_id": "c58614da429215a5-section-3"
+              },
+              {
+                "page_id": "c58614da429215a5",
+                "page_number": 2,
+                "source_locator": {
+                  "page_number": 2,
+                  "block_index": 5,
+                  "line_index": 2,
+                  "bbox": [
+                    108.0,
+                    113.70984649658203,
+                    538.6076049804688,
+                    127.15311431884766
+                  ],
+                  "relative_path": "Addendum 1 RFP JA-207652 Student and Staff Computing Devices.pdf"
+                },
+                "section_id": "c58614da429215a5-section-4"
+              }
+            ]
+          },
+          "authority_status": "supporting",
+          "superseded_by": null
+        }
+      ],
+      "status": "supported",
+      "notes": ""
+    },
+    "bid_bond": {
+      "name": "bid_bond",
+      "value": null,
+      "confidence": null,
+      "citations": [],
+      "status": "review_required",
+      "notes": "No field-specific value supported by retrieved evidence"
+    },
+    "warranty": {
+      "name": "warranty",
+      "value": "All warranties shall become effective on the date the equipment is placed into service, as agreed-upon by",
+      "confidence": 0.8,
+      "citations": [
+        {
+          "file": "JA-207652 Student and Staff Computing Devices FINAL.pdf",
+          "page": 4,
+          "bid_id": "Bid1",
+          "locator": {
+            "relative_path": "JA-207652 Student and Staff Computing Devices FINAL.pdf",
+            "page_number": 4,
+            "section_title": "JA-207652 Student and Staff Computing Devices",
+            "table_id": "9982333e002aeef6",
+            "table_index": 0,
+            "bbox": [
+              66.51666514078777,
+              54.1875,
+              558.0823567708334,
+              727.9849853515625
+            ]
+          },
+          "authority_status": "supporting",
+          "superseded_by": null
+        }
+      ],
+      "status": "supported",
+      "notes": ""
+    },
+    "insurance": {
+      "name": "insurance",
+      "value": "insurance, bid bond, or liability requirements of the District as noted elsewhere in this solicitation document.",
+      "confidence": 0.8,
+      "citations": [
+        {
+          "file": "JA-207652 Student and Staff Computing Devices FINAL.pdf",
+          "page": 9,
+          "bid_id": "Bid1",
+          "locator": {
+            "relative_path": "JA-207652 Student and Staff Computing Devices FINAL.pdf",
+            "page_number": 9,
+            "section_title": "JA-207652 Student and Staff Computing Devices",
+            "table_id": "fab97da36f12ccdc",
+            "table_index": 0,
+            "bbox": [
+              66.5499984741211,
+              54.1875,
+              558.0490234375,
+              733.5499877929688
+            ]
+          },
+          "authority_status": "supporting",
+          "superseded_by": null
+        }
+      ],
+      "status": "supported",
+      "notes": ""
+    },
+    "affidavits": {
+      "name": "affidavits",
+      "value": null,
+      "confidence": null,
+      "citations": [],
+      "status": "not_found",
+      "notes": "Not found in documents"
+    },
+    "mandatory_requirements": {
+      "name": "mandatory_requirements",
+      "value": "Line | Item, Rev | Target Quantity | Unit | Unit Price | Amount | Bid Minimum Release Amount 1 Tier 1 Small Student Chromebook Laptop (Touch) | | 1 | Each | | | 2 Tier 2 Large Student Chromebook Laptop (Non- Touch) | | 1 | Each | | | 3 Tier 3 Student Windows Laptop | | 1 | Each | | | 4 Student Tablet | | 1 | Each | | | 5 Tier 1 Staff Basic Desktop | | 1 | Each | | | 6 Tier 2 Staff Professional Desktop | | 1 | Each | | | 7 Tier 1 Staff Laptop | | 1 | Each | | | 8 Tier 2 Staff Laptop | | 1 | Each | | | 9 Display Monitor - Touch | | 1 | Each | | | 10 Display Monitor - Non-Touch | | 1 | Each | | | 11 Additional Warranty - not included in the initial purchase of a device | | 1 | Each | | | 12 Device Deployment - include all associated costs for asset decaling and reporting, etching, and delivery | | 1 | Each | | | 13 Subscriptions/Services Required with the purchase of any device | | 1 | Each | | | 14 Discount Percentage Off Catalog or List Price - provide your catalog/price list with your submission to ensure the District can verify pricing | | 1 | Each | | | 15 STUDENT CHROMEBOOKS - FOR EVALUATION PURPOSES (Pricing required to be considered for this category) | | | | | |",
+      "confidence": 0.8,
+      "citations": [
+        {
+          "file": "JA-207652 Student and Staff Computing Devices FINAL.pdf",
+          "page": 34,
+          "bid_id": "Bid1",
+          "locator": {
+            "relative_path": "JA-207652 Student and Staff Computing Devices FINAL.pdf",
+            "page_number": 34,
+            "section_title": "JA-207652 Student and Staff Computing Devices",
+            "table_id": "69e853ef4233674b",
+            "table_index": 0,
+            "bbox": [
+              66.51666514078777,
+              133.65221489800348,
+              557.9843343098959,
+              731.364990234375
+            ]
+          },
+          "authority_status": "supporting",
+          "superseded_by": null
+        }
+      ],
+      "status": "supported",
+      "notes": ""
+    },
+    "evaluation_criteria": {
+      "name": "evaluation_criteria",
+      "value": "00:00 Second Advertisement Date 02-JUN-2024 08:00:00 Pre-Proposal Meeting 10-JUN-2024 14:00:00 Questions Deadline 11-JUN-2024 16:00:00 Questions Response from the District 13-JUN-2024 18:00:00 Solicit",
+      "confidence": 0.8,
+      "citations": [
+        {
+          "file": "JA-207652 Student and Staff Computing Devices FINAL.pdf",
+          "page": 2,
+          "bid_id": "Bid1",
+          "locator": {
+            "page_number": 2,
+            "block_index": 2,
+            "line_index": 1,
+            "bbox": [
+              480.510009765625,
+              758.3909912109375,
+              540.0,
+              772.1309814453125
+            ],
+            "relative_path": "JA-207652 Student and Staff Computing Devices FINAL.pdf",
+            "section_title": "JA-207652 Student and Staff Computing Devices",
+            "heading_path": [
+              "PURCHASING DEPARTMENT",
+              "JA-207652 Student and Staff Computing Devices"
+            ],
+            "page_ids": [
+              "4e77210130cea9b2"
+            ],
+            "page_numbers": [
+              2
+            ],
+            "section_ids": [
+              "4e77210130cea9b2-section-2",
+              "4e77210130cea9b2-section-3",
+              "4e77210130cea9b2-section-4",
+              "4e77210130cea9b2-section-5",
+              "4e77210130cea9b2-section-6",
+              "4e77210130cea9b2-section-7",
+              "4e77210130cea9b2-section-8",
+              "4e77210130cea9b2-section-9",
+              "4e77210130cea9b2-section-10",
+              "4e77210130cea9b2-section-11",
+              "4e77210130cea9b2-section-12",
+              "4e77210130cea9b2-section-13",
+              "4e77210130cea9b2-section-14",
+              "4e77210130cea9b2-section-15",
+              "4e77210130cea9b2-section-16",
+              "4e77210130cea9b2-section-17",
+              "4e77210130cea9b2-section-18",
+              "4e77210130cea9b2-section-19",
+              "4e77210130cea9b2-section-20",
+              "4e77210130cea9b2-section-21",
+              "4e77210130cea9b2-section-22",
+              "4e77210130cea9b2-section-23",
+              "4e77210130cea9b2-section-24",
+              "4e77210130cea9b2-section-25",
+              "4e77210130cea9b2-section-26",
+              "4e77210130cea9b2-section-27",
+              "4e77210130cea9b2-section-28",
+              "4e77210130cea9b2-section-29",
+              "4e77210130cea9b2-section-30",
+              "4e77210130cea9b2-section-31",
+              "4e77210130cea9b2-section-32",
+              "4e77210130cea9b2-section-33",
+              "4e77210130cea9b2-section-34",
+              "4e77210130cea9b2-section-35"
+            ],
+            "source_segments": [
+              {
+                "page_id": "4e77210130cea9b2",
+                "page_number": 2,
+                "source_locator": {
+                  "page_number": 2,
+                  "block_index": 2,
+                  "line_index": 1,
+                  "bbox": [
+                    480.510009765625,
+                    758.3909912109375,
+                    540.0,
+                    772.1309814453125
+                  ],
+                  "relative_path": "JA-207652 Student and Staff Computing Devices FINAL.pdf"
+                },
+                "section_id": "4e77210130cea9b2-section-2"
+              },
+              {
+                "page_id": "4e77210130cea9b2",
+                "page_number": 2,
+                "source_locator": {
+                  "page_number": 2,
+                  "block_index": 3,
+                  "line_index": 0,
+                  "bbox": [
+                    72.0,
+                    84.95098876953125,
+                    98.1199951171875,
+                    98.69098663330078
+                  ],
+                  "relative_path": "JA-207652 Student and Staff Computing Devices FINAL.pdf"
+                },
+                "section_id": "4e77210130cea9b2-section-3"
+              },
+              {
+                "page_id": "4e77210130cea9b2",
+                "page_number": 2,
+                "source_locator": {
+                  "page_number": 2,
+                  "block_index": 3,
+                  "line_index": 1,
+                  "bbox": [
+                    108.94999694824219,
+                    85.34101867675781,
+                    198.39999389648438,
+                    99.11101531982422
+                  ],
+                  "relative_path": "JA-207652 Student and Staff Computing Devices FINAL.pdf"
+                },
+                "section_id": "4e77210130cea9b2-section-4"
+              },
+              {
+                "page_id": "4e77210130cea9b2",
+                "page_number": 2,
+                "source_locator": {
+                  "page_number": 2,
+                  "block_index": 3,
+                  "line_index": 2,
+                  "bbox": [
+                    320.3999938964844,
+                    84.95098876953125,
+                    345.3999938964844,
+                    98.69098663330078
+                  ],
+                  "relative_path": "JA-207652 Student and Staff Computing Devices FINAL.pdf"
+                },
+                "section_id": "4e77210130cea9b2-section-5"
+              },
+              {
+                "page_id": "4e77210130cea9b2",
+                "page_number": 2,
+                "source_locator": {
+                  "page_number": 2,
+                  "block_index": 3,
+                  "line_index": 3,
+                  "bbox": [
+                    356.5,
+                    85.34101867675781,
+                    472.9399108886719,
+                    99.11101531982422
+                  ],
+                  "relative_path": "JA-207652 Student and Staff Computing Devices FINAL.pdf"
+                },
+                "section_id": "4e77210130cea9b2-section-6"
+              },
+              {
+                "page_id": "4e77210130cea9b2",
+                "page_number": 2,
+                "source_locator": {
+                  "page_number": 2,
+                  "block_index": 4,
+                  "line_index": 0,
+                  "bbox": [
+                    72.0,
+                    109.14100646972656,
+                    172.01998901367188,
+                    122.91100311279297
+                  ],
+                  "relative_path": "JA-207652 Student and Staff Computing Devices FINAL.pdf"
+                },
+                "section_id": "4e77210130cea9b2-section-7"
+              },
+              {
+                "page_id": "4e77210130cea9b2",
+                "page_number": 2,
+                "source_locator": {
+                  "page_number": 2,
+                  "block_index": 5,
+                  "line_index": 0,
+                  "bbox": [
+                    72.0,
+                    127.04103088378906,
+                    183.69998168945312,
+                    140.81103515625
+                  ],
+                  "relative_path": "JA-207652 Student and Staff Computing Devices FINAL.pdf"
+                },
+                "section_id": "4e77210130cea9b2-section-8"
+              },
+              {
+                "page_id": "4e77210130cea9b2",
+                "page_number": 2,
+                "source_locator": {
+                  "page_number": 2,
+                  "block_index": 6,
+                  "line_index": 0,
+                  "bbox": [
+                    72.0,
+                    150.45098876953125,
+                    232.60997009277344,
+                    164.1909942626953
+                  ],
+                  "relative_path": "JA-207652 Student and Staff Computing Devices FINAL.pdf"
+                },
+                "section_id": "4e77210130cea9b2-section-9"
+              },
+              {
+                "page_id": "4e77210130cea9b2",
+                "page_number": 2,
+                "source_locator": {
+                  "page_number": 2,
+                  "block_index": 6,
+                  "line_index": 1,
+                  "bbox": [
+                    320.3999938964844,
+                    150.8410186767578,
+                    425.4399108886719,
+                    164.61102294921875
+                  ],
+                  "relative_path": "JA-207652 Student and Staff Computing Devices FINAL.pdf"
+                },
+                "section_id": "4e77210130cea9b2-section-10"
+              },
+              {
+                "page_id": "4e77210130cea9b2",
+                "page_number": 2,
+                "source_locator": {
+                  "page_number": 2,
+                  "block_index": 6,
+                  "line_index": 2,
+                  "bbox": [
+                    72.0,
+                    162.35101318359375,
+                    196.49996948242188,
+                    176.0910186767578
+                  ],
+                  "relative_path": "JA-207652 Student and Staff Computing Devices FINAL.pdf"
+                },
+                "section_id": "4e77210130cea9b2-section-11"
+              },
+              {
+                "page_id": "4e77210130cea9b2",
+                "page_number": 2,
+                "source_locator": {
+                  "page_number": 2,
+                  "block_index": 6,
+                  "line_index": 3,
+                  "bbox": [
+                    320.3999938964844,
+                    162.74098205566406,
+                    423.21990966796875,
+                    176.510986328125
+                  ],
+                  "relative_path": "JA-207652 Student and Staff Computing Devices FINAL.pdf"
+                },
+                "section_id": "4e77210130cea9b2-section-12"
+              },
+              {
+                "page_id": "4e77210130cea9b2",
+                "page_number": 2,
+                "source_locator": {
+                  "page_number": 2,
+                  "block_index": 6,
+                  "line_index": 4,
+                  "bbox": [
+                    72.0,
+                    174.2509765625,
+                    168.69998168945312,
+                    187.99098205566406
+                  ],
+                  "relative_path": "JA-207652 Student and Staff Computing Devices FINAL.pdf"
+                },
+                "section_id": "4e77210130cea9b2-section-13"
+              },
+              {
+                "page_id": "4e77210130cea9b2",
+                "page_number": 2,
+                "source_locator": {
+                  "page_number": 2,
+                  "block_index": 6,
+                  "line_index": 5,
+                  "bbox": [
+                    320.3999938964844,
+                    174.64100646972656,
+                    423.21990966796875,
+                    188.4110107421875
+                  ],
+                  "relative_path": "JA-207652 Student and Staff Computing Devices FINAL.pdf"
+                },
+                "section_id": "4e77210130cea9b2-section-14"
+              },
+              {
+                "page_id": "4e77210130cea9b2",
+                "page_number": 2,
+                "source_locator": {
+                  "page_number": 2,
+                  "block_index": 6,
+                  "line_index": 6,
+                  "bbox": [
+                    72.0,
+                    186.1510009765625,
+                    159.25997924804688,
+                    199.89100646972656
+                  ],
+                  "relative_path": "JA-207652 Student and Staff Computing Devices FINAL.pdf"
+                },
+                "section_id": "4e77210130cea9b2-section-15"
+              },
+              {
+                "page_id": "4e77210130cea9b2",
+                "page_number": 2,
+                "source_locator": {
+                  "page_number": 2,
+                  "block_index": 6,
+                  "line_index": 7,
+                  "bbox": [
+                    320.3999938964844,
+                    186.54103088378906,
+                    423.21990966796875,
+                    200.31103515625
+                  ],
+                  "relative_path": "JA-207652 Student and Staff Computing Devices FINAL.pdf"
+                },
+                "section_id": "4e77210130cea9b2-section-16"
+              },
+              {
+                "page_id": "4e77210130cea9b2",
+                "page_number": 2,
+                "source_locator": {
+                  "page_number": 2,
+                  "block_index": 6,
+                  "line_index": 8,
+                  "bbox": [
+                    72.0,
+                    198.051025390625,
+                    237.60997009277344,
+                    211.79103088378906
+                  ],
+                  "relative_path": "JA-207652 Student and Staff Computing Devices FINAL.pdf"
+                },
+                "section_id": "4e77210130cea9b2-section-17"
+              },
+              {
+                "page_id": "4e77210130cea9b2",
+                "page_number": 2,
+                "source_locator": {
+                  "page_number": 2,
+                  "block_index": 6,
+                  "line_index": 9,
+                  "bbox": [
+                    320.3999938964844,
+                    198.4409942626953,
+                    423.21990966796875,
+                    212.21099853515625
+                  ],
+                  "relative_path": "JA-207652 Student and Staff Computing Devices FINAL.pdf"
+                },
+                "section_id": "4e77210130cea9b2-section-18"
+              },
+              {
+                "page_id": "4e77210130cea9b2",
+                "page_number": 2,
+                "source_locator": {
+                  "page_number": 2,
+                  "block_index": 6,
+                  "line_index": 10,
+                  "bbox": [
+                    72.0,
+                    209.95098876953125,
+                    141.46998596191406,
+                    223.6909942626953
+                  ],
+                  "relative_path": "JA-207652 Student and Staff Computing Devices FINAL.pdf"
+                },
+                "section_id": "4e77210130cea9b2-section-19"
+              },
+              {
+                "page_id": "4e77210130cea9b2",
+                "page_number": 2,
+                "source_locator": {
+                  "page_number": 2,
+                  "block_index": 6,
+                  "line_index": 11,
+                  "bbox": [
+                    320.3999938964844,
+                    210.3410186767578,
+                    423.21990966796875,
+                    224.11102294921875
+                  ],
+                  "relative_path": "JA-207652 Student and Staff Computing Devices FINAL.pdf"
+                },
+                "section_id": "4e77210130cea9b2-section-20"
+              },
+              {
+                "page_id": "4e77210130cea9b2",
+                "page_number": 2,
+                "source_locator": {
+                  "page_number": 2,
+                  "block_index": 6,
+                  "line_index": 12,
+                  "bbox": [
+                    72.0,
+                    221.85101318359375,
+                    197.61996459960938,
+                    235.5910186767578
+                  ],
+                  "relative_path": "JA-207652 Student and Staff Computing Devices FINAL.pdf"
+                },
+                "section_id": "4e77210130cea9b2-section-21"
+              },
+              {
+                "page_id": "4e77210130cea9b2",
+                "page_number": 2,
+                "source_locator": {
+                  "page_number": 2,
+                  "block_index": 6,
+                  "line_index": 13,
+                  "bbox": [
+                    320.3999938964844,
+                    222.24098205566406,
+                    422.1098937988281,
+                    236.010986328125
+                  ],
+                  "relative_path": "JA-207652 Student and Staff Computing Devices FINAL.pdf"
+                },
+                "section_id": "4e77210130cea9b2-section-22"
+              },
+              {
+                "page_id": "4e77210130cea9b2",
+                "page_number": 2,
+                "source_locator": {
+                  "page_number": 2,
+                  "block_index": 6,
+                  "line_index": 14,
+                  "bbox": [
+                    72.0,
+                    233.7509765625,
+                    194.82997131347656,
+                    247.49098205566406
+                  ],
+                  "relative_path": "JA-207652 Student and Staff Computing Devices FINAL.pdf"
+                },
+                "section_id": "4e77210130cea9b2-section-23"
+              },
+              {
+                "page_id": "4e77210130cea9b2",
+                "page_number": 2,
+                "source_locator": {
+                  "page_number": 2,
+                  "block_index": 6,
+                  "line_index": 15,
+                  "bbox": [
+                    320.3999938964844,
+                    234.14100646972656,
+                    425.4399108886719,
+                    247.9110107421875
+                  ],
+                  "relative_path": "JA-207652 Student and Staff Computing Devices FINAL.pdf"
+                },
+                "section_id": "4e77210130cea9b2-section-24"
+              },
+              {
+                "page_id": "4e77210130cea9b2",
+                "page_number": 2,
+                "source_locator": {
+                  "page_number": 2,
+                  "block_index": 7,
+                  "line_index": 0,
+                  "bbox": [
+                    72.0,
+                    257.5719909667969,
+                    137.02000427246094,
+                    271.3919982910156
+                  ],
+                  "relative_path": "JA-207652 Student and Staff Computing Devices FINAL.pdf"
+                },
+                "section_id": "4e77210130cea9b2-section-25"
+              },
+              {
+                "page_id": "4e77210130cea9b2",
+                "page_number": 2,
+                "source_locator": {
+                  "page_number": 2,
+                  "block_index": 7,
+                  "line_index": 1,
+                  "bbox": [
+                    149.39999389648438,
+                    257.21099853515625,
+                    569.030029296875,
+                    270.95098876953125
+                  ],
+                  "relative_path": "JA-207652 Student and Staff Computing Devices FINAL.pdf"
+                },
+                "section_id": "4e77210130cea9b2-section-26"
+              },
+              {
+                "page_id": "4e77210130cea9b2",
+                "page_number": 2,
+                "source_locator": {
+                  "page_number": 2,
+                  "block_index": 7,
+                  "line_index": 2,
+                  "bbox": [
+                    149.39999389648438,
+                    268.77099609375,
+                    573.9998168945312,
+                    282.510986328125
+                  ],
+                  "relative_path": "JA-207652 Student and Staff Computing Devices FINAL.pdf"
+                },
+                "section_id": "4e77210130cea9b2-section-27"
+              },
+              {
+                "page_id": "4e77210130cea9b2",
+                "page_number": 2,
+                "source_locator": {
+                  "page_number": 2,
+                  "block_index": 7,
+                  "line_index": 3,
+                  "bbox": [
+                    149.39999389648438,
+                    280.3320007324219,
+                    560.1699829101562,
+                    294.0719909667969
+                  ],
+                  "relative_path": "JA-207652 Student and Staff Computing Devices FINAL.pdf"
+                },
+                "section_id": "4e77210130cea9b2-section-28"
+              },
+              {
+                "page_id": "4e77210130cea9b2",
+                "page_number": 2,
+                "source_locator": {
+                  "page_number": 2,
+                  "block_index": 7,
+                  "line_index": 4,
+                  "bbox": [
+                    149.39999389648438,
+                    291.8919982910156,
+                    190.5299835205078,
+                    305.6319885253906
+                  ],
+                  "relative_path": "JA-207652 Student and Staff Computing Devices FINAL.pdf"
+                },
+                "section_id": "4e77210130cea9b2-section-29"
+              },
+              {
+                "page_id": "4e77210130cea9b2",
+                "page_number": 2,
+                "source_locator": {
+                  "page_number": 2,
+                  "block_index": 8,
+                  "line_index": 0,
+                  "bbox": [
+                    149.39999389648438,
+                    315.0119934082031,
+                    533.3897705078125,
+                    328.7519836425781
+                  ],
+                  "relative_path": "JA-207652 Student and Staff Computing Devices FINAL.pdf"
+                },
+                "section_id": "4e77210130cea9b2-section-30"
+              },
+              {
+                "page_id": "4e77210130cea9b2",
+                "page_number": 2,
+                "source_locator": {
+                  "page_number": 2,
+                  "block_index": 8,
+                  "line_index": 1,
+                  "bbox": [
+                    149.39999389648438,
+                    326.5710144042969,
+                    278.3699645996094,
+                    340.3110046386719
+                  ],
+                  "relative_path": "JA-207652 Student and Staff Computing Devices FINAL.pdf"
+                },
+                "section_id": "4e77210130cea9b2-section-31"
+              },
+              {
+                "page_id": "4e77210130cea9b2",
+                "page_number": 2,
+                "source_locator": {
+                  "page_number": 2,
+                  "block_index": 8,
+                  "line_index": 2,
+                  "bbox": [
+                    149.39999389648438,
+                    338.1310119628906,
+                    236.10997009277344,
+                    351.8710021972656
+                  ],
+                  "relative_path": "JA-207652 Student and Staff Computing Devices FINAL.pdf"
+                },
+                "section_id": "4e77210130cea9b2-section-32"
+              },
+              {
+                "page_id": "4e77210130cea9b2",
+                "page_number": 2,
+                "source_locator": {
+                  "page_number": 2,
+                  "block_index": 9,
+                  "line_index": 0,
+                  "bbox": [
+                    72.0,
+                    361.9809875488281,
+                    118.68998718261719,
+                    375.7510070800781
+                  ],
+                  "relative_path": "JA-207652 Student and Staff Computing Devices FINAL.pdf"
+                },
+                "section_id": "4e77210130cea9b2-section-33"
+              },
+              {
+                "page_id": "4e77210130cea9b2",
+                "page_number": 2,
+                "source_locator": {
+                  "page_number": 2,
+                  "block_index": 9,
+                  "line_index": 1,
+                  "bbox": [
+                    113.37000274658203,
+                    373.49200439453125,
+                    165.59999084472656,
+                    387.23199462890625
+                  ],
+                  "relative_path": "JA-207652 Student and Staff Computing Devices FINAL.pdf"
+                },
+                "section_id": "4e77210130cea9b2-section-34"
+              },
+              {
+                "page_id": "4e77210130cea9b2",
+                "page_number": 2,
+                "source_locator": {
+                  "page_number": 2,
+                  "block_index": 9,
+                  "line_index": 2,
+                  "bbox": [
+                    176.39999389648438,
+                    373.8819885253906,
+                    181.95999145507812,
+                    387.6520080566406
+                  ],
+                  "relative_path": "JA-207652 Student and Staff Computing Devices FINAL.pdf"
+                },
+                "section_id": "4e77210130cea9b2-section-35"
+              }
+            ]
+          },
+          "authority_status": "supporting",
+          "superseded_by": null
+        }
+      ],
+      "status": "supported",
+      "notes": ""
+    },
+    "model_number": {
+      "name": "model_number",
+      "value": null,
+      "confidence": null,
+      "citations": [],
+      "status": "not_found",
+      "notes": "Not found in documents"
+    }
+  },
+  "addendum_changes": [
+    {
+      "field": "submission_deadline",
+      "previous_value": "July 9, 2024",
+      "new_value": "July 9, 2024",
+      "addendum_number": 2,
+      "citations": [
+        {
+          "file": "Addendum 2 RFP JA-207652 Student and Staff Computing Devices.pdf",
+          "page": 1,
+          "bid_id": "Bid1",
+          "locator": {
+            "page_number": 1,
+            "block_index": 4,
+            "line_index": 3,
+            "bbox": [
+              72.0,
+              125.94984436035156,
+              369.4503173828125,
+              139.3931121826172
+            ],
+            "relative_path": "Addendum 2 RFP JA-207652 Student and Staff Computing Devices.pdf",
+            "section_title": "The Purpose of this Addendum is to extend the due date of this RFP.",
+            "heading_path": [
+              "ADDENDUM No. 2",
+              "RFP JA-207652 Student and Staff Computing Devices",
+              "The Purpose of this Addendum is to extend the due date of this RFP."
+            ],
+            "page_ids": [
+              "3dbe667466250cce"
+            ],
+            "page_numbers": [
+              1
+            ],
+            "section_ids": [
+              "3dbe667466250cce-section-4",
+              "3dbe667466250cce-section-5",
+              "3dbe667466250cce-section-6",
+              "3dbe667466250cce-section-7"
+            ],
+            "source_segments": [
+              {
+                "page_id": "3dbe667466250cce",
+                "page_number": 1,
+                "source_locator": {
+                  "page_number": 1,
+                  "block_index": 4,
+                  "line_index": 3,
+                  "bbox": [
+                    72.0,
+                    125.94984436035156,
+                    369.4503173828125,
+                    139.3931121826172
+                  ],
+                  "relative_path": "Addendum 2 RFP JA-207652 Student and Staff Computing Devices.pdf"
+                },
+                "section_id": "3dbe667466250cce-section-4"
+              },
+              {
+                "page_id": "3dbe667466250cce",
+                "page_number": 1,
+                "source_locator": {
+                  "page_number": 1,
+                  "block_index": 4,
+                  "line_index": 6,
+                  "bbox": [
+                    72.0,
+                    166.26983642578125,
+                    541.9853515625,
+                    179.71310424804688
+                  ],
+                  "relative_path": "Addendum 2 RFP JA-207652 Student and Staff Computing Devices.pdf"
+                },
+                "section_id": "3dbe667466250cce-section-5"
+              },
+              {
+                "page_id": "3dbe667466250cce",
+                "page_number": 1,
+                "source_locator": {
+                  "page_number": 1,
+                  "block_index": 4,
+                  "line_index": 7,
+                  "bbox": [
+                    72.0,
+                    179.70985412597656,
+                    199.70062255859375,
+                    193.1531219482422
+                  ],
+                  "relative_path": "Addendum 2 RFP JA-207652 Student and Staff Computing Devices.pdf"
+                },
+                "section_id": "3dbe667466250cce-section-6"
+              },
+              {
+                "page_id": "3dbe667466250cce",
+                "page_number": 1,
+                "source_locator": {
+                  "page_number": 1,
+                  "block_index": 4,
+                  "line_index": 9,
+                  "bbox": [
+                    72.0,
+                    206.46983337402344,
+                    542.0238647460938,
+                    219.91310119628906
+                  ],
+                  "relative_path": "Addendum 2 RFP JA-207652 Student and Staff Computing Devices.pdf"
+                },
+                "section_id": "3dbe667466250cce-section-7"
+              }
+            ]
+          },
+          "authority_status": "supporting",
+          "superseded_by": null
+        }
+      ],
+      "reason": "Latest valid field-specific change",
+      "review_required": false
+    }
+  ],
+  "validation": [
+    {
+      "scope": "field",
+      "status": "passed",
+      "field": "submission_deadline",
+      "evidence_supported": true,
+      "citation_complete": true,
+      "format_valid": true,
+      "consistency_valid": true,
+      "unsupported_claim": false,
+      "compliance_notes": [],
+      "rejection_reason": null,
+      "retry_eligible": false
+    },
+    {
+      "scope": "field",
+      "status": "passed",
+      "field": "submission_method",
+      "evidence_supported": true,
+      "citation_complete": true,
+      "format_valid": true,
+      "consistency_valid": true,
+      "unsupported_claim": false,
+      "compliance_notes": [],
+      "rejection_reason": null,
+      "retry_eligible": false
+    },
+    {
+      "scope": "field",
+      "status": "passed",
+      "field": "solicitation_number",
+      "evidence_supported": true,
+      "citation_complete": true,
+      "format_valid": true,
+      "consistency_valid": true,
+      "unsupported_claim": false,
+      "compliance_notes": [],
+      "rejection_reason": null,
+      "retry_eligible": false
+    },
+    {
+      "scope": "field",
+      "status": "review_required",
+      "field": "bid_bond",
+      "evidence_supported": false,
+      "citation_complete": true,
+      "format_valid": true,
+      "consistency_valid": true,
+      "unsupported_claim": false,
+      "compliance_notes": [],
+      "rejection_reason": "cited evidence does not support the value",
+      "retry_eligible": false
+    },
+    {
+      "scope": "field",
+      "status": "passed",
+      "field": "warranty",
+      "evidence_supported": true,
+      "citation_complete": true,
+      "format_valid": true,
+      "consistency_valid": true,
+      "unsupported_claim": false,
+      "compliance_notes": [],
+      "rejection_reason": null,
+      "retry_eligible": false
+    },
+    {
+      "scope": "field",
+      "status": "passed",
+      "field": "insurance",
+      "evidence_supported": true,
+      "citation_complete": true,
+      "format_valid": true,
+      "consistency_valid": true,
+      "unsupported_claim": false,
+      "compliance_notes": [],
+      "rejection_reason": null,
+      "retry_eligible": false
+    },
+    {
+      "scope": "field",
+      "status": "passed",
+      "field": "affidavits",
+      "evidence_supported": false,
+      "citation_complete": true,
+      "format_valid": true,
+      "consistency_valid": true,
+      "unsupported_claim": false,
+      "compliance_notes": [],
+      "rejection_reason": null,
+      "retry_eligible": false
+    },
+    {
+      "scope": "field",
+      "status": "rejected",
+      "field": "mandatory_requirements",
+      "evidence_supported": false,
+      "citation_complete": true,
+      "format_valid": true,
+      "consistency_valid": true,
+      "unsupported_claim": true,
+      "compliance_notes": [],
+      "rejection_reason": "cited evidence does not support the value",
+      "retry_eligible": true
+    },
+    {
+      "scope": "field",
+      "status": "passed",
+      "field": "evaluation_criteria",
+      "evidence_supported": true,
+      "citation_complete": true,
+      "format_valid": true,
+      "consistency_valid": true,
+      "unsupported_claim": false,
+      "compliance_notes": [],
+      "rejection_reason": null,
+      "retry_eligible": false
+    },
+    {
+      "scope": "field",
+      "status": "passed",
+      "field": "model_number",
+      "evidence_supported": false,
+      "citation_complete": true,
+      "format_valid": true,
+      "consistency_valid": true,
+      "unsupported_claim": false,
+      "compliance_notes": [],
+      "rejection_reason": null,
+      "retry_eligible": false
+    }
+  ],
+  "summary": "Analysis requires review of unresolved fields or changes.",
+  "unsupported_work": [],
+  "unresolved_fields": [
+    "bid_bond",
+    "affidavits",
+    "model_number"
+  ],
+  "addendum_conflicts": [],
+  "retry_attempts": {}
+}

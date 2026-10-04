@@ -1,0 +1,233 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://example.invalid/schemas/processing-report.schema.json",
+  "title": "Procurement Ingestion Processing Report",
+  "description": "Serialized output written by the ingestion CLI. Existing fields are preserved; feature fields are additive.",
+  "type": "object",
+  "required": [
+    "bid_id",
+    "status",
+    "documents",
+    "pages",
+    "tables",
+    "chunks",
+    "diagnostics"
+  ],
+  "properties": {
+    "bid_id": { "type": "string", "minLength": 1 },
+    "root_path": { "type": "string" },
+    "status": { "enum": ["complete", "incomplete", "failed", "empty"] },
+    "discovered_file_count": { "type": "integer", "minimum": 0 },
+    "processed_file_count": { "type": "integer", "minimum": 0 },
+    "diagnostic_count": { "type": "integer", "minimum": 0 },
+    "documents": { "type": "array", "items": { "$ref": "#/$defs/document" } },
+    "pages": { "type": "array", "items": { "$ref": "#/$defs/page" } },
+    "tables": { "type": "array", "items": { "$ref": "#/$defs/table" } },
+    "chunks": { "type": "array", "items": { "$ref": "#/$defs/chunk" } },
+    "diagnostics": { "type": "array", "items": { "$ref": "#/$defs/diagnostic" } },
+    "retention_report": { "anyOf": [{ "$ref": "#/$defs/retentionReport" }, { "type": "null" }] }
+  },
+  "additionalProperties": true,
+  "$defs": {
+    "classificationEvidence": {
+      "type": "object",
+      "required": ["evidence_id", "field", "source_kind", "strength", "source_locator"],
+      "properties": {
+        "evidence_id": { "type": "string" },
+        "field": { "enum": ["doc_type", "addendum_number"] },
+        "candidate_value": { "type": ["string", "integer", "null"] },
+        "source_kind": { "enum": ["content", "filename"] },
+        "strength": { "enum": ["explicit", "supporting", "ambiguous"] },
+        "source_locator": { "type": "object" }
+      },
+      "additionalProperties": true
+    },
+    "classification": {
+      "type": "object",
+      "required": ["status", "evidence"],
+      "properties": {
+        "doc_type": { "type": ["string", "null"] },
+        "addendum_number": { "type": ["integer", "null"], "minimum": 1 },
+        "status": { "enum": ["classified", "unknown", "conflict"] },
+        "evidence": { "type": "array", "items": { "$ref": "#/$defs/classificationEvidence" } },
+        "selected_evidence_id": { "type": ["string", "null"] }
+      },
+      "additionalProperties": true
+    },
+    "metadataValue": {
+      "type": "object",
+      "required": ["key", "value", "source_kind", "source_locator"],
+      "properties": {
+        "key": { "type": "string" },
+        "value": { "type": "string" },
+        "source_kind": { "type": "string" },
+        "source_locator": { "type": "object" }
+      },
+      "additionalProperties": true
+    },
+    "dateCandidate": {
+      "type": "object",
+      "required": ["raw_value", "source_kind", "source_locator", "precedence", "status"],
+      "properties": {
+        "raw_value": { "type": "string" },
+        "normalized_date": { "type": ["string", "null"], "format": "date" },
+        "source_kind": { "type": "string" },
+        "source_locator": { "type": "object" },
+        "precedence": { "type": "integer", "minimum": 0 },
+        "status": { "enum": ["candidate", "selected", "conflicting", "ambiguous", "invalid", "technical_only"] }
+      },
+      "additionalProperties": true
+    },
+    "metadata": {
+      "type": "object",
+      "properties": {
+        "title": { "type": ["string", "null"] },
+        "canonical_url": { "type": ["string", "null"], "format": "uri" },
+        "description": { "type": ["string", "null"] },
+        "language": { "type": ["string", "null"] },
+        "values": { "type": "array", "items": { "$ref": "#/$defs/metadataValue" } },
+        "selected_document_date": { "type": ["string", "null"], "format": "date" },
+        "date_candidates": { "type": "array", "items": { "$ref": "#/$defs/dateCandidate" } }
+      },
+      "additionalProperties": true
+    },
+    "section": {
+      "type": "object",
+      "required": ["section_id", "kind", "text", "heading_path", "page_id", "source_locator"],
+      "properties": {
+        "section_id": { "type": "string" },
+        "kind": { "enum": ["heading", "paragraph", "list_item", "table", "other"] },
+        "text": { "type": "string" },
+        "heading_level": { "type": ["integer", "null"], "minimum": 1, "maximum": 6 },
+        "heading_path": { "type": "array", "items": { "type": "string" } },
+        "page_id": { "type": "string" },
+        "table_id": { "type": ["string", "null"] },
+        "source_locator": { "type": "object" },
+        "evidence_status": { "enum": ["explicit", "inferred", "uncertain"] }
+      },
+      "additionalProperties": true
+    },
+    "diagnostic": {
+      "type": "object",
+      "required": ["diagnostic_id", "scope", "code", "message", "severity", "affects_completeness"],
+      "properties": {
+        "diagnostic_id": { "type": "string" },
+        "scope": { "enum": ["folder", "file", "page", "table", "chunk"] },
+        "code": { "type": "string" },
+        "message": { "type": "string" },
+        "severity": { "enum": ["info", "warning", "error"] },
+        "source_locator": { "type": ["object", "null"] },
+        "affects_completeness": { "type": "boolean" },
+        "recovery_status": { "enum": ["recovered", "partial", "failed", null] }
+      },
+      "additionalProperties": true
+    },
+    "table": {
+      "type": "object",
+      "required": ["table_id", "page_id", "columns", "rows", "status", "diagnostics"],
+      "properties": {
+        "table_id": { "type": "string" },
+        "page_id": { "type": "string" },
+        "title": { "type": ["string", "null"] },
+        "has_header": { "type": ["boolean", "null"] },
+        "columns": { "type": "array", "items": { "type": ["string", "null"] } },
+        "rows": { "type": "array", "items": { "type": "array", "items": { "type": ["string", "null"] } } },
+        "source_bounds": { "type": ["object", "null"] },
+        "status": { "enum": ["parsed", "partial", "failed"] },
+        "diagnostics": { "type": "array", "items": { "$ref": "#/$defs/diagnostic" } }
+      },
+      "additionalProperties": true
+    },
+    "page": {
+      "type": "object",
+      "required": ["page_id", "document_id", "page_number", "raw_text", "normalized_text", "status", "tables", "diagnostics", "bid_id", "file_name"],
+      "properties": {
+        "page_id": { "type": "string" },
+        "document_id": { "type": "string" },
+        "bid_id": { "type": "string" },
+        "file_name": { "type": "string" },
+        "page_number": { "type": ["integer", "null"], "minimum": 1 },
+        "section_title": { "type": ["string", "null"] },
+        "raw_text": { "type": ["string", "null"] },
+        "normalized_text": { "type": ["string", "null"] },
+        "sections": { "type": "array", "items": { "$ref": "#/$defs/section" } },
+        "classification": { "anyOf": [{ "$ref": "#/$defs/classification" }, { "type": "null" }] },
+        "metadata": { "anyOf": [{ "$ref": "#/$defs/metadata" }, { "type": "null" }] },
+        "tables": { "type": "array", "items": { "$ref": "#/$defs/table" } },
+        "status": { "enum": ["parsed", "partial", "empty", "failed", "unsupported"] },
+        "diagnostics": { "type": "array", "items": { "$ref": "#/$defs/diagnostic" } },
+        "doc_type": { "type": ["string", "null"] },
+        "addendum_number": { "type": ["integer", "null"], "minimum": 1 },
+        "document_date": { "type": ["string", "null"], "format": "date" }
+      },
+      "additionalProperties": true
+    },
+    "chunk": {
+      "type": "object",
+      "required": ["chunk_id", "bid_id", "document_id", "chunk_index", "text", "content_kind", "source_file", "file_name", "source_locator"],
+      "properties": {
+        "chunk_id": { "type": "string" },
+        "bid_id": { "type": "string" },
+        "document_id": { "type": "string" },
+        "page_id": { "type": ["string", "null"] },
+        "chunk_index": { "type": "integer", "minimum": 0 },
+        "section_title": { "type": ["string", "null"] },
+        "text": { "type": "string" },
+        "content_kind": { "enum": ["text", "table", "mixed"] },
+        "source_file": { "type": "string" },
+        "file_name": { "type": "string" },
+        "page_number": { "type": ["integer", "null"], "minimum": 1 },
+        "source_locator": { "type": "object" },
+        "diagnostic_ids": { "type": "array", "items": { "type": "string" } },
+        "doc_type": { "type": ["string", "null"] },
+        "addendum_number": { "type": ["integer", "null"], "minimum": 1 },
+        "document_date": { "type": ["string", "null"], "format": "date" }
+      },
+      "additionalProperties": true
+    },
+    "document": {
+      "type": "object",
+      "required": ["document_id", "bid_id", "file_name", "relative_path", "detected_format", "doc_type", "addendum_number", "document_date", "status", "pages", "diagnostics"],
+      "properties": {
+        "document_id": { "type": "string" },
+        "bid_id": { "type": "string" },
+        "file_name": { "type": "string" },
+        "relative_path": { "type": "string" },
+        "detected_format": { "enum": ["html", "pdf", "unknown"] },
+        "doc_type": { "type": ["string", "null"] },
+        "addendum_number": { "type": ["integer", "null"], "minimum": 1 },
+        "document_date": { "type": ["string", "null"], "format": "date" },
+        "classification": { "anyOf": [{ "$ref": "#/$defs/classification" }, { "type": "null" }] },
+        "status": { "enum": ["parsed", "partial", "failed", "unsupported"] },
+        "metadata": { "anyOf": [{ "$ref": "#/$defs/metadata" }, { "type": "null" }] },
+        "pages": { "type": "array", "items": { "$ref": "#/$defs/page" } },
+        "diagnostics": { "type": "array", "items": { "$ref": "#/$defs/diagnostic" } }
+      },
+      "additionalProperties": true
+    },
+    "measurement": {
+      "type": "object",
+      "required": ["expected", "retained", "missing", "uncertain", "coverage"],
+      "properties": {
+        "expected": { "type": "integer", "minimum": 0 },
+        "retained": { "type": "integer", "minimum": 0 },
+        "missing": { "type": "integer", "minimum": 0 },
+        "uncertain": { "type": "integer", "minimum": 0 },
+        "coverage": { "type": ["number", "null"], "minimum": 0, "maximum": 1 }
+      },
+      "additionalProperties": false
+    },
+    "retentionReport": {
+      "type": "object",
+      "required": ["corpus_name", "manifest_version", "text", "tables", "items"],
+      "properties": {
+        "corpus_name": { "type": "string", "minLength": 1 },
+        "manifest_version": { "type": "string", "minLength": 1 },
+        "text": { "$ref": "#/$defs/measurement" },
+        "tables": { "$ref": "#/$defs/measurement" },
+        "items": { "type": "array", "items": { "type": "object" } }
+      },
+      "additionalProperties": false
+    }
+  }
+}

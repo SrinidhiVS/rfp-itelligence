@@ -1,0 +1,20 @@
+{
+  "manifest_version": "1.0",
+  "corpus_name": "robustness-table-and-long-document",
+  "documents": [
+    {"file_name": "procurement/table-document.html", "bid_id": "RobustDocs", "format": "html"},
+    {"file_name": "technical/long-document.pdf", "bid_id": "RobustDocs", "format": "pdf"}
+  ],
+  "expected_text_spans": [
+    {"file_name": "technical/long-document.pdf", "page_number": 1, "expected_text": "LONG_PAGE_1_START"},
+    {"file_name": "technical/long-document.pdf", "page_number": 1, "expected_text": "LONG_PAGE_1_END"},
+    {"file_name": "technical/long-document.pdf", "page_number": 2, "expected_text": "LONG_PAGE_2_START"},
+    {"file_name": "technical/long-document.pdf", "page_number": 2, "expected_text": "LONG_PAGE_2_END"},
+    {"file_name": "procurement/table-document.html", "page_number": 1, "section_title": "Table-backed solicitation evidence", "expected_text": "Portable Air Monitor"}
+  ],
+  "expected_table_cells": [
+    {"file_name": "procurement/table-document.html", "page_number": 1, "table_index": 0, "row_index": 0, "column_index": 0, "expected_text": "Submission deadline"},
+    {"file_name": "procurement/table-document.html", "page_number": 1, "table_index": 0, "row_index": 0, "column_index": 1, "expected_text": "September 30, 2026"},
+    {"file_name": "procurement/table-document.html", "page_number": 1, "table_index": 0, "row_index": 1, "column_index": 1, "expected_text": "Portable Air Monitor"}
+  ]
+}

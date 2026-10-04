@@ -1,0 +1,1 @@
+{"run_id":"qa-1","status":"completed","output":{"answer":"Deadline is October 20.","found":true,"citations":[{"file":"rfp.pdf","page":2,"bid_id":"Bid1"}],"evidence_by_bid":{"Bid1":[]}},"diagnostics":[],"trace_reference":"trace-qa","evaluation":{}}

@@ -1,0 +1,230 @@
+{
+  "bids": {
+    "Bid1": {
+      "evidence": [
+        {"file": "JA-207652 Student and Staff Computing Devices FINAL.pdf", "page": 1, "location": "Cover", "type": "rfp", "text": "Page 1 of 40"},
+        {"file": "JA-207652 Student and Staff Computing Devices FINAL.pdf", "page": 2, "location": "Section 1.1 General Information / Buyer, Issuer, Solicitation Due, Pre-Proposal Meeting", "type": "rfp", "text": "Buyer\nALZATE, JASMINE\nEmail\nJALZATE@dallasisd.org\nThe Dallas Independent School District (Dallas ISD or District) is soliciting offers for goods and services specified in this document.\nPre-Proposal Meeting\n10-JUN-2024 14:00:00\nA pre-proposal meeting will be held at 2:00 PM CST via TEAMS video conference on June 10, 2024.\nQuestions Deadline\n11-JUN-2024 16:00:00\nSolicitation Due\n27-JUN-2024 14:00:00\nInitial Term: 3\nRenewal 1: 1\nRenewal 2: 1\nAny contract may be extended not to exceed a total of 5 years."},
+        {"file": "JA-207652 Student and Staff Computing Devices FINAL.pdf", "page": 3, "location": "Scope and Specifications / Purpose, Equipment Requirements, Deployment Services", "type": "rfp", "text": "This RFP is for student and staff computing devices, including laptops, desktops, tablet devices, and display monitors. The specifications are minimum hardware requirements for each tier. Resellers must submit factory-authorized repair and maintenance certifications with each proposal. Equipment must be new and of the manufacturer's current model. All deliveries and deployments must incorporate white glove services, including asset decaling, asset reporting, etching, and delivery to varied locations."},
+        {"file": "JA-207652 Student and Staff Computing Devices FINAL.pdf", "page": 4, "location": "Scope and Specifications / Student Devices Tier 1, Tier 2, Tier 3", "type": "rfp", "content_kind": "table", "text": "Intel Celeron Processor N100 or equivalent\nMemory: Minimum 8GB DDR5 Memory\nWireless: 802.11AX WiFi-6E and Bluetooth 5.1\nBattery Life: Minimum 10 hours\nStorage: 64 GB eMMC\nStorage: 128 GB eMMC"},
+        {"file": "JA-207652 Student and Staff Computing Devices FINAL.pdf", "page": 5, "location": "Scope and Specifications / Student Tablet and Staff Desktop tiers", "type": "rfp", "content_kind": "table", "text": "Wireless: 802.11AX WiFi-6E and Bluetooth 5.1\nBattery Life: Minimum 10 Hours\nMemory: Minimum 16GB RAM DDR5 Memory\nStorage: 256 GB NVMe SSD\nWindows 11 Pro\nProcessor A13\nWireless: 802.11AC and Bluetooth 4.2\nStorage: 64 GB\nProcessor: Intel i5 Processor, 14th Gen or equivalent\nMemory: Minimum 16GB RAM\nStorage: 512 GB NVMe SSD\nIntel i7 Processor, 14th Gen or equivalent\nMemory: Minimum 32GB DDR5 RAM\nStorage: 1 TB NVMe SSD\nWindows 11 Pro or Mac O/S |"},
+        {"file": "JA-207652 Student and Staff Computing Devices FINAL.pdf", "page": 6, "location": "Scope and Specifications / Staff Laptop and Display Monitor tiers", "type": "rfp", "content_kind": "table", "text": "Wireless: 802.11AX WiFi-6E and Bluetooth 5.1\nBattery Life: Minimum 10 hours\nStorage: 512 GB NVMe SSD\nMemory: Minimum 32GB DDR5 RAM\nStorage: 1 TB NVMe SSD\n4 GB Video card\nMemory: Minimum 16GB DDR5 RAM\n0/S Windows 11 or Mac OS\n0/S: Windows 11 or Mac OS"},
+        {"file": "JA-207652 Student and Staff Computing Devices FINAL.pdf", "page": 7, "location": "Scope and Specifications / Proposal Specific Question 2", "type": "rfp", "text": "Describe your company's ability to perform deployment services: software installation, asset tagging and etching, device deployment and setup, and asset control reporting."},
+        {"file": "JA-207652 Student and Staff Computing Devices FINAL.pdf", "page": 8, "location": "Scope and Specifications / Proposal Specific Question 6", "type": "rfp", "text": "Purchase deadlines are crucial. How quickly could shipping occur once your company receives a Purchase Order?"},
+        {"file": "JA-207652 Student and Staff Computing Devices FINAL.pdf", "page": 9, "location": "Instructions and Requirements for Offer Submittal", "type": "rfp", "text": "Dallas ISD prefers responses online through its electronic system; register with the iSupplier portal. Submissions may be submitted manually in a sealed envelope by the stated due date and time. No fax or email submissions will be accepted. The Offeror must include pertinent literature/documentation for proposed products/goods or services. If the Offeror requires a credit application or similar documentation, those documents must be submitted with the offer. The Offeror must comply with any insurance, bid bond, or liability requirements noted elsewhere in the solicitation."},
+        {"file": "JA-207652 Student and Staff Computing Devices FINAL.pdf", "page": 14, "location": "Form 1295 - Certificate of Interested Parties", "type": "rfp", "text": "FORM 1295 must be signed and attached to the Response Attachments prior to any business transaction."},
+        {"file": "JA-207652 Student and Staff Computing Devices FINAL.pdf", "page": 19, "location": "Interlocal Agreement Rider / EPCNT", "type": "rfp", "text": "Dallas ISD is a member of the Educational Purchasing Cooperative of North Texas (EPCNT). Eligible governmental entities may purchase under awarded contracts if the vendor agrees to the rider."},
+        {"file": "JA-207652 Student and Staff Computing Devices FINAL.pdf", "page": 20, "location": "Central Texas Purchasing Alliance Interlocal Agreement", "type": "rfp", "text": "Dallas ISD is a member of the Central Texas Purchasing Alliance (CTPA). Participation by other districts is optional and requires mutual agreement."},
+        {"file": "Addendum 1 RFP JA-207652 Student and Staff Computing Devices.pdf", "page": 4, "location": "Question 31 / Form 1295; Questions 32 and 34", "type": "addendum", "addendum_number": 1, "text": "The Form 1295 should be submitted with the RFP response. Supporting documentation can be included as part of the submission for response areas where the PDF space is insufficient. Any awarded vendor will coordinate a schedule of deliveries with Dallas ISD ED TECH."},
+        {"file": "Addendum 1 RFP JA-207652 Student and Staff Computing Devices.pdf", "page": 5, "location": "Addendum acknowledgment", "type": "addendum", "addendum_number": 1, "text": "Bidders are required to acknowledge and return/submit a copy of Addendum 1 with their proposal."},
+        {"file": "Addendum 2 RFP JA-207652 Student and Staff Computing Devices.pdf", "page": 1, "location": "New due date and addendum acknowledgment", "type": "addendum", "addendum_number": 2, "text": "The new due date for this RFP will be July 9, 2024 at 2:00 PM CST. The information in this Addendum is incorporated into any awarded contract. Bidders are required to acknowledge and return/submit a copy of this Addendum 2 with their proposal."},
+        {"file": "Student and Staff Computing Devices __SOURCING #168884__ - Bid Information - {3} _ BidNet Direct.html", "page": null, "location": "Basic Information", "type": "bid_page", "text": "00004079100 Dallas Independent School District RFP - Request for Proposal (Informal) JA-207652 Student and Staff Computing Devices **SOURCING #168884** SCRIBE"},
+        {"file": "Student and Staff Computing Devices __SOURCING #168884__ - Bid Information - {3} _ BidNet Direct.html", "page": null, "location": "Dates", "type": "bid_page", "text": "Publication 05/29/2024 11:16 AM EDT Closing Date 07/09/2024 03:00 PM EDT Prebid Conference 06/10/2024 03:00 PM EDT Questions Due By 06/11/2024 05:00 PM EDT"},
+        {"file": "Student and Staff Computing Devices __SOURCING #168884__ - Bid Information - {3} _ BidNet Direct.html", "page": null, "location": "Description", "type": "bid_page", "text": "Specifications include, but are not limited to: This Request for Proposal (RFP) will be for student and staff computing devices, including laptops, desktops, tablet devices, and display monitors."}
+      ],
+      "supported": {
+        "Bid Number": {"value": "JA-207652", "citations": [{"file": "Student and Staff Computing Devices __SOURCING #168884__ - Bid Information - {3} _ BidNet Direct.html", "page": null, "location": "Basic Information / Solicitation Number"}]},
+        "Title": {"value": "Student and Staff Computing Devices", "citations": [{"file": "Student and Staff Computing Devices __SOURCING #168884__ - Bid Information - {3} _ BidNet Direct.html", "page": null, "location": "Basic Information / Title"}]},
+        "Due Date": {"value": "2024-07-09 14:00 CST", "citations": [{"file": "Addendum 2 RFP JA-207652 Student and Staff Computing Devices.pdf", "page": 1, "location": "New due date"}]},
+        "Bid Submission Type": {"value": "iSupplier electronic portal or sealed manual submission", "citations": [{"file": "JA-207652 Student and Staff Computing Devices FINAL.pdf", "page": 9, "location": "Instructions and Requirements for Offer Submittal"}]},
+        "Term of Bid": {"value": "3-year initial term with two 1-year renewals; maximum 5 years", "citations": [{"file": "JA-207652 Student and Staff Computing Devices FINAL.pdf", "page": 2, "location": "Section 1.2 Terms"}]},
+        "Pre Bid Meeting": {"value": "2024-06-10 14:00 CST", "citations": [{"file": "JA-207652 Student and Staff Computing Devices FINAL.pdf", "page": 2, "location": "Pre-Proposal Meeting"}]},
+        "Installation": {"value": true, "citations": [{"file": "JA-207652 Student and Staff Computing Devices FINAL.pdf", "page": 3, "location": "Deployment Services"}]},
+        "Any Additional Documentation Required": {"items": [
+          {"value": "factory-authorized repair and maintenance certifications", "citations": [{"file": "JA-207652 Student and Staff Computing Devices FINAL.pdf", "page": 3, "location": "Manufacturer or Authorized Reseller Qualifications"}]},
+          {"value": "pertinent literature/documentation", "citations": [{"file": "JA-207652 Student and Staff Computing Devices FINAL.pdf", "page": 9, "location": "Offer Submittal Requirements"}]},
+          {"value": "credit application or similar documentation", "citations": [{"file": "JA-207652 Student and Staff Computing Devices FINAL.pdf", "page": 9, "location": "Offer Submittal Requirements"}]},
+          {"value": "FORM 1295", "citations": [{"file": "Addendum 1 RFP JA-207652 Student and Staff Computing Devices.pdf", "page": 4, "location": "Question 31 / Answer"}, {"file": "JA-207652 Student and Staff Computing Devices FINAL.pdf", "page": 14, "location": "Form 1295"}]},
+          {"value": "supporting documentation", "citations": [{"file": "Addendum 1 RFP JA-207652 Student and Staff Computing Devices.pdf", "page": 4, "location": "Question 32 / Answer"}]},
+          {"value": "Addendum 1", "citations": [{"file": "Addendum 1 RFP JA-207652 Student and Staff Computing Devices.pdf", "page": 5, "location": "Addendum acknowledgment"}]},
+          {"value": "Addendum 2", "citations": [{"file": "Addendum 2 RFP JA-207652 Student and Staff Computing Devices.pdf", "page": 1, "location": "Addendum acknowledgment"}]}
+        ]},
+        "Contract or Cooperative to Use": {"value": "Educational Purchasing Cooperative of North Texas (EPCNT)", "citations": [{"file": "JA-207652 Student and Staff Computing Devices FINAL.pdf", "page": 19, "location": "EPCNT Interlocal Agreement Rider"}]},
+        "Product": {"items": [
+          {"value": "laptops", "citations": [{"file": "JA-207652 Student and Staff Computing Devices FINAL.pdf", "page": 3, "location": "Purpose of Request for Proposal"}, {"file": "Student and Staff Computing Devices __SOURCING #168884__ - Bid Information - {3} _ BidNet Direct.html", "page": null, "location": "Description"}]},
+          {"value": "desktops", "citations": [{"file": "JA-207652 Student and Staff Computing Devices FINAL.pdf", "page": 3, "location": "Purpose of Request for Proposal"}, {"file": "Student and Staff Computing Devices __SOURCING #168884__ - Bid Information - {3} _ BidNet Direct.html", "page": null, "location": "Description"}]},
+          {"value": "tablet devices", "citations": [{"file": "JA-207652 Student and Staff Computing Devices FINAL.pdf", "page": 3, "location": "Purpose of Request for Proposal"}, {"file": "Student and Staff Computing Devices __SOURCING #168884__ - Bid Information - {3} _ BidNet Direct.html", "page": null, "location": "Description"}]},
+          {"value": "display monitors", "citations": [{"file": "JA-207652 Student and Staff Computing Devices FINAL.pdf", "page": 3, "location": "Purpose of Request for Proposal"}, {"file": "Student and Staff Computing Devices __SOURCING #168884__ - Bid Information - {3} _ BidNet Direct.html", "page": null, "location": "Description"}]}
+        ]},
+        "contact_info": {"items": [{"value": "Jasmine Alzate; jalzate@dallasisd.org", "attributes": {"role": "Buyer"}, "citations": [{"file": "JA-207652 Student and Staff Computing Devices FINAL.pdf", "page": 2, "location": "Buyer and Email"}]}]},
+        "company_name": {"items": [{"value": "Dallas Independent School District", "citations": [{"file": "JA-207652 Student and Staff Computing Devices FINAL.pdf", "page": 2, "location": "Section 1.1 / Issuer"}]}]},
+        "Bid Summary": {"value": "The solicitation is titled Student and Staff Computing Devices. The submission deadline is 2024-07-09 14:00 CST. The submission method is iSupplier electronic portal or sealed manual submission. The contract term is 3-year initial term with two 1-year renewals; maximum 5 years. The pre-bid meeting information is 2024-06-10 14:00 CST. Requested products include laptops, desktops, tablet devices, display monitors.", "citations": [{"file": "Student and Staff Computing Devices __SOURCING #168884__ - Bid Information - {3} _ BidNet Direct.html", "page": null, "location": "Basic Information / Title"}, {"file": "Addendum 2 RFP JA-207652 Student and Staff Computing Devices.pdf", "page": 1, "location": "New due date"}, {"file": "JA-207652 Student and Staff Computing Devices FINAL.pdf", "page": 9, "location": "Instructions and Requirements for Offer Submittal"}, {"file": "JA-207652 Student and Staff Computing Devices FINAL.pdf", "page": 2, "location": "Section 1.2 Terms and Pre-Proposal Meeting"}, {"file": "JA-207652 Student and Staff Computing Devices FINAL.pdf", "page": 3, "location": "Purpose of Request for Proposal"}, {"file": "Student and Staff Computing Devices __SOURCING #168884__ - Bid Information - {3} _ BidNet Direct.html", "page": null, "location": "Description"}]},
+        "Product Specification": {"items": [
+          {"value": "Intel Celeron Processor N100 or equivalent", "citations": [{"file": "JA-207652 Student and Staff Computing Devices FINAL.pdf", "page": 4, "location": "Tier 1 student Chromebook processor"}]},
+          {"value": "Memory: Minimum 8GB DDR5 Memory", "citations": [{"file": "JA-207652 Student and Staff Computing Devices FINAL.pdf", "page": 4, "location": "Student Chromebook memory"}]},
+          {"value": "Wireless: 802.11AX WiFi-6E and Bluetooth 5.1", "citations": [{"file": "JA-207652 Student and Staff Computing Devices FINAL.pdf", "page": 4, "location": "Student Chromebook wireless"}]},
+          {"value": "Battery Life: Minimum 10 hours", "citations": [{"file": "JA-207652 Student and Staff Computing Devices FINAL.pdf", "page": 4, "location": "Student Chromebook battery"}]},
+          {"value": "Storage: 64 GB eMMC", "citations": [{"file": "JA-207652 Student and Staff Computing Devices FINAL.pdf", "page": 4, "location": "Tier 1 Chromebook storage"}]},
+          {"value": "Storage: 128 GB eMMC", "citations": [{"file": "JA-207652 Student and Staff Computing Devices FINAL.pdf", "page": 4, "location": "Tier 2 Chromebook storage"}]},
+          {"value": "Memory: Minimum 16GB RAM DDR5 Memory", "citations": [{"file": "JA-207652 Student and Staff Computing Devices FINAL.pdf", "page": 5, "location": "Tier 3 student laptop memory"}]},
+          {"value": "Storage: 256 GB NVMe SSD", "citations": [{"file": "JA-207652 Student and Staff Computing Devices FINAL.pdf", "page": 5, "location": "Tier 3 student laptop storage"}]},
+          {"value": "Windows 11 Pro", "citations": [{"file": "JA-207652 Student and Staff Computing Devices FINAL.pdf", "page": 5, "location": "Tier 3 student laptop operating system"}]},
+          {"value": "Processor A13", "citations": [{"file": "JA-207652 Student and Staff Computing Devices FINAL.pdf", "page": 5, "location": "Student tablet processor"}]},
+          {"value": "Wireless: 802.11AC and Bluetooth 4.2", "citations": [{"file": "JA-207652 Student and Staff Computing Devices FINAL.pdf", "page": 5, "location": "Student tablet wireless"}]},
+          {"value": "Storage: 64 GB", "citations": [{"file": "JA-207652 Student and Staff Computing Devices FINAL.pdf", "page": 5, "location": "Student tablet storage"}]},
+          {"value": "Processor: Intel i5 Processor, 14th Gen or equivalent", "citations": [{"file": "JA-207652 Student and Staff Computing Devices FINAL.pdf", "page": 5, "location": "Tier 1 staff desktop processor"}]},
+          {"value": "Memory: Minimum 16GB RAM", "citations": [{"file": "JA-207652 Student and Staff Computing Devices FINAL.pdf", "page": 5, "location": "Tier 1 staff desktop memory"}]},
+          {"value": "Storage: 512 GB NVMe SSD", "citations": [{"file": "JA-207652 Student and Staff Computing Devices FINAL.pdf", "page": 5, "location": "Tier 1 staff desktop storage"}]},
+          {"value": "Intel i7 Processor, 14th Gen or equivalent", "citations": [{"file": "JA-207652 Student and Staff Computing Devices FINAL.pdf", "page": 5, "location": "Tier 2 staff desktop processor"}]},
+          {"value": "Memory: Minimum 32GB DDR5 RAM", "citations": [{"file": "JA-207652 Student and Staff Computing Devices FINAL.pdf", "page": 5, "location": "Tier 2 staff desktop memory"}]},
+          {"value": "Storage: 1 TB NVMe SSD", "citations": [{"file": "JA-207652 Student and Staff Computing Devices FINAL.pdf", "page": 5, "location": "Tier 2 staff desktop storage"}]},
+          {"value": "Windows 11 Pro or Mac O/S |", "citations": [{"file": "JA-207652 Student and Staff Computing Devices FINAL.pdf", "page": 5, "location": "Tier 2 staff desktop operating system"}]},
+          {"value": "4 GB Video card", "citations": [{"file": "JA-207652 Student and Staff Computing Devices FINAL.pdf", "page": 6, "location": "Tier 2 staff desktop video card"}]},
+          {"value": "Memory: Minimum 16GB DDR5 RAM", "citations": [{"file": "JA-207652 Student and Staff Computing Devices FINAL.pdf", "page": 6, "location": "Staff laptop memory"}]},
+          {"value": "0/S Windows 11 or Mac OS", "citations": [{"file": "JA-207652 Student and Staff Computing Devices FINAL.pdf", "page": 6, "location": "Staff laptop operating system"}]},
+          {"value": "0/S: Windows 11 or Mac OS", "citations": [{"file": "JA-207652 Student and Staff Computing Devices FINAL.pdf", "page": 6, "location": "Staff laptop operating system"}]}
+        ]}
+      },
+      "not_found": ["Bid Bond Requirement", "Delivery Date", "Payment Terms", "MFG for Registration", "Model_no", "Part_no"],
+      "reasons": {
+        "Bid Bond Requirement": "Page 9 refers generally to bid-bond requirements only if noted elsewhere; no specific bid bond or security requirement is stated in the solicitation.",
+        "Delivery Date": "Page 8 asks vendors how quickly they can ship after a purchase order, and Addendum 1 says delivery schedules will be coordinated after award; no fixed delivery date is specified.",
+        "Payment Terms": "No buyer payment terms are stated in the reviewed bid documents; subcontractor payment references are not bidder payment terms.",
+        "MFG for Registration": "The solicitation allows current OEM models and resellers but does not require one manufacturer to be registered.",
+        "Model_no": "The solicitation specifies minimum tiers and allows vendors to propose models; it does not prescribe model numbers.",
+        "Part_no": "The solicitation does not prescribe product part numbers."
+      },
+      "field_notes": {
+        "Due Date": "Addendum 2 controls. The secondary bid page lists 3:00 PM EDT; retain the addendum's printed 2:00 PM CST without converting or guessing.",
+        "Contract or Cooperative to Use": "The cited EPCNT rider is optional. The solicitation also identifies CTPA on page 20; participation there is optional and requires mutual agreement.",
+        "Any Additional Documentation Required": "The reseller certifications and credit application are conditional. Addendum 1 and Addendum 2 refer to required acknowledgment copies. Contract_Affidavit was not identified as a proposal-submission requirement."
+      },
+      "expected_addendum_changes": [{
+        "field": "Due Date",
+        "previous_value": "2024-06-27 14:00",
+        "current_value": "2024-07-09 14:00 CST",
+        "previous_citations": [{"file": "JA-207652 Student and Staff Computing Devices FINAL.pdf", "page": 2, "location": "Section 1.1 / Solicitation Due"}],
+        "current_citations": [{"file": "Addendum 2 RFP JA-207652 Student and Staff Computing Devices.pdf", "page": 1, "location": "New due date"}],
+        "controlling_citation": {"file": "Addendum 2 RFP JA-207652 Student and Staff Computing Devices.pdf", "page": 1, "location": "New due date"},
+        "addendum_number": 2,
+        "review_required": false
+      }]
+    },
+    "Bid2": {
+      "evidence": [
+        {"file": "PORFP_-_Dell_Laptop_Final.pdf", "page": 1, "location": "Section 1 / PORFP Number, Manufacturer, Due Date, Submission Instructions", "type": "rfp", "text": "PORFP Number:\n#E20P4600040\neMMA Project Number: BPM044557\nManufacturer Name\nDell\nPROPOSAL DUE DATE and TIME:\n06/10/2024\nOnly Master Contractors awarded a contract under the Desktop, Laptop and Tablet 2015 Master Contract, 060B5400007 are eligible. Responses are accepted only through the State's eMMA e-Procurement system; no email, fax, mail, or hand delivery."},
+        {"file": "PORFP_-_Dell_Laptop_Final.pdf", "page": 2, "location": "Security Requirements and Invoicing Instructions", "type": "rfp", "text": "Proposals/quotes must remain valid for at least 90 days after the set due date.\nThe Master Contractor must provide a Mercury Affidavit.\nDelivery within 45 days of Award.\nInvoices shall be submitted within 10 days of delivering the equipment.\n7. ENERGY STAR certified product."},
+        {"file": "PORFP_-_Dell_Laptop_Final.pdf", "page": 2, "location": "Section 2 / Agency Division Name", "type": "rfp", "text": "Agency / Division Name:\nState Treasurer's Office/ Information Technology"},
+        {"file": "PORFP_-_Dell_Laptop_Final.pdf", "page": 3, "location": "Agency POC Information", "type": "rfp", "text": "Agency POC Name: Tamaira Hawkins\nAgency POC Phone Number: 410-260-7533\nAgency POC Email Address: thawkins@treasurer.state.md.us"},
+        {"file": "PORFP_-_Dell_Laptop_Final.pdf", "page": 3, "location": "Agency On-site Contact Information", "type": "rfp", "text": "Agency On-site Contact Name: James Simpson\nAgency On-site Phone Number: 410-260-6063\nAgency On-site Email Address: jsimpson@treasurer.state.md.us"},
+        {"file": "PORFP_-_Dell_Laptop_Final.pdf", "page": 3, "location": "Product Schedule / Dell Latitude 5550", "type": "rfp", "text": "Product Name: SI# CC7802 Dell Latitude 5550\nProduct Description: SI# CC7802 Dell Latitude 5550; laptops must be Microsoft Copilot ready\nModel #: SI# CC7802\nQuantity: 30"},
+        {"file": "PORFP_-_Dell_Laptop_Final.pdf", "page": 3, "location": "Product Schedule / Dell Thunderbolt 4 Dock", "type": "rfp", "text": "Product Name: Dell Thunderbolt 4 Dock – WD22TB4\nProduct Description: Dell Thunderbolt 4 Dock – WD22TB4\nModel #: WD22TB4\nQuantity: 30"},
+        {"file": "PORFP_-_Dell_Laptop_Final.pdf", "page": 3, "location": "Warranty Requirements and Deliverables", "type": "rfp", "text": "Dell Limited Hardware Warranty extended for all machines purchased - 3 Years. Warranty certificate or Affidavit to be presented upon award. Date of Delivery; 3 years following the date of delivery."},
+        {"file": "Dell Laptops w_Extended Warranty - Bid Information - {3} _ BidNet Direct.html", "page": null, "location": "Basic Information / Solicitation Number and Title", "type": "bid_page", "text": "Solicitation Number\nBPM044557\nTitle\nDell Laptops w/Extended Warranty\nIssuing Organization\nState of Maryland Treasurer's Office"},
+        {"file": "Dell Laptops w_Extended Warranty - Bid Information - {3} _ BidNet Direct.html", "page": null, "location": "Dates / Closing Date", "type": "bid_page", "text": "Closing Date 06/10/2024 02:00 PM EDT."},
+        {"file": "Dell_Laptop_Specs.pdf", "page": 1, "location": "SKU heading and list", "type": "specs", "content_kind": "text", "text": "SKU\n210-BLYZ\n379-BFNZ\n619-ARSB\n658-BCSB\n338-CNRG\n338-CNRK\n321-BKTQ\n409-BCXY\n631-BBSQ\n370-BBTL\n400-BRFT\n391-BJHB\n583-BLNH\n555-BKQC\n555-BKLQ\n451-BDGX\n492-BDMN\n346-BKLV\n537-BBDO\n340-DMNY\n340-AGIK\n387-BBPC\n817-BBBB\n658-BFQB\n340-DMMK\n389-FGSN\n319-BBKK\n634-BRWG\n379-BDZB"},
+        {"file": "Dell_Laptop_Specs.pdf", "page": 1, "location": "Indexed description block / Dell Latitude 5550", "type": "specs", "content_kind": "text", "text": "Description Dell Latitude 5550 XCTO Base Intel Core Ultra 5 125U processor (12 MB cache, 12 cores, 14 threads, up to 4.3 GHz Turbo) Windows 11 Pro, English, Brazilian Portuguese PT-BR, French, Spanish No Microsoft Office License Included - 30 day Trial Offer Only Assembly Base MTL 5550 Integrated Intel graphics for Intel Core Ultra 5 125U processor Latitude 5550 Bottom Door, MTL U15 Intel Rapid Storage Technology Driver Intel vPro Management Disabled 16 GB: 2 x 8 GB, DDR5, 5600 MT/s (5200 MT/s with 13th Gen Intel Core processors) 256 GB, M.2 2230, TLC, Gen 4 PCIe NVMe, SSD 15.6\", FHD 1920x1080, 60Hz, IPS, Non-Touch, AG, 250 nit, 45% NTSC, FHD Cam"},
+        {"file": "Dell_Laptop_Specs.pdf", "page": 1, "location": {"page_numbers": [1, 2], "source_segments": [{"page_number": 1}, {"page_number": 2}]}, "type": "specs", "content_kind": "text", "section_title": "SI# CC7802 Dell Latitude 5550", "text": "2230, TLC, Gen 4 PCIe NVMe, SSD 15.6\", FHD 1920x1080, 60Hz, IPS, Non-Touch, AG, 250 nit, 45% NTSC, FHD Cam English US backlit AI hotkey keyboard with numeric keypad, 99-key Intel AX211 WLAN Driver Intel Wi-Fi 6E (6 where 6E unavailable) AX211, 2x2, 802.11ax, Bluetooth 5.3 wireless card 3-cell, 54 Wh, ExpressCharge Capable, ExpressCharge Boost Capable 65W AC adapter, USB Type-C, EcoDesign No Security E4 Power Cord 1M for US Latitude 5550 Quick Start Guide SERI Guide (ENG/FR/Multi) ENERGY STAR Qualified Custom Configuration Dell Additional Software Mix Model MTL 65WADPT Intel Core Ultra 5 Non-vPro Label FHD HDR RGB Camera, TNR, Camera Shutter, Microphone Windows AutoPilot EPEAT 2018 Registered (Gold) 362-7806 364-1846 364-4107 365-0257 366-0135 366-0141 371-0941 375-3088"},
+        {"file": "Dell_Laptop_Specs.pdf", "page": 1, "location": {"page_numbers": [1, 2], "source_segments": [{"page_number": 1}, {"page_number": 2}]}, "type": "specs", "content_kind": "text", "section_title": "SI# CC7802 Dell Latitude 5550", "text": "RGB Camera, TNR, Camera Shutter, Microphone Windows AutoPilot EPEAT 2018 Registered (Gold) 362-7806 364-1846 364-4107 365-0257 366-0135 366-0141 371-0941 375-3088 CFI,Information,MIAS, Post Bur n,Factory Install CFI Titan Code for CFI FIDA or Bypass SI CFI,Information, Validation,Se lect Any Microsoft OS CFI Routing SKU Custom Asset Report Consigned Asset Tag CFI,Information Client,Only CFI,Information,CSRouting,Elig ible,Factory Install CFI,LBL,POLY,SML,CC7801,FACTOR Y INSTALL 383-0464 Page 4"},
+        {"file": "Dell_Laptop_Specs.pdf", "page": 2, "location": "Configuration SKU continuation", "type": "specs", "text": "362-7806\n364-1846\n364-4107\n365-0257\n366-0135\n366-0141\n371-0941\n375-3088\nCFI,Information,MIAS, Post Burn,Factory Install\nCFI Titan Code for CFI FIDA or Bypass SI\nCFI,Information, Validation,Select Any Microsoft OS\nCFI Routing SKU\nCustom Asset Report\nConsigned Asset Tag\nCFI,Information Client,Only\nCFI,Information,CSRouting,Eligible,Factory Install\nCFI,LBL,POLY,SML,CC7801,FACTORY INSTALL\n383-0464\nPage 4"},
+        {"file": "Mercury_Affidavit.pdf", "page": 1, "location": "Mercury Affidavit title and certification", "type": "affidavit", "text": "MERCURY AFFIDAVIT. The authorized representative must report whether offered products contain mercury and provide product/component and amount details if applicable."},
+        {"file": "Contract_Affidavit.pdf", "page": 1, "location": "Contract Affidavit title", "type": "affidavit", "text": "Contract Affidavit. Blank form for an authorized representative to certify business registration and other state contract affirmations."}
+      ],
+      "supported": {
+        "Bid Number": {"value": "E20P4600040", "citations": [{"file": "PORFP_-_Dell_Laptop_Final.pdf", "page": 1, "location": "Section 1 / PORFP Number"}]},
+        "Title": {"value": "Dell Laptops w/Extended Warranty", "citations": [{"file": "Dell Laptops w_Extended Warranty - Bid Information - {3} _ BidNet Direct.html", "page": null, "location": "Basic Information / Title"}]},
+        "Due Date": {"value": "2024-06-10 14:00 EDT", "citations": [{"file": "PORFP_-_Dell_Laptop_Final.pdf", "page": 1, "location": "Proposal Due Date and Time"}, {"file": "Dell Laptops w_Extended Warranty - Bid Information - {3} _ BidNet Direct.html", "page": null, "location": "Dates / Closing Date"}]},
+        "Bid Submission Type": {"value": "eMMA e-Procurement system", "citations": [{"file": "PORFP_-_Dell_Laptop_Final.pdf", "page": 1, "location": "Bid Submission Instructions"}]},
+        "Delivery Date": {"value": "Within 45 days of award", "citations": [{"file": "PORFP_-_Dell_Laptop_Final.pdf", "page": 2, "location": "Security Requirements item 9"}]},
+        "Payment Terms": {"value": "Invoices must be submitted within 10 days of delivery", "citations": [{"file": "PORFP_-_Dell_Laptop_Final.pdf", "page": 2, "location": "Invoicing Instructions item 2"}]},
+        "Any Additional Documentation Required": {"items": [
+          {"value": "Mercury Affidavit", "citations": [{"file": "PORFP_-_Dell_Laptop_Final.pdf", "page": 2, "location": "Security Requirements item 8"}]},
+          {"value": "Warranty certificate or Affidavit", "citations": [{"file": "PORFP_-_Dell_Laptop_Final.pdf", "page": 3, "location": "Warranty Requirements / Deliverables"}]}
+        ]},
+        "MFG for Registration": {"value": "Dell", "citations": [{"file": "PORFP_-_Dell_Laptop_Final.pdf", "page": 1, "location": "Manufacturer Name"}]},
+        "Contract or Cooperative to Use": {"value": "Desktop, Laptop and Tablet 2015 Master Contract, 060B5400007", "citations": [{"file": "PORFP_-_Dell_Laptop_Final.pdf", "page": 1, "location": "Limited to Master Contractors"}]},
+        "Model_no": {"items": [
+          {"value": "SI# CC7802", "citations": [{"file": "PORFP_-_Dell_Laptop_Final.pdf", "page": 3, "location": "Product 1 / Model #"}]},
+          {"value": "WD22TB4", "citations": [{"file": "PORFP_-_Dell_Laptop_Final.pdf", "page": 3, "location": "Product 2 / Model #"}]}
+        ]},
+        "Part_no": {"items": [
+          {"value": "210-BLYZ", "citations": [{"file": "Dell_Laptop_Specs.pdf", "page": 1, "location": "SKU list"}]},
+          {"value": "379-BFNZ", "citations": [{"file": "Dell_Laptop_Specs.pdf", "page": 1, "location": "SKU list"}]},
+          {"value": "619-ARSB", "citations": [{"file": "Dell_Laptop_Specs.pdf", "page": 1, "location": "SKU list"}]},
+          {"value": "658-BCSB", "citations": [{"file": "Dell_Laptop_Specs.pdf", "page": 1, "location": "SKU list"}]},
+          {"value": "338-CNRG", "citations": [{"file": "Dell_Laptop_Specs.pdf", "page": 1, "location": "SKU list"}]},
+          {"value": "338-CNRK", "citations": [{"file": "Dell_Laptop_Specs.pdf", "page": 1, "location": "SKU list"}]},
+          {"value": "321-BKTQ", "citations": [{"file": "Dell_Laptop_Specs.pdf", "page": 1, "location": "SKU list"}]},
+          {"value": "409-BCXY", "citations": [{"file": "Dell_Laptop_Specs.pdf", "page": 1, "location": "SKU list"}]},
+          {"value": "631-BBSQ", "citations": [{"file": "Dell_Laptop_Specs.pdf", "page": 1, "location": "SKU list"}]},
+          {"value": "370-BBTL", "citations": [{"file": "Dell_Laptop_Specs.pdf", "page": 1, "location": "SKU list"}]},
+          {"value": "400-BRFT", "citations": [{"file": "Dell_Laptop_Specs.pdf", "page": 1, "location": "SKU list"}]},
+          {"value": "391-BJHB", "citations": [{"file": "Dell_Laptop_Specs.pdf", "page": 1, "location": "SKU list"}]},
+          {"value": "583-BLNH", "citations": [{"file": "Dell_Laptop_Specs.pdf", "page": 1, "location": "SKU list"}]},
+          {"value": "555-BKQC", "citations": [{"file": "Dell_Laptop_Specs.pdf", "page": 1, "location": "SKU list"}]},
+          {"value": "555-BKLQ", "citations": [{"file": "Dell_Laptop_Specs.pdf", "page": 1, "location": "SKU list"}]},
+          {"value": "451-BDGX", "citations": [{"file": "Dell_Laptop_Specs.pdf", "page": 1, "location": "SKU list"}]},
+          {"value": "492-BDMN", "citations": [{"file": "Dell_Laptop_Specs.pdf", "page": 1, "location": "SKU list"}]},
+          {"value": "346-BKLV", "citations": [{"file": "Dell_Laptop_Specs.pdf", "page": 1, "location": "SKU list"}]},
+          {"value": "537-BBDO", "citations": [{"file": "Dell_Laptop_Specs.pdf", "page": 1, "location": "SKU list"}]},
+          {"value": "340-DMNY", "citations": [{"file": "Dell_Laptop_Specs.pdf", "page": 1, "location": "SKU list"}]},
+          {"value": "340-AGIK", "citations": [{"file": "Dell_Laptop_Specs.pdf", "page": 1, "location": "SKU list"}]},
+          {"value": "387-BBPC", "citations": [{"file": "Dell_Laptop_Specs.pdf", "page": 1, "location": "SKU list"}]},
+          {"value": "817-BBBB", "citations": [{"file": "Dell_Laptop_Specs.pdf", "page": 1, "location": "SKU list"}]},
+          {"value": "658-BFQB", "citations": [{"file": "Dell_Laptop_Specs.pdf", "page": 1, "location": "SKU list"}]},
+          {"value": "340-DMMK", "citations": [{"file": "Dell_Laptop_Specs.pdf", "page": 1, "location": "SKU list"}]},
+          {"value": "389-FGSN", "citations": [{"file": "Dell_Laptop_Specs.pdf", "page": 1, "location": "SKU list"}]},
+          {"value": "319-BBKK", "citations": [{"file": "Dell_Laptop_Specs.pdf", "page": 1, "location": "SKU list"}]},
+          {"value": "634-BRWG", "citations": [{"file": "Dell_Laptop_Specs.pdf", "page": 1, "location": "SKU list"}]},
+          {"value": "379-BDZB", "citations": [{"file": "Dell_Laptop_Specs.pdf", "page": 1, "location": "SKU list"}]},
+          {"value": "362-7806", "citations": [{"file": "Dell_Laptop_Specs.pdf", "page": 2, "location": "Configuration SKU continuation"}]},
+          {"value": "364-1846", "citations": [{"file": "Dell_Laptop_Specs.pdf", "page": 2, "location": "Configuration SKU continuation"}]},
+          {"value": "364-4107", "citations": [{"file": "Dell_Laptop_Specs.pdf", "page": 2, "location": "Configuration SKU continuation"}]},
+          {"value": "365-0257", "citations": [{"file": "Dell_Laptop_Specs.pdf", "page": 2, "location": "Configuration SKU continuation"}]},
+          {"value": "366-0135", "citations": [{"file": "Dell_Laptop_Specs.pdf", "page": 2, "location": "Configuration SKU continuation"}]},
+          {"value": "366-0141", "citations": [{"file": "Dell_Laptop_Specs.pdf", "page": 2, "location": "Configuration SKU continuation"}]},
+          {"value": "371-0941", "citations": [{"file": "Dell_Laptop_Specs.pdf", "page": 2, "location": "Configuration SKU continuation"}]},
+          {"value": "375-3088", "citations": [{"file": "Dell_Laptop_Specs.pdf", "page": 2, "location": "Configuration SKU continuation"}]},
+          {"value": "383-0464", "citations": [{"file": "Dell_Laptop_Specs.pdf", "page": 2, "location": "Configuration SKU continuation"}]}
+        ]},
+        "Product": {"items": [
+          {"value": "Dell Latitude 5550", "attributes": {"quantity": 30, "model_no": "SI# CC7802"}, "citations": [{"file": "PORFP_-_Dell_Laptop_Final.pdf", "page": 3, "location": "Product 1"}]},
+          {"value": "Dell Thunderbolt 4 Dock – WD22TB4", "attributes": {"quantity": 30, "model_no": "WD22TB4"}, "citations": [{"file": "PORFP_-_Dell_Laptop_Final.pdf", "page": 3, "location": "Product 2"}]}
+        ]},
+        "contact_info": {"items": [
+          {"value": "Tamaira Hawkins; 410-260-7533; thawkins@treasurer.state.md.us", "attributes": {"role": "Agency POC"}, "citations": [{"file": "PORFP_-_Dell_Laptop_Final.pdf", "page": 3, "location": "Agency POC Information"}]},
+          {"value": "James Simpson; 410-260-6063; jsimpson@treasurer.state.md.us", "attributes": {"role": "Agency On-site Contact"}, "citations": [{"file": "PORFP_-_Dell_Laptop_Final.pdf", "page": 3, "location": "Work Site POC Information"}]}
+        ]},
+        "company_name": {"items": [{"value": "State Treasurer's Office/ Information Technology", "citations": [{"file": "PORFP_-_Dell_Laptop_Final.pdf", "page": 2, "location": "Agency / Division Name"}]}]},
+        "Bid Summary": {"value": "The solicitation is titled Dell Laptops w/Extended Warranty. The submission deadline is 2024-06-10 14:00 EDT. The submission method is eMMA e-Procurement system. The delivery requirement is Within 45 days of award. Payment terms are Invoices must be submitted within 10 days of delivery. Requested products include Dell Latitude 5550, Dell Thunderbolt 4 Dock – WD22TB4.", "citations": [{"file": "Dell Laptops w_Extended Warranty - Bid Information - {3} _ BidNet Direct.html", "page": null, "location": "Basic Information / Title"}, {"file": "Dell Laptops w_Extended Warranty - Bid Information - {3} _ BidNet Direct.html", "page": null, "location": "Dates / Closing Date"}, {"file": "PORFP_-_Dell_Laptop_Final.pdf", "page": 1, "location": "Bid Submission Instructions"}, {"file": "PORFP_-_Dell_Laptop_Final.pdf", "page": 2, "location": "Security Requirements and Invoicing Instructions"}, {"file": "PORFP_-_Dell_Laptop_Final.pdf", "page": 3, "location": "Product Schedule"}]},
+        "Product Specification": {"items": [
+          {"value": "Microsoft Copilot ready", "citations": [{"file": "PORFP_-_Dell_Laptop_Final.pdf", "page": 3, "location": "Product 1 / Product Description"}]},
+          {"value": "7. ENERGY STAR certified product", "citations": [{"file": "PORFP_-_Dell_Laptop_Final.pdf", "page": 2, "location": "Security Requirements item 7"}]},
+          {"value": "Description Dell Latitude 5550 XCTO Base Intel Core Ultra 5 125U processor (12 MB cache, 12 cores, 14 threads, up to 4.3 GHz Turbo) Windows 11 Pro, English, Brazilian Portuguese PT-BR, French, Spanish No Microsoft Office License Included - 30 day Trial Offer Only Assembly Base MTL 5550 Integrated Intel graphics for Intel Core Ultra 5 125U processor Latitude 5550 Bottom Door, MTL U15 Intel Rapid Storage Technology Driver Intel vPro Management Disabled 16 GB: 2 x 8 GB, DDR5, 5600 MT/s (5200 MT/s with 13th Gen Intel Core processors) 256 GB, M.2 2230, TLC, Gen 4 PCIe NVMe, SSD 15.6\", FHD 1920x1080, 60Hz, IPS, Non-Touch, AG, 250 nit, 45% NTSC, FHD Cam", "citations": [{"file": "Dell_Laptop_Specs.pdf", "page": 1, "location": "Indexed description block / Dell Latitude 5550"}]},
+          {"value": "2230, TLC, Gen 4 PCIe NVMe, SSD 15.6\", FHD 1920x1080, 60Hz, IPS, Non-Touch, AG, 250 nit, 45% NTSC, FHD Cam English US backlit AI hotkey keyboard with numeric keypad, 99-key Intel AX211 WLAN Driver Intel Wi-Fi 6E (6 where 6E unavailable) AX211, 2x2, 802.11ax, Bluetooth 5.3 wireless card 3-cell, 54 Wh, ExpressCharge Capable, ExpressCharge Boost Capable 65W AC adapter, USB Type-C, EcoDesign No Security E4 Power Cord 1M for US Latitude 5550 Quick Start Guide SERI Guide (ENG/FR/Multi) ENERGY STAR Qualified Custom Configuration Dell Additional Software Mix Model MTL 65WADPT Intel Core Ultra 5 Non-vPro Label FHD HDR RGB Camera, TNR, Camera Shutter, Microphone Windows AutoPilot EPEAT 2018 Registered (Gold) 362-7806 364-1846 364-4107 365-0257 366-0135 366-0141 371-0941 375-3088", "citations": [{"file": "Dell_Laptop_Specs.pdf", "page": 1, "location": "Indexed configuration block / Dell Latitude 5550"}, {"file": "Dell_Laptop_Specs.pdf", "page": 2, "location": "Indexed configuration block / Dell Latitude 5550"}]},
+          {"value": "RGB Camera, TNR, Camera Shutter, Microphone Windows AutoPilot EPEAT 2018 Registered (Gold) 362-7806 364-1846 364-4107 365-0257 366-0135 366-0141 371-0941 375-3088 CFI,Information,MIAS, Post Bur n,Factory Install CFI Titan Code for CFI FIDA or Bypass SI CFI,Information, Validation,Se lect Any Microsoft OS CFI Routing SKU Custom Asset Report Consigned Asset Tag CFI,Information Client,Only CFI,Information,CSRouting,Elig ible,Factory Install CFI,LBL,POLY,SML,CC7801,FACTOR Y INSTALL 383-0464 Page 4", "citations": [{"file": "Dell_Laptop_Specs.pdf", "page": 1, "location": "Indexed CFI configuration block / Dell Latitude 5550"}, {"file": "Dell_Laptop_Specs.pdf", "page": 2, "location": "Indexed CFI configuration block / Dell Latitude 5550"}]}
+        ]}
+      },
+      "not_found": ["Term of Bid", "Pre Bid Meeting", "Installation", "Bid Bond Requirement"],
+      "reasons": {
+        "Term of Bid": "The 90-day clause on page 2 is proposal validity after the due date, not the duration of the resulting contract; no contract duration is specified.",
+        "Pre Bid Meeting": "No pre-bid meeting is listed in the PORFP or bid-page details.",
+        "Installation": "The PORFP specifies products, delivery, and warranty but no installation service.",
+        "Bid Bond Requirement": "No bid bond or bid security requirement is stated in the PORFP."
+      },
+      "field_notes": {
+        "Bid Number": "E20P4600040 is the PORFP Number; BPM044557 is the separate eMMA Project Number.",
+        "Due Date": "The PORFP states the date only; the BidNet solicitation details state the time and EDT timezone.",
+        "Any Additional Documentation Required": "Contract_Affidavit.pdf is present in the source folder, but the reviewed PORFP does not state that it is required with the proposal.",
+        "Part_no": "The 29 explicitly headed SKUs on page 1 and the nine continuation codes on page 2 are listed in the Dell specification quote and cited to their physical page segments."
+      },
+      "expected_addendum_changes": []
+    },
+    "Unseen District Bid": {
+      "evidence": [{"file": "new-bid.html", "page": null, "location": "body", "type": "bid_page", "text": "New bid deadline October 31"}],
+      "supported": {"Due Date": {"value": "October 31", "citations": [{"file": "new-bid.html", "page": null, "location": "body"}]}},
+      "not_found": ["Bid Number", "Title", "Bid Submission Type", "Term of Bid", "Pre Bid Meeting", "Installation", "Bid Bond Requirement", "Delivery Date", "Payment Terms", "Any Additional Documentation Required", "MFG for Registration", "Contract or Cooperative to Use", "Model_no", "Part_no", "Product", "contact_info", "company_name", "Bid Summary", "Product Specification"]
+    }
+  },
+  "scenarios": [
+    {"name": "missing evidence", "bid_id": "Missing evidence bid", "field": "Payment Terms", "expected_status": "not_found", "evidence": []},
+    {"name": "tied conflicting addenda", "bid_id": "Conflicting bid", "field": "Due Date", "expected_status": "review_required", "expected_citations": ["current.pdf", "old.pdf"], "evidence": [
+      {"file": "base.pdf", "page": 1, "type": "rfp", "text": "Submission deadline: October 10."},
+      {"file": "current.pdf", "page": 1, "type": "addendum", "addendum_number": 2, "document_date": "2026-10-01", "authority_status": "current", "text": "Submission deadline: October 20."},
+      {"file": "old.pdf", "page": 1, "type": "addendum", "addendum_number": 2, "document_date": "2026-10-01", "authority_status": "superseded", "text": "Submission deadline: October 25."}
+    ]},
+    {"name": "field-wide addendum update", "bid_id": "Updated payment bid", "field": "Payment Terms", "expected_status": "supported", "expected_value": "Net 45", "previous_value": "Net 30", "evidence": [
+      {"file": "base.pdf", "page": 1, "type": "rfp", "text": "Payment terms: Net 30."},
+      {"file": "addendum-1.pdf", "page": 2, "type": "addendum", "addendum_number": 1, "text": "Payment terms: Net 45."}
+    ]}
+  ]
+}
